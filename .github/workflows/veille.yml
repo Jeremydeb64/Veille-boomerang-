@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}    # bouton « Run workflow » pour lancer à la main
   push:                    # relance aussi quand on modifie le script ou les sources
     branches: [main]
-    paths: ["fetch.py", "sources.yml", ".github/workflows/veille.yml"]
+    paths: ["fetch.py", "sources.yml", ".github/workflows/veille.yml", ".refresh"]   # .refresh = bouton « Rafraîchir maintenant »
 
 permissions:
   contents: write
@@ -17,6 +17,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - run: git pull --rebase origin main || true
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
