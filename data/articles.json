@@ -1,7 +1,15 @@
 {
- "generated_at": "2026-10-29T21:12:29.909233+00:00",
+ "generated_at": "2026-10-29T21:36:45.588059+00:00",
  "window_hours": 36,
  "articles": [
+  {
+   "title": "A Genève, l’histoire sans fin de la loi climat",
+   "link": "https://www.letemps.ch/articles/a-geneve-l-histoire-sans-fin-de-la-loi-climat",
+   "date": "2026-10-29T22:12:57+01:00",
+   "summary": "La loi genevoise sur le climat s’est une nouvelle fois invitée à l’ordre du jour du parlement. Redoutant qu’elle ne soit adoptée dans une version «édulcorée», la gauche a préféré soutenir un renvoi en commission La revoilà. Pour la troisième fois depuis son dépôt par le…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
   {
    "title": "«Ohne den Schluss zu kennen, beginne ich keinen Roman»",
    "link": "https://www.persoenlich.com/kategorie-werbung/ohne-den-schluss-zu-kennen-beginne-ich-keinen-roman",
@@ -383,14 +391,6 @@
    "link": "https://www.letemps.ch/articles/dans-le-rouge-au-troisieme-trimestre-volkswagen-accelere-sa-restructuration-face-a-l-effondrement-chinois",
    "date": "2026-10-29T17:12:20+01:00",
    "summary": "Le constructeur allemand subit de plein fouet l’offensive des marques locales chinoises, qui imposent leurs véhicules électriques à prix agressifs. Le groupe a enregistré une perte de 5,8 milliards d'euros au troisième trimestre Le géant automobile en crise Volkswagen a appelé…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Pourquoi la pénurie de logements empêche des milliers de ménages de se former",
-   "link": "https://www.letemps.ch/articles/pourquoi-la-penurie-de-logements-empeche-des-milliers-de-menages-de-se-former",
-   "date": "2026-10-29T17:00:29+01:00",
-   "summary": "Faute de logements disponibles, 20 000 à 30 000 ménages n’ont pas pu se former en Suisse ces trois dernières années, selon une estimation de Wüest Partner. Une situation qui contraint des jeunes à rester chez leurs parents et incite des habitants des grands centres à s’installer…",
    "source": "Le Temps",
    "section": "romandie"
   },
@@ -1593,46 +1593,6 @@
    "summary": "Le paradoxe est révélateur de l’évolution du marché suisse. Alors que le chiffre d’affaires du commerce de détail progresse de 2,2 % à fin septembre 2026, selon le NIQ Markt Monitor de NielsenIQ, le climat de consommation demeure morose. L’indicateur de confiance des ménages…",
    "source": "Cominmag",
    "section": "com-suisse"
-  },
-  {
-   "title": "Spam UGC : Google cible désormais les outils qui génèrent des pages, des contenus et des web apps",
-   "link": "https://www.abondance.com/20261028-3044331-spam-ugc-google-outils-generation-pages.html",
-   "date": "2026-10-28T09:22:56+00:00",
-   "summary": "Ce qu'il faut retenir : Google a mis à jour sa page d'aide « Prevent user-generated spam on your site and platform » pour y inclure les outils permettant de publier des pages partagées, des contenus générés et des web apps. Une nouvelle section, « Only index content meant for…",
-   "source": "Abondance",
-   "section": "com-france"
-  },
-  {
-   "title": "#Study: AI and WhatsApp are reshaping Black Friday 2026 in Switzerland",
-   "link": "https://cominmag.ch/en/study-ai-and-whatsapp-are-reshaping-black-friday-2026-in-switzerland/",
-   "date": "2026-10-28T09:18:33+00:00",
-   "summary": "Black Friday is no longer just about prices. According to the tenth edition of the blackfriday.ch Observatory, Swiss consumers plan to increase their spending whilst diversifying their sources of information. With artificial intelligence, private messaging apps and longer…",
-   "source": "Cominmag",
-   "section": "com-suisse"
-  },
-  {
-   "title": "#Studie: KI und WhatsApp mischen den Black Friday 2026 in der Schweiz neu auf",
-   "link": "https://cominmag.ch/de/studie-ki-und-whatsapp-mischen-den-black-friday-2026-in-der-schweiz-neu-auf/",
-   "date": "2026-10-28T09:16:17+00:00",
-   "summary": "Beim Black Friday geht es nicht mehr nur um die Preise. Laut der zehnten Ausgabe des Observatoire von blackfriday.ch planen die Schweizer Konsumenten, ihre Ausgaben zu erhöhen und gleichzeitig ihre Informationsquellen zu diversifizieren. Angesichts von künstlicher Intelligenz,…",
-   "source": "Cominmag",
-   "section": "com-suisse"
-  },
-  {
-   "title": "Von «Goumin» bis «Bursa»: Die Wörter der jungen Schweizer erzählen von einer Generation zwischen lokalen Kulturen und globalen Netzwerken",
-   "link": "https://cominmag.ch/de/von-goumin-bis-bursa-die-worter-der-jungen-schweizer-erzahlen-von-einer-generation-zwischen-lokalen-kulturen-und-globalen-netzwerken/",
-   "date": "2026-10-28T09:14:29+00:00",
-   "summary": "Anlässlich ihrer ersten Ausgabe im Jahr 2026 präsentiert die von der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) organisierte Wahl zum Jugendwort des Jahres vier Ausdrücke, die für die Schweizer Jugend stehen: «goumin» in der Westschweiz, «würd mi» in der…",
-   "source": "Cominmag",
-   "section": "com-suisse"
-  },
-  {
-   "title": "5 choses à savoir sur Anthropic avant son entrée en Bourse",
-   "link": "https://www.blogdumoderateur.com/5-choses-a-savoir-anthropic-entree-bourse/",
-   "date": "2026-10-28T09:13:58+00:00",
-   "summary": "L’éditeur de Claude a publié son document d’introduction en Bourse, qui détaille pour la première fois ses comptes. Jérôme Marin, fondateur de Cafétech, nous aide à y voir plus clair.",
-   "source": "Blog du Modérateur",
-   "section": "com-france"
   }
  ]
 }
