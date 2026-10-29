@@ -1,0 +1,62 @@
+# Sources de la veille Boomerang
+# section : valais | romandie | com-suisse | com-france | international
+# Ajouter une source = ajouter un bloc. Une URL fausse est simplement signalée dans data/status.json.
+
+- name: Le Nouvelliste
+  section: valais
+  url: https://www.lenouvelliste.ch/rss
+- name: Canal9
+  section: valais
+  url: https://canal9.ch/feed/
+- name: RTS Info
+  section: romandie
+  url: https://www.rts.ch/info/?format=rss/news
+- name: Le Temps
+  section: romandie
+  url: https://www.letemps.ch/feed
+- name: Heidi.news
+  section: romandie
+  url: https://www.heidi.news/rss
+- name: watson.ch
+  section: romandie
+  url: https://www.watson.ch/fr/api/1.0/rss/index.xml
+- name: persoenlich.com
+  section: com-suisse
+  url: https://www.persoenlich.com/rss/news.xml
+- name: Kleinreport
+  section: com-suisse
+  url: https://www.kleinreport.ch/rss/
+- name: Cominmag
+  section: com-suisse
+  url: https://www.cominmag.ch/feed/
+- name: Blog du Modérateur
+  section: com-france
+  url: https://www.blogdumoderateur.com/feed/
+- name: CB News
+  section: com-france
+  url: https://www.cbnews.fr/rss.xml
+- name: Stratégies
+  section: com-france
+  url: https://www.strategies.fr/rss
+- name: Siècle Digital
+  section: com-france
+  url: https://siecledigital.fr/feed/
+- name: Abondance
+  section: com-france
+  url: https://www.abondance.com/feed
+- name: Adweek
+  section: international
+  url: https://www.adweek.com/feed/
+- name: Digiday
+  section: international
+  url: https://digiday.com/feed/
+- name: Nieman Lab
+  section: international
+  url: https://www.niemanlab.org/feed/
+- name: Search Engine Land
+  section: international
+  url: https://searchengineland.com/feed
+- name: HugoDécrypte (podcast)
+  section: international
+  url: https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621
+  summary_max: 4000   # description complète : liste des sujets de l'épisode
