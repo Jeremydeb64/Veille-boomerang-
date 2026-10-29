@@ -87,6 +87,39 @@ def fetch(url):
         return r.read()
 
 
+COMMON_PATHS = ["/feed/", "/rss", "/rss.xml", "/feed.xml", "/feeds/all.rss", "/rss/news", "/fr/rss", "/rss/all.xml", "/atom.xml"]
+
+
+def looks_like_feed(raw):
+    head = raw[:600].decode("utf-8", errors="ignore").lower()
+    return "<rss" in head or "<feed" in head or "<rdf" in head
+
+
+def discover(site):
+    """Cherche le flux d'un site : balise <link rel=alternate> de la page d'accueil, puis chemins courants."""
+    from urllib.parse import urljoin
+    tried = []
+    try:
+        page = fetch(site).decode("utf-8", errors="ignore")
+        for m in re.finditer(r"<link[^>]+>", page, re.I):
+            tag = m.group(0)
+            if re.search(r"application/(rss|atom)\+xml", tag, re.I):
+                href = re.search(r'href=["\']([^"\']+)', tag, re.I)
+                if href:
+                    tried.append(urljoin(site, html.unescape(href.group(1))))
+    except Exception:
+        pass
+    tried += [site.rstrip("/") + p for p in COMMON_PATHS]
+    for url in tried:
+        try:
+            raw = fetch(url)
+            if looks_like_feed(raw):
+                return url, raw
+        except Exception:
+            continue
+    return None, None
+
+
 def main():
     sources = yaml.safe_load((ROOT / "sources.yml").read_text(encoding="utf-8"))
     now = datetime.now(timezone.utc)
@@ -95,7 +128,18 @@ def main():
     for s in sources:
         entry = {"name": s["name"], "section": s["section"], "url": s["url"]}
         try:
-            items = parse_feed(fetch(s["url"]), s.get("summary_max", SUMMARY_MAX))
+            try:
+                raw = fetch(s["url"])
+                if not looks_like_feed(raw):
+                    raise ValueError("pas un flux")
+            except Exception:
+                if not s.get("site"):
+                    raise
+                found, raw = discover(s["site"])
+                if not found:
+                    raise ValueError("aucun flux trouvé sur " + s["site"])
+                entry["discovered_url"] = found
+            items = parse_feed(raw, s.get("summary_max", SUMMARY_MAX))
             kept = 0
             for a in items:
                 if not a["title"] or not a["link"] or a["link"] in seen:

@@ -5,6 +5,7 @@
 - name: Le Nouvelliste
   section: valais
   url: https://www.lenouvelliste.ch/rss
+  site: https://www.lenouvelliste.ch/
 - name: Canal9
   section: valais
   url: https://canal9.ch/feed/
@@ -17,6 +18,7 @@
 - name: Heidi.news
   section: romandie
   url: https://www.heidi.news/rss
+  site: https://www.heidi.news/
 - name: watson.ch
   section: romandie
   url: https://www.watson.ch/fr/api/1.0/rss/index.xml
@@ -26,6 +28,7 @@
 - name: Kleinreport
   section: com-suisse
   url: https://www.kleinreport.ch/rss/
+  site: https://www.kleinreport.ch/
 - name: Cominmag
   section: com-suisse
   url: https://www.cominmag.ch/feed/
@@ -38,6 +41,7 @@
 - name: Stratégies
   section: com-france
   url: https://www.strategies.fr/rss
+  site: https://www.strategies.fr/
 - name: Siècle Digital
   section: com-france
   url: https://siecledigital.fr/feed/
@@ -56,6 +60,7 @@
 - name: Search Engine Land
   section: international
   url: https://searchengineland.com/feed
+  site: https://searchengineland.com/
 - name: HugoDécrypte (podcast)
   section: international
   url: https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621
