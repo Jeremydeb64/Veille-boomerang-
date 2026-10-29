@@ -1,0 +1,153 @@
+{
+ "generated_at": "2026-10-29T20:54:11.941011+00:00",
+ "window_hours": 36,
+ "sources": [
+  {
+   "name": "Le Nouvelliste",
+   "section": "valais",
+   "url": "https://www.lenouvelliste.ch/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "name": "Canal9",
+   "section": "valais",
+   "url": "https://canal9.ch/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "kept": 10
+  },
+  {
+   "name": "RTS Info",
+   "section": "romandie",
+   "url": "https://www.rts.ch/info/?format=rss/news",
+   "ok": true,
+   "items_in_feed": 25,
+   "kept": 25
+  },
+  {
+   "name": "Le Temps",
+   "section": "romandie",
+   "url": "https://www.letemps.ch/feed",
+   "ok": true,
+   "items_in_feed": 21,
+   "kept": 21
+  },
+  {
+   "name": "Heidi.news",
+   "section": "romandie",
+   "url": "https://www.heidi.news/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "name": "watson.ch",
+   "section": "romandie",
+   "url": "https://www.watson.ch/fr/api/1.0/rss/index.xml",
+   "ok": true,
+   "items_in_feed": 126,
+   "kept": 65
+  },
+  {
+   "name": "persoenlich.com",
+   "section": "com-suisse",
+   "url": "https://www.persoenlich.com/rss/news.xml",
+   "ok": true,
+   "items_in_feed": 10,
+   "kept": 10
+  },
+  {
+   "name": "Kleinreport",
+   "section": "com-suisse",
+   "url": "https://www.kleinreport.ch/rss/",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: NOT FOUND"
+  },
+  {
+   "name": "Cominmag",
+   "section": "com-suisse",
+   "url": "https://www.cominmag.ch/feed/",
+   "ok": true,
+   "items_in_feed": 20,
+   "kept": 20
+  },
+  {
+   "name": "Blog du Modérateur",
+   "section": "com-france",
+   "url": "https://www.blogdumoderateur.com/feed/",
+   "ok": true,
+   "items_in_feed": 30,
+   "kept": 9
+  },
+  {
+   "name": "CB News",
+   "section": "com-france",
+   "url": "https://www.cbnews.fr/rss.xml",
+   "ok": true,
+   "items_in_feed": 10,
+   "kept": 10
+  },
+  {
+   "name": "Stratégies",
+   "section": "com-france",
+   "url": "https://www.strategies.fr/rss",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "name": "Siècle Digital",
+   "section": "com-france",
+   "url": "https://siecledigital.fr/feed/",
+   "ok": true,
+   "items_in_feed": 20,
+   "kept": 12
+  },
+  {
+   "name": "Abondance",
+   "section": "com-france",
+   "url": "https://www.abondance.com/feed",
+   "ok": true,
+   "items_in_feed": 10,
+   "kept": 3
+  },
+  {
+   "name": "Adweek",
+   "section": "international",
+   "url": "https://www.adweek.com/feed/",
+   "ok": true,
+   "items_in_feed": 10,
+   "kept": 10
+  },
+  {
+   "name": "Digiday",
+   "section": "international",
+   "url": "https://digiday.com/feed/",
+   "ok": true,
+   "items_in_feed": 15,
+   "kept": 5
+  },
+  {
+   "name": "Nieman Lab",
+   "section": "international",
+   "url": "https://www.niemanlab.org/feed/",
+   "ok": true,
+   "items_in_feed": 30,
+   "kept": 5
+  },
+  {
+   "name": "Search Engine Land",
+   "section": "international",
+   "url": "https://searchengineland.com/feed",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "name": "HugoDécrypte (podcast)",
+   "section": "international",
+   "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
+   "ok": true,
+   "items_in_feed": 1985,
+   "kept": 4
+  }
+ ]
+}
