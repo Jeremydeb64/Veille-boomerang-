@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T19:42:57.872371+00:00",
+ "generated_at": "2026-10-30T23:16:40.589754+00:00",
  "window_hours": 36,
  "sources": [
   {
@@ -46,7 +46,7 @@
    "url": "https://www.watson.ch/fr/api/1.0/rss/index.xml",
    "ok": true,
    "items_in_feed": 126,
-   "kept": 22
+   "kept": 2
   },
   {
    "name": "persoenlich.com",
@@ -67,8 +67,9 @@
    "name": "Cominmag",
    "section": "com-suisse",
    "url": "https://www.cominmag.ch/feed/",
-   "ok": false,
-   "error": "IncompleteRead: IncompleteRead(16596 bytes read)"
+   "ok": true,
+   "items_in_feed": 20,
+   "kept": 9
   },
   {
    "name": "Blog du Modérateur",
@@ -76,7 +77,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 7
+   "kept": 4
   },
   {
    "name": "CB News",
@@ -107,7 +108,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 4
+   "kept": 3
   },
   {
    "name": "Adweek",
