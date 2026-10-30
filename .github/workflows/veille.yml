@@ -2,11 +2,7 @@ name: Veille RSS
 
 on:
   schedule:
-    # Passages avant chaque édition (heures UTC). GitHub peut retarder un horaire planifié.
-    - cron: "20 6 * * *"    # 07:20 heure suisse (hiver), avant l'édition de 8h
-    - cron: "40 6 * * *"    # second passage de secours
-    - cron: "50 10 * * *"   # 11:50, avant l'édition de 12h30
-    - cron: "20 19 * * *"   # 20:20, avant l'édition de 21h
+    - cron: "45 * * * *"    # toutes les heures (gratuit sur un dépôt public)
   workflow_dispatch: {}    # bouton « Run workflow » pour lancer à la main
   push:                    # relance aussi quand on modifie le script ou les sources
     branches: [main]
