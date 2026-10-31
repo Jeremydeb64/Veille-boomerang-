@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-31",
+ "source": "Picsum / Unsplash",
+ "photos": [
+  {
+   "file": "wp-1.jpg",
+   "author": "Aleksandar Vacić",
+   "url": "https://unsplash.com/photos/nAZOGbSWK9o"
+  },
+  {
+   "file": "wp-2.jpg",
+   "author": "Vadim Sherbakov",
+   "url": "https://unsplash.com/photos/tCICLJ5ktBE"
+  },
+  {
+   "file": "wp-3.jpg",
+   "author": "Brooklyn Morgan",
+   "url": "https://unsplash.com/photos/vlSyS1VLCoQ"
+  },
+  {
+   "file": "wp-4.jpg",
+   "author": "Jonas Lavoie-Levesque",
+   "url": "https://unsplash.com/photos/XnuFhviCGio"
+  },
+  {
+   "file": "wp-5.jpg",
+   "author": "Paula Vermeulen",
+   "url": "https://unsplash.com/photos/_f2m3mEkaaU"
+  },
+  {
+   "file": "wp-6.jpg",
+   "author": "Florian Klauer",
+   "url": "https://unsplash.com/photos/GG0jOrmwqtw"
+  },
+  {
+   "file": "wp-7.jpg",
+   "author": "Jacob Aguilar-Friend",
+   "url": "https://unsplash.com/photos/FRUNWjolvNA"
+  },
+  {
+   "file": "wp-8.jpg",
+   "author": "Silvestri Matteo",
+   "url": "https://unsplash.com/photos/6-C0VRsagUw"
+  }
+ ]
+}
