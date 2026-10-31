@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T08:55:45.540881+00:00",
+ "generated_at": "2026-10-31T15:30:16.665656+00:00",
  "window_hours": 36,
  "sources": [
   {
@@ -146,8 +146,8 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 1987,
-   "kept": 2
+   "items_in_feed": 1988,
+   "kept": 3
   }
  ]
 }
