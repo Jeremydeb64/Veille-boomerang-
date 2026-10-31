@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T20:27:09.441938+00:00",
+ "generated_at": "2026-10-31T22:50:14.620421+00:00",
  "window_hours": 36,
  "sources": [
   {
@@ -69,7 +69,7 @@
    "url": "https://www.cominmag.ch/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 3
+   "kept": 1
   },
   {
    "name": "Blog du Modérateur",
@@ -85,7 +85,7 @@
    "url": "https://www.cbnews.fr/rss.xml",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Stratégies",
@@ -108,7 +108,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 2
+   "kept": 1
   },
   {
    "name": "Adweek",
@@ -116,7 +116,7 @@
    "url": "https://www.adweek.com/feed/",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 10
+   "kept": 9
   },
   {
    "name": "Digiday",
