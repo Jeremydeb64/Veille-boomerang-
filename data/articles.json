@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:16:40.589754+00:00",
+ "generated_at": "2026-10-31T02:43:38.882565+00:00",
  "window_hours": 36,
  "articles": [
   {
@@ -81,6 +81,14 @@
    "summary": "Aux Etats-Unis, on craint des fraudes électorales lors des élections de mi-mandat mardi prochain. Les Américains, quelle que soit leur tendance politique, s'attendent à des tentatives d'ingérence du parti adverse dans le vote ou le comptage des voix. Et l'absence d'observateurs…",
    "source": "RTS Info",
    "section": "romandie"
+  },
+  {
+   "title": "Ticker: Paula Reid Joins MS NOW as Chief White House Reporter",
+   "link": "https://www.adweek.com/tvnewser/ticker-paula-reid-joins-ms-now-as-chief-white-house-reporter/",
+   "date": "2026-10-30T20:20:30+00:00",
+   "summary": "The fight for White House access continues with CNN, MS NOW, and Politico amending their initial lawsuit.",
+   "source": "Adweek",
+   "section": "international"
   },
   {
    "title": "Les commentaires d’un journaliste de la RTS sur le bobeur israélien au JO 2026 sont jugés discriminatoires",
@@ -771,14 +779,6 @@
    "section": "com-france"
   },
   {
-   "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Walmart to Sephora",
-   "link": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-walmart-to-sephora/",
-   "date": "2026-10-30T06:00:00+00:00",
-   "summary": "Walmart, Sephora, Tinder, PlayStation, and more are behind the week’s most notable ads.",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
    "title": "20 Minutes TV cesse sa diffusion linéaire",
    "link": "https://www.cbnews.fr/medias/20-minutes-tv-cesse-sa-diffusion-lineaire",
    "date": "2026-10-30T04:45:02+00:00",
@@ -953,78 +953,6 @@
    "summary": "Ce qu'il faut retenir : Google a lancé le 28 octobre 2026 la préversion de la Connected Apps Platform, qui permet de développer une seule intégration et de la publier dans Google Search, dans l'app Gemini ou dans les deux. Les développeurs se connectent via un serveur MCP…",
    "source": "Abondance",
    "section": "com-france"
-  },
-  {
-   "title": "Meta ressuscite le Tamagotchi avec une IA qui apprend à vous connaître",
-   "link": "https://siecledigital.fr/2026/10/29/meta-ressuscite-le-tamagotchi-avec-une-ia-qui-apprend-a-vous-connaitre/",
-   "date": "2026-10-29T12:59:38+00:00",
-   "summary": "Vous vous souvenez du fameux Tamagotchi : il rythmait notre quotidien puisqu’il fallait le divertir, lui donner à manger… Ce sont sans doute les plus de 30 ans qui ont eu un tel accessoire, mais la nouvelle génération pourrait en faire l’expérience. Meta poursuit ses tests…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Apple reconnaît un problème d’écran sur son premier iPhone pliable",
-   "link": "https://siecledigital.fr/2026/10/29/apple-reconnait-un-probleme-decran-sur-son-premier-iphone-pliable/",
-   "date": "2026-10-29T12:56:54+00:00",
-   "summary": "Alors qu’il vient tout juste de sortir, le premier iPhone pliable rencontre déjà des problèmes d’écran. Ce qui suscite les plaintes de plusieurs utilisateurs et pousse Apple à reconnaître un problème sur certains appareils. Des écrans fendus après seulement quelques utilisations…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Microsoft a gagné 10 milliards de dollars grâce à OpenAI en seulement trois mois",
-   "link": "https://siecledigital.fr/2026/10/29/microsoft-a-gagne-10-milliards-de-dollars-grace-a-openai-en-seulement-trois-mois/",
-   "date": "2026-10-29T12:54:20+00:00",
-   "summary": "Microsoft a généré 10 milliards de dollars grâce à ses accords commerciaux avec OpenAI en seulement trois mois. Un montant qui représente près de 11 % du chiffre d’affaires de l’entreprise sur les trois derniers mois. Des revenus en hausse grâce à OpenAI Grâce à ses accords…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Google mise sur les publicités dans son IA pour relancer la croissance de ses revenus",
-   "link": "https://siecledigital.fr/2026/10/29/google-mise-sur-les-publicites-dans-son-ia-pour-relancer-la-croissance-de-ses-revenus/",
-   "date": "2026-10-29T12:52:00+00:00",
-   "summary": "Google accélère le déploiement de la publicité dans son moteur de recherche dopé à l’IA. Déjà testées aux États-Unis depuis 2025, les annonces intégrées à AI Mode arrivent désormais dans dix nouveaux pays. Cette annonce a été faite ce mercredi 28 octobre, alors qu’Alphabet…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Des médias norvégiens remportent une première victoire contre Meta et son IA",
-   "link": "https://siecledigital.fr/2026/10/29/des-medias-norvegiens-remportent-une-premiere-victoire-contre-meta-et-son-ia/",
-   "date": "2026-10-29T12:43:26+00:00",
-   "summary": "La collecte des données est au cœur de nombreux débats, notamment depuis l’essor de l’IA. Meta pourrait récupérer des articles, des images et des vidéos, mais cela ne plaît pas aux médias norvégiens. Ils ont engagé une action en justice contre l’entreprise pour que les contenus…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Sur Windows 11, le clic droit devient enfin personnalisable grâce à une nouvelle mise à jour",
-   "link": "https://siecledigital.fr/2026/10/29/sir-windows-11-le-clic-droit-devient-enfin-personnalisable-grace-a-une-nouvelle-mise-a-jour/",
-   "date": "2026-10-29T12:39:36+00:00",
-   "summary": "Le menu du clic droit devient personnalisable sur Windows 11 ! Si vous voulez en profiter, vous devrez installer la mise à jour facultative KB5127936 et vous aurez même d’autres nouveautés. La firme de Redmond vous promet un menu qui s’ouvre beaucoup plus rapidement. Son…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Autocollants pro-RN, Mein Kampf: ce que cachait le tireur des Yvelines",
-   "link": "https://www.watson.ch/fr/international/france/540199097-tireur-des-yvelines-autocollants-pro-rn-et-mein-kampf-retrouves",
-   "date": "2026-10-29T11:39:11+00:00",
-   "summary": "Le tireur des Yvelines avait fait fabriquer ses propres autocollants pro-RN. Les enquêteurs ont également découvert des armes et plusieurs livres, dont Mein Kampf. Le tireur des Yvelines avait fait fabriquer ses propres autocollants pro-RN. Les enquêteurs ont également découvert…",
-   "source": "watson.ch",
-   "section": "romandie"
-  },
-  {
-   "title": "GitHub : plus de 40 % des pull requests démarrent désormais avec un agent IA",
-   "link": "https://www.blogdumoderateur.com/github-plus-40-pourcent-pull-requests-demarrent-avec-agent-ia/",
-   "date": "2026-10-29T11:25:25+00:00",
-   "summary": "Le rapport Octoverse 2026 de GitHub mesure une bascule nette vers le travail avec des agents IA, sur fond de volumes records.",
-   "source": "Blog du Modérateur",
-   "section": "com-france"
-  },
-  {
-   "title": "Mort de Quentin Deranque: ce député LFI entendu par l'antiterrorisme",
-   "link": "https://www.watson.ch/fr/international/france/724456310-mort-de-quentin-deranque-raphael-arnault-entendu-par-la-police",
-   "date": "2026-10-29T11:19:20+00:00",
-   "summary": "Le député LFI Raphaël Arnault a été entendu par la police antiterroriste dans l'enquête sur la mort de Quentin Deranque, militant d'extrême droite. Le député LFI Raphaël Arnault a été entendu par la police antiterroriste dans l'enquête sur la mort de Quentin Deranque, militant…",
-   "source": "watson.ch",
-   "section": "romandie"
   }
  ]
 }
