@@ -1,0 +1,15 @@
+Le Pouls — Accueil (extension Chrome)
+
+INSTALLATION (2 minutes)
+1. Décompresse ce dossier et range-le à un endroit où il restera (ex. Documents/le-pouls-accueil).
+2. Dans Chrome, ouvre chrome://extensions
+3. Active « Mode développeur » (en haut à droite).
+4. Clique « Charger l'extension non empaquetée » et choisis le dossier.
+5. Ouvre un nouvel onglet. Chrome demande si tu gardes cette page : réponds « Conserver ».
+
+RÉGLAGES (roue dentée en haut à droite)
+- Prénom, villes météo, fond d'écran.
+- Agenda Outlook : colle le lien ICS de publication. Il reste sur ton ordinateur.
+- Les sources du Pouls se modifient dans Le Pouls (lien dans les réglages).
+
+MISE À JOUR : remplace les fichiers du dossier, puis clique ↻ sur la carte de l'extension dans chrome://extensions.

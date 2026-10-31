@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Accueil — Le Pouls</title>
+<link rel="icon" href="icons/48.png">
+<link rel="stylesheet" href="newtab.css">
+</head>
+<body>
+<div class="wp wp-fallback"></div><div class="wp" id="wp-a"></div><div class="wp" id="wp-b"></div><div class="wp-shade"></div>
+
+<div class="acc">
+  <div class="acc-top">
+    <svg class="mk" viewBox="0 0 88 88" aria-hidden="true"><rect width="88" height="88" rx="20" fill="#1D1D1B"/><polygon points="26,16 11,72 20,72 35,16" fill="#ED1B54" opacity=".25"/><polygon points="43,16 28,72 37,72 52,16" fill="#ED1B54" opacity=".55"/><polygon points="60,16 45,72 54,72 69,16" fill="#ED1B54"/></svg>
+    <span class="who">Boomerang</span>
+    <div class="meteo" id="meteo"></div>
+    <button class="pill gear" type="button" id="open-set" aria-label="Réglages" title="Réglages">⚙</button>
+  </div>
+
+  <div class="clockbox">
+    <p class="hello" id="hello"></p>
+    <p class="clock" id="clock">--:--</p>
+    <p class="today" id="today"></p>
+  </div>
+
+  <form class="search" id="search" role="search" action="https://www.google.com/search" method="get">
+    <span class="g" aria-hidden="true">G</span>
+    <input type="search" name="q" id="q" placeholder="Rechercher sur Google" aria-label="Rechercher sur Google" autocomplete="off" autofocus>
+    <button type="submit">Rechercher</button>
+  </form>
+
+  <nav class="apps" aria-label="Applications">
+    <a class="app main" href="https://claude.ai/artifact/16167xmL8rwVU1NNTZmwYh#pouls"><svg class="logo-pouls" viewBox="0 0 88 88" aria-hidden="true"><rect width="88" height="88" rx="20" fill="#1D1D1B"/><polygon points="26,16 11,72 20,72 35,16" fill="#ED1B54" opacity=".25"/><polygon points="43,16 28,72 37,72 52,16" fill="#ED1B54" opacity=".55"/><polygon points="60,16 45,72 54,72 69,16" fill="#ED1B54"/></svg><span class="t">Le Pouls</span></a>
+    <a class="app" href="https://thebox.boomerang.ch/"><img class="logo-box" alt="" src="thebox.png"><span class="t">theBox</span></a>
+    <a class="app" href="https://boomerang.tipee.net/auth/login/form#/"><span class="logo-tipee" aria-hidden="true">tipee<i>.</i></span><span class="t">Tipee</span></a>
+  </nav>
+  <nav class="tools" aria-label="Outils">
+    <a class="tool" href="https://chatgpt.com/"><span class="d" aria-hidden="true">✦</span>ChatGPT</a>
+    <a class="tool" href="https://www.deepl.com/fr/translator"><span class="d d-deepl" aria-hidden="true">D</span>DeepL</a>
+    <a class="tool" href="https://www.reverso.net/orthographe/correcteur-francais/"><span class="d d-reverso" aria-hidden="true">R</span>Reverso</a>
+  </nav>
+
+  <div class="cards">
+    <section class="card" aria-labelledby="h-une"><h2 id="h-une"><span class="slash" aria-hidden="true"></span>Derniers titres</h2><ol id="une"><li class="empty">Chargement…</li></ol></section>
+    <div class="col">
+      <section class="card agenda" id="agenda-card" aria-labelledby="h-ag"><h2 id="h-ag"><span class="slash" aria-hidden="true"></span>Aujourd'hui</h2><ul id="agenda"></ul></section>
+      <a class="card cli" id="cli" href="https://claude.ai/artifact/16167xmL8rwVU1NNTZmwYh#clients"></a>
+    </div>
+  </div>
+
+  <div class="acc-foot"><span id="credit"></span><button type="button" id="wp-next">Changer de photo</button></div>
+</div>
+
+<div class="sheet" id="sheet" hidden>
+  <div class="sheet-in" role="dialog" aria-modal="true" aria-labelledby="h-set">
+    <button class="x" type="button" id="close-set" aria-label="Fermer">×</button>
+    <h2 id="h-set"><span class="slash" aria-hidden="true"></span>Réglages</h2>
+
+    <label class="f">Prénom<input type="text" id="s-name"></label>
+
+    <label class="f">Agenda Outlook — lien de publication (.ics)
+      <input type="url" id="s-ics" placeholder="https://outlook.office365.com/owa/calendar/…/calendar.ics">
+      <small>Outlook (web) → Paramètres → Calendrier → Calendriers partagés → Publier un calendrier → « Peut afficher tous les détails » → copier le lien ICS. Il reste sur ton ordinateur.</small>
+    </label>
+
+    <fieldset class="f"><legend>Météo</legend>
+      <label class="chk"><input type="checkbox" id="s-sierre"> Sierre</label>
+      <label class="chk"><input type="checkbox" id="s-lausanne"> Lausanne</label>
+    </fieldset>
+
+    <fieldset class="f"><legend>Fond d'écran</legend>
+      <label class="chk"><input type="radio" name="wp" value="jour"> Les 8 photos du jour</label>
+      <label class="chk"><input type="radio" name="wp" value="libre"> Une nouvelle photo à chaque onglet</label>
+      <label class="chk"><input type="radio" name="wp" value="aucun"> Sans photo (fond Boomerang)</label>
+    </fieldset>
+
+    <p class="f"><a class="lnk" href="https://claude.ai/artifact/16167xmL8rwVU1NNTZmwYh#reglages">Modifier les sources du Pouls ↗</a></p>
+
+    <div class="row"><button class="btn rose" type="button" id="save">Enregistrer</button><span id="save-st" role="status"></span></div>
+  </div>
+</div>
+
+<script src="newtab.js"></script>
+</body>
+</html>
