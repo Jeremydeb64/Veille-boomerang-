@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T02:43:38.882565+00:00",
+ "generated_at": "2026-10-31T08:55:45.540881+00:00",
  "window_hours": 36,
  "sources": [
   {
@@ -69,7 +69,7 @@
    "url": "https://www.cominmag.ch/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 9
+   "kept": 7
   },
   {
    "name": "Blog du Modérateur",
@@ -85,7 +85,7 @@
    "url": "https://www.cbnews.fr/rss.xml",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 10
+   "kept": 2
   },
   {
    "name": "Stratégies",
@@ -108,7 +108,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 3
+   "kept": 2
   },
   {
    "name": "Adweek",
@@ -124,7 +124,7 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 6
+   "kept": 5
   },
   {
    "name": "Nieman Lab",
@@ -132,7 +132,7 @@
    "url": "https://www.niemanlab.org/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 3
+   "kept": 1
   },
   {
    "name": "Search Engine Land",
@@ -147,7 +147,7 @@
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
    "items_in_feed": 1987,
-   "kept": 3
+   "kept": 2
   }
  ]
 }
