@@ -19,7 +19,7 @@ from xml.etree import ElementTree as ET
 import yaml
 
 ROOT = Path(__file__).parent
-WINDOW_HOURS = 36
+WINDOW_HOURS = 72  # 72 h : le lundi, l édition couvre tout le week-end
 SUMMARY_MAX = 280
 UA = "Mozilla/5.0 (compatible; BoomerangVeille/1.0; lecteur RSS interne)"
 NS = {"atom": "http://www.w3.org/2005/Atom"}
