@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T21:23+00:00",
+ "updated": "2026-11-01T22:11+00:00",
  "villes": [
   {
    "ville": "Sierre",
-   "temp": 5,
+   "temp": 4,
    "code": 0,
    "ciel": "Ensoleillé",
    "min": 4,

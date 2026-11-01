@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T21:22:49.888652+00:00",
- "window_hours": 36,
+ "generated_at": "2026-11-01T22:10:28.084476+00:00",
+ "window_hours": 72,
  "sources": [
   {
    "name": "Le Nouvelliste",
@@ -15,7 +15,7 @@
    "url": "https://canal9.ch/feed/",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 2
+   "kept": 10
   },
   {
    "name": "RTS Info",
@@ -54,7 +54,7 @@
    "url": "https://www.persoenlich.com/rss/news.xml",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 9
+   "kept": 10
   },
   {
    "name": "Kleinreport",
@@ -69,7 +69,7 @@
    "url": "https://www.cominmag.ch/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 0
+   "kept": 7
   },
   {
    "name": "Blog du Modérateur",
@@ -77,7 +77,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 0
+   "kept": 3
   },
   {
    "name": "CB News",
@@ -100,7 +100,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 0
+   "kept": 6
   },
   {
    "name": "Abondance",
@@ -108,7 +108,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 0
+   "kept": 2
   },
   {
    "name": "Adweek",
@@ -116,7 +116,7 @@
    "url": "https://www.adweek.com/feed/",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 1
+   "kept": 10
   },
   {
    "name": "Digiday",
@@ -124,7 +124,7 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 0
+   "kept": 5
   },
   {
    "name": "Nieman Lab",
@@ -132,7 +132,7 @@
    "url": "https://www.niemanlab.org/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 0
+   "kept": 1
   },
   {
    "name": "Search Engine Land",
@@ -147,7 +147,7 @@
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
    "items_in_feed": 1989,
-   "kept": 2
+   "kept": 4
   }
  ]
 }
