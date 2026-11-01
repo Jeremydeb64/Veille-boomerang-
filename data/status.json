@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T09:45:26.757312+00:00",
+ "generated_at": "2026-11-01T16:55:08.371058+00:00",
  "window_hours": 36,
  "sources": [
   {
@@ -44,9 +44,8 @@
    "name": "watson.ch",
    "section": "romandie",
    "url": "https://www.watson.ch/fr/api/1.0/rss/index.xml",
-   "ok": true,
-   "items_in_feed": 126,
-   "kept": 0
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "name": "persoenlich.com",
@@ -54,7 +53,7 @@
    "url": "https://www.persoenlich.com/rss/news.xml",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 7
+   "kept": 9
   },
   {
    "name": "Kleinreport",
@@ -85,7 +84,7 @@
    "url": "https://www.cbnews.fr/rss.xml",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 1
+   "kept": 10
   },
   {
    "name": "Stratégies",
