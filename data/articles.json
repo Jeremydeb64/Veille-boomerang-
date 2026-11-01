@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-10-31T22:50:14.620421+00:00",
+ "generated_at": "2026-11-01T02:36:09.399781+00:00",
  "window_hours": 36,
  "articles": [
+  {
+   "title": "\"On en a marre\": à Zurich et à Bâle, la colère des jeunes gronde aussi",
+   "link": "https://www.rts.ch/info/regions/autres-cantons/2026/article/zurich-et-bale-heurts-avec-la-police-lors-de-manifestations-29401737.html?rts_source=rss_t",
+   "date": "2026-11-01T01:17:57+00:00",
+   "summary": "Des centaines de personnes se sont rassemblées samedi soir à Zurich et à Bâle, répondant à l'appel \"On en a marre, en Suisse aussi\". Inspirées du mouvement social français, les deux manifestations non autorisées ont été émaillées de violences, provoquant l'intervention de la…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Le FBI accuse la Corée du Nord d'avoir dérobé six milliards de cryptomonnaies à Binance",
+   "link": "https://www.rts.ch/info/monde/2026/article/binance-6-3-milliards-voles-le-fbi-accuse-la-coree-du-nord-29401730.html?rts_source=rss_t",
+   "date": "2026-11-01T00:14:33+00:00",
+   "summary": "La police fédérale américaine a accusé samedi la Corée du Nord d'être l'auteure du vol de 6,3 milliards de dollars de monnaies numériques grâce au piratage, jeudi, de la plateforme Binance.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
   {
    "title": "Olivier Apers, l'invité du dimanche",
    "link": "https://www.cbnews.fr/cb/olivier-apers-invite-du-dimanche",
@@ -22,7 +38,7 @@
    "title": "\"Les COP sont absolument nécessaires\", mais \"réformer leur format semble essentiel\"",
    "link": "https://www.rts.ch/info/environnement/2026/article/cop-reformer-un-format-de-negociation-juge-indispensable-29401638.html?rts_source=rss_t",
    "date": "2026-10-31T21:54:20+00:00",
-   "summary": "La COP17 sur la biodiversité s'est terminée vendredi soir avec un bilan en demi-teinte. Certains s'interrogent toutefois sur l'utilité de ces COP au vu des résultats systématiquement inférieurs aux engagements pris par les pays. Pour la professeure Géraldine Pflieger, si des…",
+   "summary": "La COP17 sur la biodiversité s'est terminée vendredi soir avec un bilan en demi-teinte. Certains s'interrogent sur l'utilité de ces COP au vu des résultats systématiquement inférieurs aux engagements pris par les pays. Pour la professeure Géraldine Pflieger, si des réformes…",
    "source": "RTS Info",
    "section": "romandie"
   },
@@ -435,22 +451,6 @@
    "section": "romandie"
   },
   {
-   "title": "Washington approuve la vente de 500 missiles Patriot à l'Ukraine",
-   "link": "https://www.rts.ch/info/monde/2026/article/ukraine-washington-approuve-la-vente-de-500-missiles-patriot-29401212.html?rts_source=rss_t",
-   "date": "2026-10-30T22:28:44+00:00",
-   "summary": "Le gouvernement américain a approuvé la vente de 500 missiles intercepteurs Patriot à l'Ukraine pour un montant dépassant les deux milliards de dollars, a indiqué vendredi le département d'État dans un communiqué.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "COP17: le monde adopte plusieurs textes pour protéger la nature",
-   "link": "https://www.rts.ch/info/environnement/2026/article/cop17-des-textes-cles-adoptes-pour-proteger-la-biodiversite-29401201.html?rts_source=rss_t",
-   "date": "2026-10-30T21:48:45+00:00",
-   "summary": "Le monde a adopté plusieurs textes clés pour protéger la nature, tard vendredi à l'issue de deux semaines de discussions émaillées de profonds désaccords, à la COP17 sur la biodiversité organisée en Arménie.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
    "title": "Ticker: Paula Reid Joins MS NOW as Chief White House Reporter",
    "link": "https://www.adweek.com/tvnewser/ticker-paula-reid-joins-ms-now-as-chief-white-house-reporter/",
    "date": "2026-10-30T20:20:30+00:00",
@@ -599,110 +599,6 @@
    "link": "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/",
    "date": "2026-10-30T14:47:30+00:00",
    "summary": "A roundup of this week's biggest marketing leadership moves",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "Journalist Josef «Seppi» Ritler ist tot",
-   "link": "https://www.persoenlich.com/medien/journalist-josef-seppi-ritler-ist-tot",
-   "date": "2026-10-30T14:35:00+01:00",
-   "summary": "Der langjährige Blick-Reporter und Fotograf starb im Alter von 87 Jahren in Luzern. Vierzig Jahre lang berichtete er für die Zeitung aus der Zentralschweiz.",
-   "source": "persoenlich.com",
-   "section": "com-suisse"
-  },
-  {
-   "title": "Reddit va bientôt limiter l’accès à ses contenus si vous n’avez pas de compte",
-   "link": "https://siecledigital.fr/2026/10/30/reddit-va-bientot-limiter-lacces-a-ses-contenus-si-vous-navez-pas-de-compte/",
-   "date": "2026-10-30T14:33:10+00:00",
-   "summary": "Alors qu’il était possible d’accéder aux contenus disponibles sur Reddit sans se connecter, ce ne sera bientôt plus systématiquement le cas. La plateforme vient d’annoncer que les utilisateurs seront bientôt obligés de créer un compte pour accéder à la plupart des contenus. Un…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Un adolescent de 16 ans mis en examen après le piratage massif des données des impôts",
-   "link": "https://siecledigital.fr/2026/10/30/un-adolescent-de-16-ans-mis-en-examen-apres-le-piratage-massif-des-donnees-des-impots/",
-   "date": "2026-10-30T14:29:30+00:00",
-   "summary": "Ce n’est apparemment pas un hacker de 40 ans qui se cache derrière le piratage des impôts. Un adolescent de 16 ans seulement a été mis en examen. Il est pour l’heure soupçonné d’avoir participé à un vol de données fiscales que le groupe ZeroBytes avait notamment revendiqué sur…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Google accusé de voler le trafic des sites web : la riposte est lancée !",
-   "link": "https://www.abondance.com/20261030-3049989-google-accuse-de-voler-le-trafic-des-sites-web-la-riposte-est-lancee.html",
-   "date": "2026-10-30T14:27:59+00:00",
-   "summary": "Ce qu'il faut retenir : Le CPA, la FNPS, le Geste, le SEPM et le Spiil ont déposé le 29 octobre 2026 une plainte auprès de la Commission européenne visant le déploiement d'AI Overviews et d'AI Mode en France. La plainte vient appuyer une enquête formelle ouverte par Bruxelles en…",
-   "source": "Abondance",
-   "section": "com-france"
-  },
-  {
-   "title": "Microsoft affiche des résultats historiques, mais ses dépenses dans l’IA explosent",
-   "link": "https://siecledigital.fr/2026/10/30/microsoft-affiche-des-resultats-historiques-mais-ses-depenses-dans-lia-explosent/",
-   "date": "2026-10-30T14:25:01+00:00",
-   "summary": "Alors que Microsoft affiche des résultats historiques, ses dépenses liées à la course à l’intelligence artificielle ne cessent d’augmenter à une vitesse incroyable. Un chiffre d’affaires en nette augmentation pour Microsoft Microsoft vient de dévoiler ses chiffres pour le…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Spotify pourrait vous laisser transformer vos chansons préférées pour 5€ par mois",
-   "link": "https://siecledigital.fr/2026/10/30/spotify-pourrait-vous-laisser-transformer-vos-chansons-preferees-pour-5e-par-mois/",
-   "date": "2026-10-30T14:17:23+00:00",
-   "summary": "La musique générée par IA semble avoir un avenir sur Spotify. Selon le Financial Times, une nouvelle formule serait en préparation. Pour 4 à 5 dollars par mois, en plus de votre abonnement, vous pourriez profiter d’un service de mixage par IA. Allez-vous payer 5 dollars de plus…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Amazon confirme que Prime Video est rentable et génère des milliards de dollars",
-   "link": "https://siecledigital.fr/2026/10/30/amazon-confirme-que-prime-video-est-rentable-et-genere-des-milliards-de-dollars/",
-   "date": "2026-10-30T14:06:42+00:00",
-   "summary": "Selon le PDG d’Amazon, Prime Video est rentable et son chiffre d’affaires annuel atteint plusieurs dizaines de milliards de dollars. Une hausse de 12 % a été observée pour les revenus des abonnements au troisième trimestre, hors effets de change. Ils regroupent notamment les…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "Neu gibt es nur noch thematische Kategorien",
-   "link": "https://www.persoenlich.com/medien/neu-gibt-es-nur-noch-thematische-kategorien",
-   "date": "2026-10-30T14:05:00+01:00",
-   "summary": "Die Kategorien Audio, Video und Text verschwinden. Stattdessen gibt es die Preise News, National und World.",
-   "source": "persoenlich.com",
-   "section": "com-suisse"
-  },
-  {
-   "title": "La CNIL inflige 7 millions d’euros d’amende à Fnac Darty pour avoir collecté des données sans consentement",
-   "link": "https://siecledigital.fr/2026/10/30/la-cnil-inflige-7-millions-deuros-damende-a-fnac-darty-pour-avoir-collecte-des-donnees-sans-consentement/",
-   "date": "2026-10-30T13:59:44+00:00",
-   "summary": "La Commission nationale de l’informatique et des libertés (CNIL) vient d’infliger une amende de 7 millions d’euros au groupe Fnac Darty. Une sanction pour avoir collecté des données sans le consentement des utilisateurs. Les sociétés Fnac Darty sanctionnées pour non-respect des…",
-   "source": "Siècle Digital",
-   "section": "com-france"
-  },
-  {
-   "title": "From Pontiac to Paramount, Patrick Stewart Lent His Star Power to Brands",
-   "link": "https://www.adweek.com/creativity/from-pontiac-to-paramount-patrick-stewart-lent-his-star-to-brands/",
-   "date": "2026-10-30T13:36:03+00:00",
-   "summary": "Even with his Shakespearean credentials, the late Stewart never shied from starring in ads",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "The Nieman Lab News-About-News Quiz: October 30, 2026",
-   "link": "https://www.niemanlab.org/2026/10/the-nieman-lab-news-about-news-quiz-october-30-2026/",
-   "date": "2026-10-30T13:00:16+00:00",
-   "summary": "For decades now, news publishers have been yammering on about “gamifying” the news. But what about gamifying the news about the news? Welcome to the Nieman Lab News-About-News Quiz, a weekly incentive to keep up with the latest happenings in the world of digital journalism. All…",
-   "source": "Nieman Lab",
-   "section": "international"
-  },
-  {
-   "title": "Zocdoc Opens Its Platform to AI Agents",
-   "link": "https://www.adweek.com/media/zocdoc-opens-its-platform-to-ai-agents/",
-   "date": "2026-10-30T11:18:28+00:00",
-   "summary": "The app that connects users to healthcare providers will allow AI agents to access its database",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "The Cheesecake Factory Is the Real Winner in Obama-Trump Food Fight",
-   "link": "https://www.adweek.com/brand-marketing/the-cheesecake-factory-is-the-real-winner-in-obama-trump-food-fight/",
-   "date": "2026-10-30T11:03:06+00:00",
-   "summary": "How decades of brand equity backed up the restaurant chain's decision to stay out of the fray",
    "source": "Adweek",
    "section": "international"
   }

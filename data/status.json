@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T22:50:14.620421+00:00",
+ "generated_at": "2026-11-01T02:36:09.399781+00:00",
  "window_hours": 36,
  "sources": [
   {
@@ -54,7 +54,7 @@
    "url": "https://www.persoenlich.com/rss/news.xml",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 10
+   "kept": 8
   },
   {
    "name": "Kleinreport",
@@ -100,7 +100,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 6
+   "kept": 0
   },
   {
    "name": "Abondance",
@@ -108,7 +108,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Adweek",
@@ -116,7 +116,7 @@
    "url": "https://www.adweek.com/feed/",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 9
+   "kept": 6
   },
   {
    "name": "Digiday",
@@ -132,7 +132,7 @@
    "url": "https://www.niemanlab.org/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Search Engine Land",
