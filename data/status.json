@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T02:36:09.399781+00:00",
+ "generated_at": "2026-11-01T09:45:26.757312+00:00",
  "window_hours": 36,
  "sources": [
   {
@@ -15,7 +15,7 @@
    "url": "https://canal9.ch/feed/",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 10
+   "kept": 1
   },
   {
    "name": "RTS Info",
@@ -54,7 +54,7 @@
    "url": "https://www.persoenlich.com/rss/news.xml",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 8
+   "kept": 7
   },
   {
    "name": "Kleinreport",
@@ -69,7 +69,7 @@
    "url": "https://www.cominmag.ch/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 1
+   "kept": 0
   },
   {
    "name": "Blog du Modérateur",
@@ -116,7 +116,7 @@
    "url": "https://www.adweek.com/feed/",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 6
+   "kept": 1
   },
   {
    "name": "Digiday",
@@ -147,7 +147,7 @@
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
    "items_in_feed": 1989,
-   "kept": 3
+   "kept": 2
   }
  ]
 }
