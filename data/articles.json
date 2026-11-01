@@ -1,13 +1,157 @@
 {
- "generated_at": "2026-11-01T16:55:08.371058+00:00",
+ "generated_at": "2026-11-01T21:22:49.888652+00:00",
  "window_hours": 36,
  "articles": [
   {
-   "title": "«Mon concert sera 100 pour cent organique» prévient le chanteur Faada Freddy invité par le Geneva Camerata",
+   "title": "«Die Verantwortung von Filmfestivals wächst»",
+   "link": "https://www.persoenlich.com/gesellschaft/die-verantwortung-von-filmfestivals-wachst",
+   "date": "2026-11-01T21:30:00+01:00",
+   "summary": "Nach dem Abgang von seinem Hauptsponsor letztes Jahr sah sich das Filmfestival in einer schwierigen Situation. Diese Woche findet die 30. Ausgabe statt. Künstlerischer Direktor John Canciani über Kulturfinanzierung und was sich 2027 in Bezug auf KI ändern wird.",
+   "source": "persoenlich.com",
+   "section": "com-suisse"
+  },
+  {
+   "title": "L'incendie de l'usine suisse où sont fabriqués les LBD de la police française serait d'origine criminelle",
+   "link": "https://www.rts.ch/info/regions/berne/2026/article/thoune-l-incendie-de-l-usine-de-lbd-serait-d-origine-criminelle-29402202.html?rts_source=rss_t",
+   "date": "2026-11-01T21:09:37+00:00",
+   "summary": "Le bâtiment de l’entreprise Brügger & Thomet à Thoune a été détruit par un incendie dans la nuit de mercredi à jeudi. L'usine produit les LBD 40 utilisés par la police française. Une vidéo revendiquant l’action circule sur les réseaux sociaux, mais n'a pas été authentifiée.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "L’investissement à impact entre dans l’âge de la maturité",
+   "link": "https://www.letemps.ch/articles/l-investissement-a-impact-entre-dans-l-age-de-la-maturite",
+   "date": "2026-11-01T21:07:44+01:00",
+   "summary": "Les fonds durables enregistrent à nouveau des entrées nettes en Europe, après deux années difficiles. Cette reprise s'appuie sur une expertise accrue des acteurs et des exigences renforcées en matière de mesure des résultats. Depuis 2022, la finance durable traverse une phase de…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Le FC Lugano se détache en tête de la Super League",
+   "link": "https://www.letemps.ch/articles/le-fc-lugano-se-detache-en-tete-de-la-super-league",
+   "date": "2026-11-01T21:03:09+01:00",
+   "summary": "Les Tessinois, vainqueurs de Bâle dimanche (2-1), comptent neuf points d’avance sur Young Boys, surpris par le FC Zurich (3-5). Lugano, qui se dirige vers un parcours à la FC Thoune, est invaincu cette saison en championnat mais aussi en Coupe d’Europe Qui arrêtera le FC Lugano?…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "La cosmétique et son histoire, de la démocratisation du savon à l'impératif de neutralité olfactive",
+   "link": "https://www.letemps.ch/articles/la-cosmetique-et-son-histoire-de-la-democratisation-du-savon-a-l-imperatif-de-neutralite-olfactive",
+   "date": "2026-11-01T20:46:50+01:00",
+   "summary": "Au fil du temps, la perception des odeurs corporelles a fortement évolué: après des siècles de tolérance, la modernité a imposé une neutralité olfactive quasi totale. Un changement à bas bruit porté par l’avènement des théories hygiénistes et l’essor de la publicité «La sueur…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "«Un endroit de l’intimité se trouve blessé»: comment se passe la sexualité après une «fausse» couche",
+   "link": "https://www.letemps.ch/articles/un-endroit-de-l-intimite-se-trouve-blesse-comment-se-passe-la-sexualite-apres-une-fausse-couche",
+   "date": "2026-11-01T20:44:15+01:00",
+   "summary": "Cette semaine, on parle de l’intimité après un arrêt spontané de grossesse, de son impact sur le couple et sur le rapport au corps Que produisent les arrêts spontanés de grossesse – un terme que l’on préférera à celui de «fausse» couche, jugé violent et peu représentatif de la…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Les agresseurs à la gare de Prilly-Malley risquent cinq ans de prison ferme après le match LHC-Gottéron",
+   "link": "https://www.rts.ch/info/societe/2026/article/lhc-gotteron-les-agresseurs-de-prilly-malley-risquent-5-ans-de-prison-29401983.html?rts_source=rss_t",
+   "date": "2026-11-01T20:44:15+00:00",
+   "summary": "Des supporters de hockey-sur-glace ont violemment agressé des spectateurs à la gare de Prilly-Malley (VD), le 24 octobre, selon les témoignages recueillis par Mise au Point. Le procureur vaudois annonce des poursuites pour agression, une infraction passible de cinq ans de…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Menacés de déclassement, les Swiss Indoors de Bâle font contre mauvaise fortune bon cœur",
+   "link": "https://www.letemps.ch/articles/menaces-de-declassement-les-swiss-indoors-de-bale-font-contre-mauvaise-fortune-bon-coeur",
+   "date": "2026-11-01T20:41:59+01:00",
+   "summary": "Le Monégasque Valentin Vacherot a remporté dimanche face au Tchèque Jiří Lehečka (2-6 6-3 6-3) une finale qui n’avait pas le prestige d’antan. Le plus grand tournoi de Suisse est désormais soumis à forte concurrence et privé de joueurs suisses de premier plan Aux Swiss Indoors…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Les réserves obligatoires de médicaments, une solution face à la pénurie",
+   "link": "https://www.rts.ch/info/suisse/2026/article/penurie-de-medicaments-la-solution-des-reserves-obligatoires-29399804.html?rts_source=rss_t",
+   "date": "2026-11-01T20:21:14+00:00",
+   "summary": "Depuis la crise du Covid, l’approvisionnement de certains médicaments vient à manquer. Pour éviter une pénurie complète, la Confédération impose des réserves obligatoires pour les substances les plus importantes.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "A Terre Sainte, les habitants s'organisent sur WhatsApp contre les cambriolages",
+   "link": "https://www.rts.ch/info/regions/vaud/2026/article/cambriolages-a-terre-sainte-les-habitants-s-organisent-29401958.html?rts_source=rss_t",
+   "date": "2026-11-01T20:01:27+00:00",
+   "summary": "En automne, quand les jours raccourcissent, le risque de cambriolages augmente. A Terre Sainte, dans l'ouest vaudois, des centaines d'habitants se sont organisés sur WhatsApp pour surveiller leurs quartiers. Un brigandage récent a ravivé les inquiétudes, même si la police nuance…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Le luxe pris entre l’atonie de la Chine et la nécessité de créer des «chocs de créativité»",
+   "link": "https://www.letemps.ch/articles/le-luxe-pris-entre-l-atonie-de-la-chine-et-la-necessite-de-creer-des-chocs-de-creativite",
+   "date": "2026-11-01T19:30:06+01:00",
+   "summary": "Après des décennies de croissance soutenue, les vedettes du haut de gamme, LVMH et Hermès en tête, sont tombées du podium boursier. Mais ce n’est pas la fin de l’histoire. Les fondamentaux sont solides. Il ne reste plus qu’à renouer avec la «désirabilité» La planète luxe est en…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Medienleute rufen zur Kundgebung in Bern auf",
+   "link": "https://www.persoenlich.com/medien/medienleute-rufen-zur-kundgebung-in-bern-auf",
+   "date": "2026-11-01T19:10:00+01:00",
+   "summary": "Journalistinnen und Journalisten aus der ganzen Schweiz wollen am 21. November in Bern gegen den Abbau in den Medienhäusern protestieren. Sie sehen die Qualität des Journalismus gefährdet. Wer dahintersteht und worum es geht.",
+   "source": "persoenlich.com",
+   "section": "com-suisse"
+  },
+  {
+   "title": "«Nous sommes 19 sur 22 à ne pas vouloir y aller.» En MotoGP, la fronde des pilotes avant les courses au Qatar",
+   "link": "https://www.letemps.ch/articles/nous-sommes-19-sur-22-a-ne-pas-vouloir-y-aller-en-motogp-la-fronde-des-pilotes-avant-les-courses-au-qatar",
+   "date": "2026-11-01T18:44:17+01:00",
+   "summary": "Le Grand Prix moto du Qatar aura-t-il lieu dimanche prochain? Malgré les troubles dans la région, l’organisation MotoGP assure que oui. Mais Yamaha a annoncé que son écurie et ses techniciens n’iraient pas, soutenue en coulisse par une grande majorité de pilotes Le groupe Yamaha…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Le Tribunal fédéral dépose plainte pour des fuites dans l'affaire Donzallaz",
+   "link": "https://www.letemps.ch/articles/le-tribunal-federal-depose-plainte-pour-des-fuites-dans-l-affaire-donzallaz",
+   "date": "2026-11-01T18:40:42+01:00",
+   "summary": "Cette décision fait suite à la divulgation d’informations confidentielles relatives à la liaison entre deux juges fédéraux, une procédure actuellement en cours Le Tribunal fédéral a déposé une plainte pénale contre X pour violation présumée du secret de fonction. Cette décision…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Logiciel Epic: un débat démocratique capital sur l’autonomie numérique se profile dans le canton de Vaud",
+   "link": "https://www.letemps.ch/articles/logiciel-epic-un-debat-democratique-capital-sur-l-autonomie-numerique-se-profile-dans-le-canton-de-vaud",
+   "date": "2026-11-01T18:15:30+01:00",
+   "summary": "CHRONIQUE. Le référendum lancé contre le choix du système informatique américain Epic sera l’occasion d’un débat, sur la place publique, concernant des choix qui ne sont de loin pas que technologiques C’est une excellente nouvelle. En 2027, les Vaudois pourraient voter sur un…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "De la Rust Belt au Mississippi, la RTS plonge dans un pays fracturé avant les élections de mi-mandat",
+   "link": "https://www.rts.ch/info/monde/2026/grand-format/midterms-aux-etats-unis-plongee-au-c-ur-du-bilan-trump-29400490.html?rts_source=rss_t",
+   "date": "2026-11-01T17:45:47+00:00",
+   "summary": "À l'approche des élections de mi-mandat (midterms) aux Etats-Unis, déterminantes pour la fin du second mandat de Donald Trump, la RTS a sillonné le pays à la rencontre de la population. Au Texas, dans le Michigan ou sur les sites emblématiques de l'histoire des Etats-Unis, le…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "«Mon concert sera 100% organique» prévient le chanteur Faada Freddy, invité par le Geneva Camerata",
    "link": "https://www.letemps.ch/articles/mon-concert-sera-100-pour-cent-organique-previent-le-chanteur-faada-freddy-invite-par-le-geneva-camerata",
    "date": "2026-11-01T17:39:31+01:00",
    "summary": "Le vocaliste et pionnier du hip-hop sénégalais déploie depuis dix ans une soul a cappella pleine d’humanité. Ce mardi 3 novembre, il investit le BFM accompagné des voix des musiciens du Geneva Camerata (GECA) sous la direction de David Greilsammer Il faut le voir sur scène pour…",
    "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "42 – Fanny Leeb",
+   "link": "https://canal9.ch/fr/42-fanny-leeb/",
+   "date": "2026-11-01T17:31:41+00:00",
+   "summary": "42 “Au pays de Fanny”",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "Grands-parents de cœur: \"Les personnes qui ont des cheveux gris sont importantes dans la société\"",
+   "link": "https://www.rts.ch/info/regions/vaud/2026/article/grands-parents-de-c-ur-vaud-relie-seniors-et-familles-29401950.html?rts_source=rss_t",
+   "date": "2026-11-01T17:25:21+00:00",
+   "summary": "Christine et Bertrand sont les grands-parents de cœur d'Eleanor. Cette relation est née il y a deux ans, à Lausanne, grâce à une initiative novatrice dans le canton de Vaud. Les séniors avaient déjà deux petits-enfants et voulaient tisser encore plus de liens.",
+   "source": "RTS Info",
    "section": "romandie"
   },
   {
@@ -70,7 +214,7 @@
    "title": "Pourquoi le vol de données d’enfants et d’enseignants dans le canton de Vaud ne doit pas être sous-estimé",
    "link": "https://www.letemps.ch/articles/pourquoi-le-vol-de-donnees-d-enfants-et-d-enseignants-dans-le-canton-de-vaud-ne-doit-pas-etre-sous-estime",
    "date": "2026-11-01T14:53:02+01:00",
-   "summary": "Des informations personnelles concernant environ 41 500 personnes ont été dérobées, annonçaient les autorités samedi. Un vol à ne surtout pas sous-estimer, les conséquences néfastes pouvant être durables «Aucune donnée sensible n’est concernée». Samedi matin, en publiant un…",
+   "summary": "Des informations personnelles concernant environ 41 500 personnes ont été dérobées, annonçaient les autorités samedi. Un vol à ne surtout pas sous-estimer, les conséquences néfastes pouvant être durables «Aucune donnée sensible n’est concernée.» Samedi matin, en publiant un…",
    "source": "Le Temps",
    "section": "romandie"
   },
@@ -80,6 +224,14 @@
    "date": "2026-11-01T14:08:31+00:00",
    "summary": "La participation intéressée de l’industrie fossile aux conférences des Nations unies sur le climat, y compris à la COP31 en Turquie, suscite des critiques. En Suisse aussi, le secteur pétrolier a cherché à minimiser son impact sur le réchauffement climatique.",
    "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Voici ce qui va changer en Suisse en novembre",
+   "link": "https://www.watson.ch/fr/suisse/europe/716121884-voici-ce-qui-va-changer-en-suisse-en-novembre",
+   "date": "2026-11-01T13:56:57+00:00",
+   "summary": "(Lire sur https://www.watson.ch/fr )",
+   "source": "watson.ch",
    "section": "romandie"
   },
   {
@@ -251,14 +403,6 @@
    "section": "romandie"
   },
   {
-   "title": "Elon Musk, un insupportable génie",
-   "link": "https://www.letemps.ch/articles/elon-musk-un-insupportable-genie",
-   "date": "2026-11-01T11:01:51+01:00",
-   "summary": "CHRONIQUE. Ce parrain des Etats-Unis d’aujourd’hui, toujours proche de Donald Trump, mais aussi encensé par Vladimir Poutine, est controversé. Mais les grands personnages ont toujours une face sombre, écrit notre chroniqueuse Marie-Hélène Miauton «C’est un génie, vraiment un…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Curling - Battues par la Suède, les Suissesses décrochent l'argent aux Européens",
    "link": "https://www.rts.ch/sport/autres-sports/2026/article/euro-de-curling-la-suisse-battue-en-finale-par-la-suede-7-2-29401812.html?rts_source=rss_t",
    "date": "2026-11-01T10:55:22+00:00",
@@ -267,35 +411,11 @@
    "section": "romandie"
   },
   {
-   "title": "Dans les sous-sols du musée d’art moderne de Lugano, Kaari Upson nous attire dans le labyrinthe de ses obsessions",
-   "link": "https://www.letemps.ch/articles/dans-les-sous-sols-du-musee-d-art-moderne-de-lugano-kaari-upson-nous-attire-dans-le-labyrinthe-de-ses-obsessions",
-   "date": "2026-11-01T10:40:54+01:00",
-   "summary": "La plasticienne américaine, disparue en 2021, s’y connaît en maisons hantées. Elle suspend des «living rooms», moule des matelas usagés, reproduit des maisons de poupée à échelle monumentale. Une première rétrospective présente son travail au Tessin «Ma petite lumière disparue,…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "«Les personnes âgées ne sont pas assez reconnues»: Présidente des Vert·e·s, Rebecca Joly veut inscrire les aînés dans la Constitution vaudoise",
-   "link": "https://www.letemps.ch/articles/les-personnes-agees-ne-sont-pas-assez-reconnues-presidente-des-vert-e-s-rebecca-joly-veut-inscrire-les-aines-dans-la-constitution-vaudoise",
-   "date": "2026-11-01T10:29:54+01:00",
-   "summary": "La députée verte Rebecca Joly déposera mardi une initiative pour que les aînés soient davantage soutenus, sur le modèle neuchâtelois. Elle mise sur un mandat général plutôt que des prestations définies, ce qui soulève la question de son utilité concrète D’ici à 2040, une…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Trois pilotes de ligne sur quatre s'endorment parfois brièvement en vol",
    "link": "https://www.rts.ch/info/suisse/2026/article/trois-pilotes-de-ligne-sur-quatre-s-endorment-parfois-en-vol-29398697.html?rts_source=rss_t",
    "date": "2026-11-01T10:17:25+00:00",
    "summary": "Une enquête menée en août 2026 par l'European Cockpit Association (ECA), l'organisation européenne qui fédère les pilotes de ligne, révèle des chiffres alarmants. Plus des trois quarts des pilotes interrogés ont révélé s'être brièvement endormis en vol. Un phénomène lié au…",
    "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Influence et très gros sous: qui sont les plus importants donateurs des élections de mi-mandat aux Etats-Unis?",
-   "link": "https://www.letemps.ch/articles/influence-et-tres-gros-sous-qui-sont-les-plus-importants-donateurs-des-elections-de-mi-mandat-aux-etats-unis",
-   "date": "2026-11-01T09:45:53+01:00",
-   "summary": "Les grandes fortunes de la finance, de la tech ou encore des cryptos versent d’énormes montants dans la campagne pour les élections de mi-mandat aux Etats-Unis. Un phénomène qui fragilise la confiance envers le système démocratique américain Et une fois encore, c’est un record.…",
-   "source": "Le Temps",
    "section": "romandie"
   },
   {
@@ -339,14 +459,6 @@
    "section": "romandie"
   },
   {
-   "title": "Que sont les «batailles d'aura», ces duels d'ados sur les réseaux et «in real life»?",
-   "link": "https://www.letemps.ch/articles/que-sont-les-batailles-d-aura-ces-duels-d-ados-sur-les-reseaux-et-in-real-life",
-   "date": "2026-11-01T08:30:47+01:00",
-   "summary": "Ces duels de gestes populaires, issus de la culture Internet, sont la tendance du moment chez les jeunes, du Mexique à la Suisse. Regard sociologique sur un mouvement qui se déroule hors et en ligne Que ce soit dans les cours de récréation, les journaux télévisés mais surtout…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Vaste déploiement de soldats salvadoriens à Haïti: plus qu'une opération de sauvetage",
    "link": "https://www.rts.ch/info/monde/2026/article/haiti-pourquoi-le-salvador-y-deploie-au-moins-2-000-soldats-29401781.html?rts_source=rss_t",
    "date": "2026-11-01T08:27:26+00:00",
@@ -360,22 +472,6 @@
    "date": "2026-11-01T08:12:43+00:00",
    "summary": "L'inquiétude règne chez les agriculteurs de la Broye après plusieurs attaques de loup ces dernières semaines. Entre colère et désarroi, certains songent sérieusement à abandonner l'élevage, tandis que d'autres se sont résolus à patrouiller toute la nuit autour de leur bétail.",
    "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Armement: le Conseil fédéral reprend le pouvoir",
-   "link": "https://www.letemps.ch/articles/armement-le-conseil-federal-reprend-le-pouvoir",
-   "date": "2026-11-01T08:01:32+01:00",
-   "summary": "CHRONIQUE. Le Conseil fédéral a peut-être déjà tiré une leçon du fiasco de l’achat des F-35 américains. En témoigne le retour des critères politiques et de relations extérieures dans l’acquisition du prochain système de défense sol-air de l’armée, écrit Yves Petignat Il y a de…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "La crise du raffinage de pétrole engendre des profits record chez les négociants et les pétroliers",
-   "link": "https://www.letemps.ch/articles/la-crise-du-raffinage-de-petrole-engendre-des-profits-record-chez-les-negociants-et-les-petroliers",
-   "date": "2026-11-01T08:00:05+01:00",
-   "summary": "Les frappes, en Ukraine, en Russie et au Moyen-Orient, ciblent les actifs énergétiques et font ainsi exploser les prix des carburants. Un contexte favorable aux détenteurs de raffineries en état de fonctionner mais aussi aux nombreux négociants en Suisse Les prix du pétrole…",
-   "source": "Le Temps",
    "section": "romandie"
   },
   {
@@ -395,14 +491,6 @@
    "section": "romandie"
   },
   {
-   "title": "«On en a marre – en Suisse aussi»: des manifestations à Bâle et Zurich",
-   "link": "https://www.letemps.ch/articles/on-en-a-marre-en-suisse-aussi-des-manifestations-a-bale-et-zurich",
-   "date": "2026-11-01T07:27:14+01:00",
-   "summary": "Des manifestations non autorisées ont eu lieu à Bâle et Zurich. Dans la soirée, quelques violences ont eu lieu, suscitant des affrontements avec la police. A Zurich, deux personnes ont été arrêtées Des centaines de personnes se sont rassemblées samedi soir à Zurich et à Bâle,…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "\"On en a marre\": à Zurich et à Bâle, la colère des jeunes gronde aussi",
    "link": "https://www.rts.ch/info/regions/autres-cantons/2026/article/zurich-et-bale-heurts-avec-la-police-lors-de-manifestations-29401737.html?rts_source=rss_t",
    "date": "2026-11-01T01:17:57+00:00",
@@ -419,42 +507,10 @@
    "section": "romandie"
   },
   {
-   "title": "Les Vert·e·s vaudois lancent Sophie Michaud Gigon pour le Conseil des Etats en octobre 2027",
-   "link": "https://www.letemps.ch/articles/les-vert-e-s-vaudois-lancent-sophie-michaud-gigon-pour-le-conseil-des-etats-en-octobre-2027",
-   "date": "2026-10-31T22:16:00+01:00",
-   "summary": "La conseillère nationale de 51 ans, plébiscitée samedi à Renens, pourrait faire campagne aux côtés du socialiste Pierre-Yves Maillard. Objectif: reconquérir le siège détenu par le PLR Pascal Broulis Les Vert·e·s vaudois ont validé samedi la candidature de Sophie Michaud Gigon…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "\"Les COP sont absolument nécessaires\", mais \"réformer leur format semble essentiel\"",
    "link": "https://www.rts.ch/info/environnement/2026/article/cop-reformer-un-format-de-negociation-juge-indispensable-29401638.html?rts_source=rss_t",
    "date": "2026-10-31T21:54:20+00:00",
    "summary": "La COP17 sur la biodiversité s'est terminée vendredi soir avec un bilan en demi-teinte. Certains s'interrogent sur l'utilité de ces COP au vu des résultats systématiquement inférieurs aux engagements pris par les pays. Pour la professeure Géraldine Pflieger, si des réformes…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Sophie Michaud Gigon veut reprendre le siège vaudois du PLR au Conseil des Etats",
-   "link": "https://www.rts.ch/info/regions/vaud/2026/article/conseil-des-etats-2027-sophie-michaud-gigon-vise-un-siege-vaudois-29401627.html?rts_source=rss_t",
-   "date": "2026-10-31T20:29:45+00:00",
-   "summary": "Les Vert-e-s vaudois ont validé samedi la candidature de Sophie Michaud Gigon pour l'élection au Conseil des Etats en octobre 2027. L'actuelle conseillère nationale pourrait faire campagne avec l'actuel sénateur socialiste Pierre-Yves Maillard, avec comme objectif de reprendre…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "En France, \"les cortèges se sont bien déroulés\", estime le ministre de l'Intérieur Laurent Nunez",
-   "link": "https://www.rts.ch/info/monde/2026/article/france-manifestations-a-risque-tres-eleve-samedi-29401333.html?rts_source=rss_t",
-   "date": "2026-10-31T20:23:00+00:00",
-   "summary": "Les cortèges de l'acte III de la colère sociale, qui ont réuni entre 320'000 et 500'000 personnes, se sont généralement déroulés dans le calme, mais des affrontements ont éclaté dans plusieurs grandes villes françaises en fin d'après-midi. Quelque 70'000 policiers et gendarmes…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Emplois, PIB, exportations: ce que pèse vraiment l’industrie suisse de l’armement",
-   "link": "https://www.rts.ch/info/suisse/2026/article/industrie-de-l-armement-en-suisse-les-chiffres-du-secteur-29399632.html?rts_source=rss_t",
-   "date": "2026-10-31T18:58:58+00:00",
-   "summary": "Malgré sa législation stricte, la Suisse vend chaque année du matériel de guerre à l’étranger à hauteur de centaines de millions de francs. Alors qu’un assouplissement des règles d’exportation sera soumis au vote le 29 novembre, la branche de l’armement et les milieux…",
    "source": "RTS Info",
    "section": "romandie"
   },
@@ -467,36 +523,12 @@
    "section": "international"
   },
   {
-   "title": "Un élève serait à l'origine du vol de données dans les écoles vaudoises",
-   "link": "https://www.rts.ch/info/regions/vaud/2026/article/vaud-les-donnees-de-plus-de-40-000-eleves-et-profs-volees-29401382.html?rts_source=rss_t",
-   "date": "2026-10-31T17:58:00+00:00",
-   "summary": "Plus de 40'000 étudiants et professeurs vaudois ont été victimes d'un vol de données la semaine dernière. Aucune donnée sensible n'est concernée, selon l'Etat de Vaud, qui soupçonne un élève d'être à l'origine du piratage.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "En Pologne, le président a consulté les partis pour sortir d'une crise majeure, sans résultat",
-   "link": "https://www.rts.ch/info/monde/2026/article/pologne-le-president-recoit-les-partis-face-a-la-crise-29401501.html?rts_source=rss_t",
-   "date": "2026-10-31T17:36:00+00:00",
-   "summary": "Samedi, le président national-conservateur Karol Nawrocki a consulté, sans aucun résultat tangible, les principaux partis politiques de Pologne pour trouver une issue à la crise institutionnelle que traverse le pays, qui s'est aggravée vendredi avec l'intervention de la police…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
    "title": "Unser Wochenrückblick quer durch die Schweiz",
    "link": "https://canal9.ch/de/unser-wochenruckblick-quer-durch-die-schweiz-219/",
    "date": "2026-10-31T17:00:53+00:00",
    "summary": "",
    "source": "Canal9",
    "section": "valais"
-  },
-  {
-   "title": "En 1981 à La Chaux-de-Fonds, l'assassinat du petit Fabrice brisait le tabou des crimes pédophiles",
-   "link": "https://www.rts.ch/info/regions/neuchatel/2026/article/la-chaux-de-fonds-le-meurtre-du-petit-fabrice-en-1981-29391266.html?rts_source=rss_t",
-   "date": "2026-10-31T16:54:17+00:00",
-   "summary": "Dans le 54ᵉ épisode du podcast Crimes suisses, Antoine Droux revient sur le meurtre de Fabrice, 5 ans et demi, tué en janvier 1981 par un prédateur récidiviste laissé en liberté. Cette tragédie a provoqué une onde de choc sans précédent et bouleversé le regard de la Suisse sur…",
-   "source": "RTS Info",
-   "section": "romandie"
   },
   {
    "title": "Karl Domenic Geissbühler ist gestorben",
@@ -537,22 +569,6 @@
    "summary": "Ulta Beauty’s holiday campaign features Selena Gomez and Tate McRae, whose brands are both sold at the retailer.",
    "source": "Adweek",
    "section": "international"
-  },
-  {
-   "title": "Sender muss drei Abstimmungsberichte korrigieren",
-   "link": "https://www.persoenlich.com/medien/sender-muss-drei-abstimmungsberichte-korrigieren",
-   "date": "2026-10-31T08:00:00+01:00",
-   "summary": "Innert weniger Wochen hat SRF mehrere Falschinformationen zum revidierten Kriegsmaterialgesetz veröffentlicht. Nun will das Unternehmen seine Kontrollen verschärfen.",
-   "source": "persoenlich.com",
-   "section": "com-suisse"
-  },
-  {
-   "title": "Nowaja Gaseta stellt nach Druck Arbeit ein",
-   "link": "https://www.persoenlich.com/gesellschaft/nowaja-gaseta-stellt-nach-druck-arbeit-ein",
-   "date": "2026-10-31T08:00:00+01:00",
-   "summary": "Die von Friedensnobelpreisträger Dmitri Muratow gegründete russische Zeitung Nowaja Gaseta erscheint nach mehr als 30 Jahren und massivem Druck in Russland am 9. November zum letzten Mal.",
-   "source": "persoenlich.com",
-   "section": "com-suisse"
   }
  ]
 }

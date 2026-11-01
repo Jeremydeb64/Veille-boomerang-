@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T16:55:08.371058+00:00",
+ "generated_at": "2026-11-01T21:22:49.888652+00:00",
  "window_hours": 36,
  "sources": [
   {
@@ -15,7 +15,7 @@
    "url": "https://canal9.ch/feed/",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 1
+   "kept": 2
   },
   {
    "name": "RTS Info",
@@ -44,8 +44,9 @@
    "name": "watson.ch",
    "section": "romandie",
    "url": "https://www.watson.ch/fr/api/1.0/rss/index.xml",
-   "ok": false,
-   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>"
+   "ok": true,
+   "items_in_feed": 126,
+   "kept": 1
   },
   {
    "name": "persoenlich.com",
