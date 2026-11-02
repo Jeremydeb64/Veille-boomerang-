@@ -3,7 +3,7 @@
   "name": "Le Pouls — Accueil",
   "short_name": "Le Pouls",
   "description": "Page d'accueil Boomerang : heure, météo, recherche Google, raccourcis, agenda et actualité du Pouls.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "chrome_url_overrides": { "newtab": "newtab.html" },
   "permissions": ["storage"],
   "host_permissions": [

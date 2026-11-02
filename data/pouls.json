@@ -1,0 +1,1082 @@
+{
+ "meteo": {
+  "updated": "2026-11-02T08:20+00:00",
+  "villes": [
+   {
+    "ville": "Sierre",
+    "temp": 3,
+    "code": 0,
+    "ciel": "Ensoleillé",
+    "min": -2,
+    "max": 11
+   },
+   {
+    "ville": "Lausanne",
+    "temp": 4,
+    "code": 2,
+    "ciel": "Partiellement nuageux",
+    "min": 4,
+    "max": 8
+   }
+  ]
+ },
+ "edition": "2026-11-02",
+ "generated_at": "2026-11-02T10:07:57Z",
+ "prototype": false,
+ "themes": {
+  "ia-marketing": "IA & marketing",
+  "seo-geo": "SEO / GEO",
+  "com-publique": "Com publique & communes",
+  "medias": "Médias suisses",
+  "design-creation": "Design & création",
+  "tourisme-marques": "Tourisme & marques",
+  "international-politique": "International & tensions"
+ },
+ "sections": {
+  "valais": "Valais",
+  "romandie": "Romandie",
+  "com-suisse": "Com Suisse",
+  "com-france": "Com France",
+  "international": "International"
+ },
+ "topics": [
+  {
+   "id": "g1",
+   "theme": "seo-geo",
+   "title": "Google et l'IA : la guerre du trafic s'installe",
+   "hook": "Des organisations de la presse française ont saisi les autorités contre Google, accusé de capter le trafic des sites. Pendant ce temps, les acheteurs remettent en cause la recherche Google et People Inc. ouvre ses contenus aux IA par API.",
+   "why": "Visibilité et trafic : un débat qui impose d'intégrer le SEO et le GEO dans les stratégies des clients.",
+   "articles": [
+    "a41",
+    "a44",
+    "a42",
+    "a36"
+   ]
+  },
+  {
+   "id": "g2",
+   "theme": "medias",
+   "title": "Médias : financement, pression et fragilité de la presse",
+   "hook": "Le projet de loi de finances 2027 agite la presse : fléchage publicitaire, avantages fiscaux et taxe sur les plateformes. En Suisse, une fuite d'informations judiciaires conduit à une plainte pénale et les journalistes appellent à manifester à Berne.",
+   "why": "Les médias sont à la fois des cibles et des relais : un contexte à connaître pour les relations presse.",
+   "articles": [
+    "a30",
+    "a31",
+    "a34",
+    "a28",
+    "a25",
+    "a24"
+   ]
+  },
+  {
+   "id": "g3",
+   "theme": "ia-marketing",
+   "title": "L'IA s'installe dans les budgets et les process",
+   "hook": "Des agences craignent un usage paresseux de l'IA dans leurs briefs, Svedka remet son prochain spot du Super Bowl au public et Microsoft voit ses dépenses IA exploser.",
+   "why": "Les agences doivent poser des règles claires d'usage de l'IA face à leurs clients.",
+   "articles": [
+    "a46",
+    "a47",
+    "a45",
+    "a37",
+    "a38",
+    "a53"
+   ]
+  },
+  {
+   "id": "g4",
+   "theme": "com-publique",
+   "title": "Communication publique : l'État parle à une population fragmentée",
+   "hook": "Carte d'identité biométrique, vaccination, CFF : les institutions multiplient les messages pratiques, tandis que Zurich confie des tribunes à des personnalités. Le Contrôle fédéral des finances rappelle que la confiance passe aussi par la sécurité des données.",
+   "why": "Cas concrets pour les communes et institutions valaisannes qui cherchent à mieux informer.",
+   "articles": [
+    "a04",
+    "a05",
+    "a06",
+    "a08",
+    "a07",
+    "a19"
+   ]
+  },
+  {
+   "id": "g5",
+   "theme": "tourisme-marques",
+   "title": "Marques et territoires : ancrage local et expériences",
+   "hook": "Tschugger tourne à Sion, les brasseries artisanales traversent une crise et les marques investissent les fan fests : l'ancrage régional et l'expérience deviennent des leviers.",
+   "why": "Des exemples directs pour les clients tourisme et les marques ancrées dans leur territoire.",
+   "articles": [
+    "a26",
+    "a23",
+    "a12",
+    "a50",
+    "a54",
+    "a13"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "a01",
+   "sec": "valais",
+   "th": [
+    "com-publique"
+   ],
+   "s": "Canal9",
+   "via": "flux",
+   "d": "2026-10-30T17:21:11Z",
+   "t": "L’actualité du haut-Valais de la semaine du 26 octobre 2026",
+   "a": "Le récap hebdomadaire de la rédaction haut-valaisanne : une vue d'ensemble des sujets de la semaine dans la région.",
+   "u": "https://canal9.ch/fr/lactualite-du-haut-valais-de-la-semaine-du-26-octobre-2026/"
+  },
+  {
+   "id": "a02",
+   "sec": "valais",
+   "th": [
+    "com-publique"
+   ],
+   "s": "Canal9",
+   "via": "flux",
+   "d": "2026-10-30T16:46:20Z",
+   "t": "Conseils des Jeunes: la jeunesse qui s’engage",
+   "a": "Bex lance son premier Conseil des jeunes pour leur donner la parole : un exemple de participation citoyenne à l'échelle locale.",
+   "u": "https://canal9.ch/fr/conseils-des-jeunes-la-jeunesse-qui-sengage/"
+  },
+  {
+   "id": "a03",
+   "sec": "valais",
+   "th": [
+    "com-publique"
+   ],
+   "s": "Canal9",
+   "via": "flux",
+   "d": "2026-10-31T17:00:53Z",
+   "t": "Unser Wochenrückblick quer durch die Schweiz",
+   "a": "Le tour de la semaine en Suisse alémanique, présenté par la rédaction de Canal9 : un point d'entrée sur les sujets du moment.",
+   "u": "https://canal9.ch/de/unser-wochenruckblick-quer-durch-die-schweiz-219/"
+  },
+  {
+   "id": "a04",
+   "sec": "romandie",
+   "th": [
+    "com-publique"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-02T08:11:56Z",
+   "t": "La nouvelle carte d'identité biométrique peut être commandée dès ce lundi",
+   "a": "La nouvelle carte d'identité biométrique peut être commandée dès aujourd'hui : un message pratique que les services publics doivent expliquer simplement.",
+   "u": "https://www.rts.ch/info/suisse/2026/article/carte-d-identite-suisse-modele-biometrique-des-le-2-novembre-29390485.html?rts_source=rss_t"
+  },
+  {
+   "id": "a05",
+   "sec": "romandie",
+   "th": [
+    "com-publique"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-02T07:43:17Z",
+   "t": "La semaine nationale de la vaccination commence, notamment pour les personnes à risque",
+   "a": "Deux semaines nationales de vaccination cet automne, en priorité pour les personnes à risque : un exercice de communication de santé publique.",
+   "u": "https://www.rts.ch/info/sante/2026/article/vaccination-en-suisse-deux-semaines-prevues-en-novembre-2026-29402199.html?rts_source=rss_t"
+  },
+  {
+   "id": "a06",
+   "sec": "romandie",
+   "th": [
+    "com-publique"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-02T06:59:48Z",
+   "t": "Vous êtes énervé quand il y a des problèmes avec les trains? Les CFF veulent améliorer leur communication",
+   "a": "Les CFF testent des messages plus rapides sur leur appli lors des retards : un cas concret de communication de crise en temps réel.",
+   "u": "https://www.rts.ch/info/regions/vaud/2026/article/cff-des-plans-b-sur-l-application-lors-des-retards-29402201.html?rts_source=rss_t"
+  },
+  {
+   "id": "a07",
+   "sec": "romandie",
+   "th": [
+    "com-publique"
+   ],
+   "s": "Le Temps",
+   "via": "flux",
+   "d": "2026-11-02T06:14:34Z",
+   "t": "Problèmes de sécurité, risques sur les données, sauvegardes problématiques: un rapport pointe les zones d’ombre entourant Microsoft 365",
+   "a": "Le Contrôle fédéral des finances pointe des failles de sécurité et de sauvegarde dans un projet numérique de l'État : la confiance passe aussi par les données.",
+   "u": "https://www.letemps.ch/articles/problemes-de-securite-risques-sur-les-donnees-sauvegardes-problematiques-un-rapport-pointe-les-zones-d-ombre-entourant-microsoft-365"
+  },
+  {
+   "id": "a08",
+   "sec": "romandie",
+   "th": [
+    "com-publique"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-01T15:29:08Z",
+   "t": "A Zurich, le Grand Conseil donne carte blanche à des personnalités pour raconter la politique autrement",
+   "a": "Le Grand Conseil zurichois confie des tribunes à des personnalités pour raconter la politique autrement : une piste pour dépasser les communiqués.",
+   "u": "https://www.rts.ch/info/regions/autres-cantons/2026/article/grand-conseil-zurichois-carte-blanche-a-des-personnalites-29399755.html?rts_source=rss_t"
+  },
+  {
+   "id": "a09",
+   "sec": "romandie",
+   "th": [
+    "com-publique"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-02T05:33:38Z",
+   "t": "Cyberharcèlement: comment agir et se protéger efficacement",
+   "a": "Adultes comme jeunes sont de plus en plus exposés au cyberharcèlement ; le guide rappelle les réflexes pour agir et se protéger.",
+   "u": "https://www.rts.ch/info/societe/2026/article/cyberharcelement-comment-agir-et-se-proteger-en-suisse-29398903.html?rts_source=rss_t"
+  },
+  {
+   "id": "a10",
+   "sec": "romandie",
+   "th": [
+    "com-publique"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-01T13:42:56Z",
+   "t": "Comment nourrir votre bébé? Les ressources en ligne d'Unisanté pour favoriser les bonnes pratiques",
+   "a": "Unisanté lance un parcours en ligne de 17 vidéos sur l'alimentation du bébé : un bon exemple de contenu pédagogique institutionnel.",
+   "u": "https://www.rts.ch/info/sante/2026/article/comment-nourrir-son-bebe-le-guide-interactif-d-unisante-29401520.html?rts_source=rss_t"
+  },
+  {
+   "id": "a11",
+   "sec": "romandie",
+   "th": [
+    "com-publique"
+   ],
+   "s": "watson.ch",
+   "via": "flux",
+   "d": "2026-11-01T13:56:57Z",
+   "t": "Voici ce qui va changer en Suisse en novembre",
+   "a": "Ce qui change en Suisse en novembre : une lecture utile pour anticiper les messages clients et les calendriers de campagne.",
+   "u": "https://www.watson.ch/fr/suisse/europe/716121884-voici-ce-qui-va-changer-en-suisse-en-novembre"
+  },
+  {
+   "id": "a12",
+   "sec": "romandie",
+   "th": [
+    "tourisme-marques"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-02T05:34:50Z",
+   "t": "Brasseries artisanales: après l'euphorie, les lendemains difficiles",
+   "a": "Plus de 200 brasseries artisanales ont disparu en Suisse en cinq ans : un signal pour les marques locales qui misent sur le récit régional.",
+   "u": "https://www.rts.ch/info/economie/2026/article/biere-artisanale-200-brasseries-ont-disparu-en-suisse-en-cinq-ans-29396776.html?rts_source=rss_t"
+  },
+  {
+   "id": "a13",
+   "sec": "romandie",
+   "th": [
+    "tourisme-marques"
+   ],
+   "s": "Le Temps",
+   "via": "flux",
+   "d": "2026-11-02T04:30:00Z",
+   "t": "Dans l’horlogerie, la fuite vers le luxe n’est pas une fatalité",
+   "a": "Un éditorial sur la tentation du luxe dans l'horlogerie : le récit de marque devient le principal levier de différenciation.",
+   "u": "https://www.letemps.ch/articles/dans-l-horlogerie-la-fuite-vers-le-luxe-n-est-pas-une-fatalite"
+  },
+  {
+   "id": "a14",
+   "sec": "romandie",
+   "th": [
+    "medias"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-01T11:29:02Z",
+   "t": "\"Faut-il dévorer le Röstigraben ?\": le podcast qui réconcilie les Romands avec le suisse-allemand",
+   "a": "Un podcast qui réconcilie Romands et Alémaniques avec la langue de l'autre : un format à observer pour créer de la proximité avec un public.",
+   "u": "https://www.rts.ch/info/suisse/2026/article/suisse-allemand-le-podcast-qui-reconcilie-les-romands-29400803.html?rts_source=rss_t"
+  },
+  {
+   "id": "a15",
+   "sec": "romandie",
+   "th": [
+    "ia-marketing"
+   ],
+   "s": "Le Temps",
+   "via": "flux",
+   "d": "2026-11-02T04:34:04Z",
+   "t": "La Corée du Sud prévoit un budget record pour l'intelligence artificielle en 2027",
+   "a": "Séoul prévoit un budget record pour l'IA en 2027 : la course aux investissements publics s'accélère hors d'Europe et des États-Unis.",
+   "u": "https://www.letemps.ch/articles/la-coree-du-sud-prevoit-un-budget-record-pour-l-intelligence-artificielle-en-2027"
+  },
+  {
+   "id": "a16",
+   "sec": "romandie",
+   "th": [
+    "international-politique"
+   ],
+   "s": "Le Temps",
+   "via": "flux",
+   "d": "2026-11-02T03:45:01Z",
+   "t": "En direct, Moyen-Orient – Donald Trump estime qu'il faudra «à un moment, donner un coup de massue» à l'Iran",
+   "a": "Donald Trump laisse entendre qu'il faudra « donner un coup de massue » à l'Iran : un contexte géopolitique qui pèse sur l'humeur des marchés.",
+   "u": "https://www.letemps.ch/articles/en-direct-moyen-orient-donald-trump-estime-qu-il-faudra-a-un-moment-donner-un-coup-de-massue-a-l-iran"
+  },
+  {
+   "id": "a17",
+   "sec": "romandie",
+   "th": [
+    "international-politique"
+   ],
+   "s": "RTS Info",
+   "via": "flux",
+   "d": "2026-11-02T01:34:18Z",
+   "t": "Kiev demande des missiles américains en échange d'une fin des frappes en Russie",
+   "a": "Kiev propose d'arrêter les frappes sur les raffineries russes contre des missiles américains : un marchandage diplomatique aux contours encore flous.",
+   "u": "https://www.rts.ch/info/dossiers/2022/guerre-en-ukraine/2026/article/missiles-patriot-zelensky-propose-un-marche-a-donald-trump-29402316.html?rts_source=rss_t"
+  },
+  {
+   "id": "a18",
+   "sec": "com-suisse",
+   "th": [
+    "medias"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-02T07:50:00Z",
+   "t": "Crowdfunding-Projekt geht nicht an den Start",
+   "a": "Un format journalistique pour un jeune public est abandonné après un changement d'équipe : les fonds collectés seront rendus ou versés à Reflekt.",
+   "u": "https://www.persoenlich.com/medien/crowdfunding-projekt-geht-nicht-an-den-start"
+  },
+  {
+   "id": "a19",
+   "sec": "com-suisse",
+   "th": [
+    "com-publique"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-02T07:50:00Z",
+   "t": "150 Fachleute diskutierten in Zürich",
+   "a": "150 spécialistes ont débattu à Zurich de la manière dont les autorités peuvent atteindre une population fragmentée : un enjeu central pour la communication publique.",
+   "u": "https://www.persoenlich.com/prcorporate-communication/150-fachleute-diskutierten-in-zurich"
+  },
+  {
+   "id": "a20",
+   "sec": "com-suisse",
+   "th": [
+    "design-creation"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-02T07:45:00Z",
+   "t": "Emmentaler Pflegedienst wirbt mit Open Mic",
+   "a": "Une Spitex lance un concours vidéo pour recruter des apprentis : une campagne employeur qui mise sur les formats jeunes et le contenu créatif.",
+   "u": "https://www.persoenlich.com/kategorie-werbung/emmentaler-pflegedienst-wirbt-mit-open-mic"
+  },
+  {
+   "id": "a21",
+   "sec": "com-suisse",
+   "th": [
+    "medias"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-02T06:50:00Z",
+   "t": "Sender lässt Fall Hans Jucker aufarbeiten",
+   "a": "Un diffuseur fait réexaminer le dossier d'un ancien reporter sportif : un rappel de la responsabilité éditoriale des médias.",
+   "u": "https://www.persoenlich.com/gesellschaft/sender-lasst-fall-hans-jucker-aufarbeiten"
+  },
+  {
+   "id": "a22",
+   "sec": "com-suisse",
+   "th": [
+    "medias"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-02T06:50:00Z",
+   "t": "Redaktion hat aus Rothaus verlassen",
+   "a": "Une rédaction en ligne quitte Rothaus pour un nouveau bâtiment zurichois : un signal sur la réorganisation des médias numériques suisses.",
+   "u": "https://www.persoenlich.com/medien/redaktion-hat-aus-rothaus-verlassen"
+  },
+  {
+   "id": "a23",
+   "sec": "com-suisse",
+   "th": [
+    "tourisme-marques"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-01T20:30:00Z",
+   "t": "«Die Verantwortung von Filmfestivals wächst»",
+   "a": "Après le départ de son sponsor principal, un festival repense sa responsabilité : une question directe pour les partenariats de marque et de culture.",
+   "u": "https://www.persoenlich.com/gesellschaft/die-verantwortung-von-filmfestivals-wachst"
+  },
+  {
+   "id": "a24",
+   "sec": "com-suisse",
+   "th": [
+    "medias"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-01T18:10:00Z",
+   "t": "Medienleute rufen zur Kundgebung in Bern auf",
+   "a": "Des journalistes de toute la Suisse appellent à une manifestation à Berne le 21 novembre : une mobilisation à suivre pour la profession.",
+   "u": "https://www.persoenlich.com/medien/medienleute-rufen-zur-kundgebung-in-bern-auf"
+  },
+  {
+   "id": "a25",
+   "sec": "com-suisse",
+   "th": [
+    "medias"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-01T08:15:00Z",
+   "t": "Leak zu Richteraffäre führt zu Strafanzeige",
+   "a": "Des informations confidentielles sur une procédure en cours auraient fuité vers un journaliste de Tamedia : une plainte pénale est déposée.",
+   "u": "https://www.persoenlich.com/medien/leak-zu-richteraffare-fuhrt-zu-strafanzeige"
+  },
+  {
+   "id": "a26",
+   "sec": "com-suisse",
+   "th": [
+    "tourisme-marques"
+   ],
+   "s": "Cominmag",
+   "via": "flux",
+   "d": "2026-10-30T15:48:48Z",
+   "t": "Série: « Tschugger » quitte le Haut-Valais pour Bollywood, mais installe sa production à Sion",
+   "a": "La série Tschugger, née dans le Haut-Valais, installe sa production à Sion : un exemple d'attractivité territoriale et de storytelling régional.",
+   "u": "https://cominmag.ch/serie-tschugger-quitte-le-haut-valais-pour-bollywood-mais-installe-sa-production-a-sion/"
+  },
+  {
+   "id": "a27",
+   "sec": "com-suisse",
+   "th": [
+    "design-creation"
+   ],
+   "s": "persoenlich.com",
+   "via": "flux",
+   "d": "2026-11-01T11:40:00Z",
+   "t": "Claudio von Planta in Hollywood ausgezeichnet",
+   "a": "Le chef opérateur suisse Claudio von Planta est récompensé à Hollywood pour l'image d'une série Apple TV : un talent de la création helvétique.",
+   "u": "https://www.persoenlich.com/gesellschaft/claudio-von-planta-in-hollywood-ausgezeichnet"
+  },
+  {
+   "id": "a28",
+   "sec": "com-france",
+   "th": [
+    "medias"
+   ],
+   "s": "CB News",
+   "via": "flux",
+   "d": "2026-11-02T04:50:03Z",
+   "t": "Les prédateurs de la presse en 2026 selon RSF",
+   "a": "RSF publie son classement des prédateurs de la presse 2026 : un rapport qui rappelle les menaces pesant sur les journalistes.",
+   "u": "https://www.cbnews.fr/etudes/les-predateurs-presse-2026-rsf"
+  },
+  {
+   "id": "a29",
+   "sec": "com-france",
+   "th": [
+    "medias"
+   ],
+   "s": "CB News",
+   "via": "flux",
+   "d": "2026-11-02T04:45:03Z",
+   "t": "Cityz Media crée une entité dédiée aux bus et muscle ses offres pour 2027",
+   "a": "Cityz Media crée une entité dédiée aux bus et renforce ses offres pour 2027 : un exemple de diversification des régies publicitaires.",
+   "u": "https://www.cbnews.fr/medias/cityz-media-cree-entite-dediee-aux-bus-muscle-ses-offres-2027"
+  },
+  {
+   "id": "a30",
+   "sec": "com-france",
+   "th": [
+    "medias"
+   ],
+   "s": "CB News",
+   "via": "flux",
+   "d": "2026-11-02T04:43:02Z",
+   "t": "PLF 2027 : un sous-amendement veut étendre le fléchage publicitaire à la presse magazine et spécialisée",
+   "a": "Un sous-amendement étend le fléchage publicitaire à la presse magazine et spécialisée : un enjeu direct pour les budgets média.",
+   "u": "https://www.cbnews.fr/medias/plf-2027-amendement-veut-etendre-flechage-publicitaire-presse-magazine-specialisee"
+  },
+  {
+   "id": "a31",
+   "sec": "com-france",
+   "th": [
+    "medias"
+   ],
+   "s": "CB News",
+   "via": "flux",
+   "d": "2026-11-02T04:40:03Z",
+   "t": "PLF 2027 : les avantages fiscaux à l’investissement dans la presse prolongés jusqu’en 2029",
+   "a": "Les avantages fiscaux à l'investissement dans la presse seraient prolongés jusqu'en 2029 : une mesure à suivre pour les éditeurs.",
+   "u": "https://www.cbnews.fr/medias/plf-2027-les-avantages-fiscaux-investissement-presse-prolonges-2029"
+  },
+  {
+   "id": "a32",
+   "sec": "com-france",
+   "th": [
+    "medias"
+   ],
+   "s": "CB News",
+   "via": "flux",
+   "d": "2026-11-02T04:20:03Z",
+   "t": "PLF 2027 : Les plateformes davantage taxée, les plateformes des chaînes TV exonérées",
+   "a": "Les plateformes seraient davantage taxées, tandis que celles des chaînes TV seraient exonérées : un arbitrage qui touche la publicité en ligne.",
+   "u": "https://www.cbnews.fr/digital/plf-2027-les-plateformes-davantage-taxee-les-plateformes-chaines-tv-exonerees"
+  },
+  {
+   "id": "a33",
+   "sec": "com-france",
+   "th": [
+    "com-publique"
+   ],
+   "s": "CB News",
+   "via": "flux",
+   "d": "2026-11-02T04:15:02Z",
+   "t": "PLF 2027 : la publicité sur les bâches d'échafaudage pourrait s'étendre à tous les bâtiments publics",
+   "a": "La publicité sur les bâches d'échafaudage pourrait s'étendre à tous les bâtiments publics : un nouveau support à surveiller pour les annonceurs.",
+   "u": "https://www.cbnews.fr/medias/plf-2027-publicite-les-baches-echafaudage-pourrait-s-etendre-tous-les-batiments-publics"
+  },
+  {
+   "id": "a34",
+   "sec": "com-france",
+   "th": [
+    "medias"
+   ],
+   "s": "CB News",
+   "via": "flux",
+   "d": "2026-11-02T04:30:02Z",
+   "t": "PLF 2027 : les députés veulent faire payer les gigaoctets aux plateformes",
+   "a": "Des députés veulent faire payer les gigaoctets aux plateformes : une idée qui relance le débat sur la rémunération des contenus.",
+   "u": "https://www.cbnews.fr/digital/plf-2027-les-deputes-veulent-faire-payer-les-gigaoctets-aux-plateformes"
+  },
+  {
+   "id": "a35",
+   "sec": "com-france",
+   "th": [
+    "design-creation"
+   ],
+   "s": "Blog du Modérateur",
+   "via": "flux",
+   "d": "2026-11-02T06:00:54Z",
+   "t": "« Nous devons donner aux internautes une raison de redécouvrir Firefox »",
+   "a": "Le responsable de Firefox explique la refonte du navigateur : un cas utile pour redonner envie à des utilisateurs déjà installés.",
+   "u": "https://www.blogdumoderateur.com/interview-firefox-refonte/"
+  },
+  {
+   "id": "a36",
+   "sec": "com-france",
+   "th": [
+    "seo-geo"
+   ],
+   "s": "Siècle Digital",
+   "via": "flux",
+   "d": "2026-10-30T14:33:10Z",
+   "t": "Reddit va bientôt limiter l’accès à ses contenus si vous n’avez pas de compte",
+   "a": "Reddit va limiter l'accès à ses contenus aux visiteurs sans compte : une décision qui touche directement la visibilité des pages.",
+   "u": "https://siecledigital.fr/2026/10/30/reddit-va-bientot-limiter-lacces-a-ses-contenus-si-vous-navez-pas-de-compte/"
+  },
+  {
+   "id": "a37",
+   "sec": "com-france",
+   "th": [
+    "ia-marketing"
+   ],
+   "s": "Siècle Digital",
+   "via": "flux",
+   "d": "2026-10-30T14:25:01Z",
+   "t": "Microsoft affiche des résultats historiques, mais ses dépenses dans l’IA explosent",
+   "a": "Microsoft affiche des résultats records, mais ses dépenses en IA explosent : la pression sur les investissements en intelligence artificielle s'intensifie.",
+   "u": "https://siecledigital.fr/2026/10/30/microsoft-affiche-des-resultats-historiques-mais-ses-depenses-dans-lia-explosent/"
+  },
+  {
+   "id": "a38",
+   "sec": "com-france",
+   "th": [
+    "ia-marketing"
+   ],
+   "s": "Siècle Digital",
+   "via": "flux",
+   "d": "2026-10-30T14:17:23Z",
+   "t": "Spotify pourrait vous laisser transformer vos chansons préférées pour 5€ par mois",
+   "a": "Spotify pourrait permettre de transformer ses morceaux préférés pour 5 € par mois : la musique générée par IA entre dans l'offre payante.",
+   "u": "https://siecledigital.fr/2026/10/30/spotify-pourrait-vous-laisser-transformer-vos-chansons-preferees-pour-5e-par-mois/"
+  },
+  {
+   "id": "a39",
+   "sec": "com-france",
+   "th": [
+    "medias"
+   ],
+   "s": "Siècle Digital",
+   "via": "flux",
+   "d": "2026-10-30T14:06:42Z",
+   "t": "Amazon confirme que Prime Video est rentable et génère des milliards de dollars",
+   "a": "Amazon confirme que Prime Video est rentable et génère des milliards de dollars : la publicité devient un moteur de revenus pour les plateformes.",
+   "u": "https://siecledigital.fr/2026/10/30/amazon-confirme-que-prime-video-est-rentable-et-genere-des-milliards-de-dollars/"
+  },
+  {
+   "id": "a40",
+   "sec": "com-france",
+   "th": [
+    "medias"
+   ],
+   "s": "Siècle Digital",
+   "via": "flux",
+   "d": "2026-10-30T13:59:44Z",
+   "t": "La CNIL inflige 7 millions d’euros d’amende à Fnac Darty pour avoir collecté des données sans consentement",
+   "a": "La CNIL inflige 7 millions d'euros à Fnac Darty pour des collectes de données sans consentement : un rappel pour toute stratégie de données clients.",
+   "u": "https://siecledigital.fr/2026/10/30/la-cnil-inflige-7-millions-deuros-damende-a-fnac-darty-pour-avoir-collecte-des-donnees-sans-consentement/"
+  },
+  {
+   "id": "a41",
+   "sec": "com-france",
+   "th": [
+    "seo-geo"
+   ],
+   "s": "Abondance",
+   "via": "flux",
+   "d": "2026-10-30T14:27:59Z",
+   "t": "Google accusé de voler le trafic des sites web : la riposte est lancée !",
+   "a": "Des organisations de la presse française ont saisi les autorités contre Google, accusé de capter le trafic des sites : un dossier central pour le SEO et le GEO.",
+   "u": "https://www.abondance.com/20261030-3049989-google-accuse-de-voler-le-trafic-des-sites-web-la-riposte-est-lancee.html"
+  },
+  {
+   "id": "a42",
+   "sec": "international",
+   "th": [
+    "ia-marketing",
+    "medias"
+   ],
+   "s": "Digiday",
+   "via": "flux",
+   "d": "2026-11-02T05:01:00Z",
+   "t": "People Inc. is building custom APIs to make its journalism easier for AI agents to use",
+   "a": "People Inc. construit des API dédiées pour que les IA puissent exploiter son journalisme : la licence de contenu devient un produit technique.",
+   "u": "https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+  },
+  {
+   "id": "a43",
+   "sec": "international",
+   "th": [
+    "medias"
+   ],
+   "s": "Digiday",
+   "via": "flux",
+   "d": "2026-11-02T05:01:00Z",
+   "t": "Giggly Squad’s SiriusXM deal signals a shift from podcast networks to creator ecosystems",
+   "a": "Le contrat entre Giggly Squad et SiriusXM illustre le passage des réseaux de podcasts aux écosystèmes de créateurs.",
+   "u": "https://digiday.com/media/giggly-squads-siriusxm-deal-signals-a-shift-from-podcast-networks-to-creator-ecosystems/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+  },
+  {
+   "id": "a44",
+   "sec": "international",
+   "th": [
+    "seo-geo"
+   ],
+   "s": "Digiday",
+   "via": "flux",
+   "d": "2026-11-02T05:01:00Z",
+   "t": "Google search loses its free pass with buyers",
+   "a": "Les acheteurs remettent en cause la recherche Google, longtemps considérée comme un achat acquis : un signal à suivre pour les plans média.",
+   "u": "https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+  },
+  {
+   "id": "a45",
+   "sec": "international",
+   "th": [
+    "ia-marketing"
+   ],
+   "s": "Digiday",
+   "via": "flux",
+   "d": "2026-11-02T05:01:00Z",
+   "t": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
+   "a": "Amazon affirme que plus de 400 millions de clients ont utilisé Alexa pour les achats en douze mois, avec 50 % de dépense en plus.",
+   "u": "https://digiday.com/marketing/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+  },
+  {
+   "id": "a46",
+   "sec": "international",
+   "th": [
+    "ia-marketing"
+   ],
+   "s": "Digiday",
+   "via": "flux",
+   "d": "2026-11-02T05:01:00Z",
+   "t": "Media Buying Briefing: Overheard at Media Buying Summit: How AI is helping and hurting client relations and office work",
+   "a": "Des agences s'inquiètent d'un usage paresseux de l'IA dans les briefs clients et les documents internes : un débat direct pour les agences.",
+   "u": "https://digiday.com/media-buying/media-buying-briefing-overheard-at-media-buying-summit-how-ai-is-helping-and-hurting-client-relations-and-office-work/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss"
+  },
+  {
+   "id": "a47",
+   "sec": "international",
+   "th": [
+    "ia-marketing",
+    "design-creation"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-11-02T00:01:00Z",
+   "t": "Svedka Hands Its Next Super Bowl Ad to the Public After Polarizing AI Debut",
+   "a": "Après un premier spot IA controversé, Svedka confie son prochain spot du Super Bowl au public via un concours : un test de co-création.",
+   "u": "https://www.adweek.com/creativity/svedka-hands-its-next-super-bowl-ad-to-the-public-after-polarizing-ai-debut/"
+  },
+  {
+   "id": "a48",
+   "sec": "international",
+   "th": [
+    "design-creation"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-10-31T11:00:00Z",
+   "t": "Selena Gomez and Tate McRae Bring the Magic to Ulta Beauty’s Holiday Campaign",
+   "a": "La campagne des fêtes d'Ulta Beauty mise sur Selena Gomez et Tate McRae : un exemple de partenariat avec des personnalités à forte audience.",
+   "u": "https://www.adweek.com/creativity/selena-gomez-and-tate-mcrae-bring-the-magic-to-ulta-beautys-holiday-campaign/"
+  },
+  {
+   "id": "a49",
+   "sec": "international",
+   "th": [
+    "medias"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-10-30T20:20:30Z",
+   "t": "Ticker: Paula Reid Joins MS NOW as Chief White House Reporter",
+   "a": "Paula Reid rejoint MS NOW comme cheffe de la Maison-Blanche : la bataille pour l'accès aux sources continue entre chaînes.",
+   "u": "https://www.adweek.com/tvnewser/ticker-paula-reid-joins-ms-now-as-chief-white-house-reporter/"
+  },
+  {
+   "id": "a50",
+   "sec": "international",
+   "th": [
+    "tourisme-marques"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-10-30T17:18:17Z",
+   "t": "How Brands Like Wendy’s and Planet Fitness Wove Into the Fabric of Bravo Fan Fest",
+   "a": "Wendy's et Planet Fitness se sont intégrés aux fan fests de Bravo : des marques qui créent du lien par l'expérience plutôt que par la publicité.",
+   "u": "https://www.adweek.com/brand-marketing/how-brands-like-wendys-and-planet-fitness-wove-into-the-fabric-of-bravo-fan-fest/"
+  },
+  {
+   "id": "a51",
+   "sec": "international",
+   "th": [
+    "ia-marketing"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-10-30T16:22:42Z",
+   "t": "DoorDash Buying Instacart Challenges Uber’s $2 Billion Ad Business",
+   "a": "DoorDash rachète Instacart et défie le business publicitaire d'Uber : la publicité retail devient le terrain de bataille des plateformes.",
+   "u": "https://www.adweek.com/commerce/doordash-buying-instacart-challenges-ubers-2-billion-ad-business/"
+  },
+  {
+   "id": "a52",
+   "sec": "international",
+   "th": [
+    "medias"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-10-30T16:21:50Z",
+   "t": "How News Networks are Covering the 2026 Midterm Elections",
+   "a": "Les réseaux d'information dévoilent leur couverture des élections de mi-mandat, avec des options non linéaires le soir du scrutin.",
+   "u": "https://www.adweek.com/tvnewser/how-news-networks-are-covering-the-2026-midterm-elections/"
+  },
+  {
+   "id": "a53",
+   "sec": "international",
+   "th": [
+    "ia-marketing"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-10-30T11:18:28Z",
+   "t": "Zocdoc Opens Its Platform to AI Agents",
+   "a": "Zocdoc ouvre sa plateforme aux agents IA pour accéder à ses données : un modèle à surveiller pour les services en ligne.",
+   "u": "https://www.adweek.com/media/zocdoc-opens-its-platform-to-ai-agents/"
+  },
+  {
+   "id": "a54",
+   "sec": "international",
+   "th": [
+    "tourisme-marques"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-10-30T11:03:06Z",
+   "t": "The Cheesecake Factory Is the Real Winner in Obama-Trump Food Fight",
+   "a": "The Cheesecake Factory reste à l'écart de la polémique entre Obama et Trump : un capital de marque qui lui a permis de ne pas prendre parti.",
+   "u": "https://www.adweek.com/brand-marketing/the-cheesecake-factory-is-the-real-winner-in-obama-trump-food-fight/"
+  },
+  {
+   "id": "a55",
+   "sec": "international",
+   "th": [
+    "design-creation"
+   ],
+   "s": "Adweek",
+   "via": "flux",
+   "d": "2026-10-30T13:36:03Z",
+   "t": "From Pontiac to Paramount, Patrick Stewart Lent His Star Power to Brands",
+   "a": "Patrick Stewart a prêté sa notoriété à des marques, de Pontiac à Paramount : un rappel de l'histoire des campagnes à célébrités.",
+   "u": "https://www.adweek.com/creativity/from-pontiac-to-paramount-patrick-stewart-lent-his-star-to-brands/"
+  }
+ ],
+ "sources": [
+  {
+   "name": "Le Nouvelliste",
+   "sec": "valais",
+   "via": "absent"
+  },
+  {
+   "name": "Canal9",
+   "sec": "valais",
+   "via": "flux"
+  },
+  {
+   "name": "RTS Info",
+   "sec": "romandie",
+   "via": "flux"
+  },
+  {
+   "name": "Le Temps",
+   "sec": "romandie",
+   "via": "flux"
+  },
+  {
+   "name": "Heidi.news",
+   "sec": "romandie",
+   "via": "absent"
+  },
+  {
+   "name": "watson.ch",
+   "sec": "romandie",
+   "via": "flux"
+  },
+  {
+   "name": "persoenlich.com",
+   "sec": "com-suisse",
+   "via": "flux"
+  },
+  {
+   "name": "Kleinreport",
+   "sec": "com-suisse",
+   "via": "absent"
+  },
+  {
+   "name": "Cominmag",
+   "sec": "com-suisse",
+   "via": "flux"
+  },
+  {
+   "name": "Blog du Modérateur",
+   "sec": "com-france",
+   "via": "flux"
+  },
+  {
+   "name": "CB News",
+   "sec": "com-france",
+   "via": "flux"
+  },
+  {
+   "name": "Stratégies",
+   "sec": "com-france",
+   "via": "absent"
+  },
+  {
+   "name": "Siècle Digital",
+   "sec": "com-france",
+   "via": "flux"
+  },
+  {
+   "name": "Abondance",
+   "sec": "com-france",
+   "via": "flux"
+  },
+  {
+   "name": "Adweek",
+   "sec": "international",
+   "via": "flux"
+  },
+  {
+   "name": "Digiday",
+   "sec": "international",
+   "via": "flux"
+  },
+  {
+   "name": "Nieman Lab",
+   "sec": "international",
+   "via": "flux"
+  },
+  {
+   "name": "Search Engine Land",
+   "sec": "international",
+   "via": "absent"
+  },
+  {
+   "name": "HugoDécrypte (podcast)",
+   "sec": "international",
+   "via": "flux"
+  }
+ ],
+ "hugo": {
+  "episode": "Tout ce qui change dès maintenant (31/10)",
+  "date": "2026-10-31T18:52:08Z",
+  "url": "https://shows.acast.com/les-actus-du-jour-hugo-decrypte/episodes/tout-ce-qui-change-des-maintenant-3110",
+  "intro": "Hugo fait le tour de ce qui change dès novembre, et nos sources ne couvrent que peu de ces sujets.",
+  "sujets": [
+   {
+    "titre": "Ce qui change en novembre",
+    "texte": "Nos sources ne couvrent pas les changements français ; watson recense en revanche ce qui change en Suisse en novembre.",
+    "liens": [
+     {
+      "s": "watson.ch",
+      "t": "Voici ce qui va changer en Suisse en novembre",
+      "u": "https://www.watson.ch/fr/suisse/europe/716121884-voici-ce-qui-va-changer-en-suisse-en-novembre"
+     }
+    ]
+   },
+   {
+    "titre": "Rassemblement à Trappes",
+    "texte": "Sujet traité dans l'épisode ; aucun article de nos sources ne le couvre aujourd'hui.",
+    "liens": []
+   },
+   {
+    "titre": "UE et Canada : rapprochement",
+    "texte": "Sujet traité dans l'épisode ; aucun article de nos sources ne le couvre aujourd'hui.",
+    "liens": []
+   },
+   {
+    "titre": "Pologne",
+    "texte": "Sujet traité dans l'épisode ; aucun article de nos sources ne le couvre aujourd'hui.",
+    "liens": []
+   },
+   {
+    "titre": "Jeux olympiques de la jeunesse",
+    "texte": "Sujet traité dans l'épisode ; aucun article de nos sources ne le couvre aujourd'hui.",
+    "liens": []
+   }
+  ]
+ },
+ "weekly": {
+  "du": "2026-10-31",
+  "au": "2026-11-01",
+  "intro": "Le week-end a été marqué par les manifestations sociales en Suisse alémanique et par la correction de trois reportages de la SRF. En communication, la campagne d'Ulta Beauty et la GEO dans les budgets européens ont retenu l'attention.",
+  "categories": [
+   {
+    "nom": "Politique",
+    "items": [
+     {
+      "t": "De Zurich à Francfort, des manifestations ont basculé dans la violence",
+      "u": "https://www.letemps.ch/articles/de-zurich-a-francfort-des-manifestations-ont-bascule-dans-la-violence",
+      "s": "Le Temps",
+      "d": "2026-11-01T16:15:11Z"
+     },
+     {
+      "t": "\"On en a marre\": à Zurich et à Bâle, la colère des jeunes gronde aussi",
+      "u": "https://www.rts.ch/info/regions/autres-cantons/2026/article/zurich-et-bale-heurts-avec-la-police-lors-de-manifestations-29401737.html?rts_source=rss_t",
+      "s": "RTS Info",
+      "d": "2026-11-01T01:17:57Z"
+     },
+     {
+      "t": "Voici ce qui va changer en Suisse en novembre",
+      "u": "https://www.watson.ch/fr/suisse/europe/716121884-voici-ce-qui-va-changer-en-suisse-en-novembre",
+      "s": "watson.ch",
+      "d": "2026-11-01T13:56:57Z"
+     }
+    ]
+   },
+   {
+    "nom": "Économie",
+    "items": [
+     {
+      "t": "Le luxe pris entre l’atonie de la Chine et la nécessité de créer des «chocs de créativité»",
+      "u": "https://www.letemps.ch/articles/le-luxe-pris-entre-l-atonie-de-la-chine-et-la-necessite-de-creer-des-chocs-de-creativite",
+      "s": "Le Temps",
+      "d": "2026-11-01T18:30:06Z"
+     },
+     {
+      "t": "L’investissement à impact entre dans l’âge de la maturité",
+      "u": "https://www.letemps.ch/articles/l-investissement-a-impact-entre-dans-l-age-de-la-maturite",
+      "s": "Le Temps",
+      "d": "2026-11-01T20:07:44Z"
+     }
+    ]
+   },
+   {
+    "nom": "Local (Valais et Romandie)",
+    "items": [
+     {
+      "t": "Un avocat de victimes demande la mise sous régie partielle de la commune de Crans-Montana",
+      "u": "https://www.rts.ch/info/regions/valais/2026/article/crans-montana-24-victimes-demandent-la-mise-sous-tutelle-29401777.html?rts_source=rss_t",
+      "s": "RTS Info",
+      "d": "2026-11-01T07:37:27Z"
+     },
+     {
+      "t": "Unser Wochenrückblick quer durch die Schweiz",
+      "u": "https://canal9.ch/de/unser-wochenruckblick-quer-durch-die-schweiz-219/",
+      "s": "Canal9",
+      "d": "2026-10-31T17:00:53Z"
+     },
+     {
+      "t": "Logiciel Epic: un débat démocratique capital sur l’autonomie numérique se profile dans le canton de Vaud",
+      "u": "https://www.letemps.ch/articles/logiciel-epic-un-debat-democratique-capital-sur-l-autonomie-numerique-se-profile-dans-le-canton-de-vaud",
+      "s": "Le Temps",
+      "d": "2026-11-01T17:15:30Z"
+     }
+    ]
+   },
+   {
+    "nom": "Communication",
+    "items": [
+     {
+      "t": "Selena Gomez and Tate McRae Bring the Magic to Ulta Beauty’s Holiday Campaign",
+      "u": "https://www.adweek.com/creativity/selena-gomez-and-tate-mcrae-bring-the-magic-to-ulta-beautys-holiday-campaign/",
+      "s": "Adweek",
+      "d": "2026-10-31T11:00:00Z"
+     },
+     {
+      "t": "Sender muss drei Abstimmungsberichte korrigieren",
+      "u": "https://www.persoenlich.com/medien/sender-muss-drei-abstimmungsberichte-korrigieren",
+      "s": "persoenlich.com",
+      "d": "2026-10-31T07:00:00Z"
+     },
+     {
+      "t": "Lundi RP : 2 agences remportent des budgets",
+      "u": "https://www.cbnews.fr/conseil/lundi-rp-2-agences-remportent-budgets-1",
+      "s": "CB News",
+      "d": "2026-11-01T12:18:58Z"
+     }
+    ]
+   },
+   {
+    "nom": "IA",
+    "items": [
+     {
+      "t": "La ministre de la Culture veut réformer les aides à la presse et mieux rémunérer les contenus utilisés par l’IA",
+      "u": "https://www.cbnews.fr/medias/ministre-culture-veut-reformer-les-aides-presse-mieux-remunerer-les-contenus-utilises-ia",
+      "s": "CB News",
+      "d": "2026-11-01T12:20:22Z"
+     },
+     {
+      "t": "Châteauform’ confie sa stratégie GEO européenne à Ad’s up Consulting",
+      "u": "https://www.cbnews.fr/digital/chateauform-confie-sa-strategie-geo-europeenne-ad-s-up-consulting",
+      "s": "CB News",
+      "d": "2026-11-01T12:20:02Z"
+     }
+    ]
+   }
+  ]
+ }
+}

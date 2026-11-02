@@ -119,10 +119,10 @@
   /* ---------- derniers titres + clients (dépôt GitHub de la veille) ---------- */
   function veille() {
     Promise.all([
-      cached("articles", 15, function () { return getJSON(RAW + "data/articles.json"); }),
+      cached("pouls", 15, function () { return getJSON(RAW + "data/pouls.json"); }),
       cached("clients", 24 * 60, function () { return getJSON(RAW + "clients.json"); }).catch(function () { return null; })
     ]).then(function (r) {
-      var arts = (r[0].articles || []).slice().sort(function (a, b) { return (b.date || "").localeCompare(a.date || ""); });
+      var arts = (r[0].articles || []).map(function (a) { return { title: a.t, link: a.u, source: a.s, date: a.d, section: a.sec }; }).sort(function (a, b) { return (b.date || "").localeCompare(a.date || ""); });
       var une = $("une"); une.textContent = "";
       var pick = arts.filter(function (a) { return a.section === "valais" || a.section.indexOf("com-") === 0; }).slice(0, 5);
       if (pick.length < 5) pick = pick.concat(arts.filter(function (a) { return a.section === "romandie"; }).slice(0, 5 - pick.length));
