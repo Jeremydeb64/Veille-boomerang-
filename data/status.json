@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T14:26:30.888952+00:00",
+ "generated_at": "2026-11-03T18:04:09.851691+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -7,7 +7,7 @@
    "section": "valais",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14909747585599268409",
    "ok": true,
-   "items_in_feed": 0,
+   "items_in_feed": 20,
    "kept": 0
   },
   {
@@ -80,7 +80,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 7
+   "kept": 13
   },
   {
    "name": "Abondance",
