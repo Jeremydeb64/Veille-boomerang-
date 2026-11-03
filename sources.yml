@@ -19,9 +19,6 @@
   url: https://www.letemps.ch/feed
 - name: watson.ch
   section: romandie
-  url: https://www.watson.ch/fr/api/1.0/rss/index.xml
-- name: persoenlich.com
-  section: com-suisse
   url: https://www.persoenlich.com/rss/news.xml
 - name: Cominmag
   section: com-suisse
@@ -44,9 +41,6 @@
 - name: Digiday
   section: international
   url: https://digiday.com/feed/
-- name: Nieman Lab
-  section: international
-  url: https://www.niemanlab.org/feed/
 - name: HugoDécrypte (podcast)
   section: international
   url: https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621
