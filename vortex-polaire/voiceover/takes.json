@@ -1,0 +1,14 @@
+{
+  "engine": "Higgsfield · Qwen Audio 3.0 TTS Flash",
+  "voice": "Alistair (preset d9d5c263-f84e-4752-97b5-3750fcc6fd2f)",
+  "instruction": "Narrateur de documentaire scientifique français : voix grave, sérieuse, sereine et engagée, débit posé.",
+  "language": "fr",
+  "takes": [
+    { "scene": "Scene01_Intro", "job": "d4ef08a4-3a93-49e9-bcc8-0361fe527d57", "duration": 8.8, "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3ELrrZRxCjFzcYL4kYhidZiKMMm/hf_20261103_223204_d4ef08a4-3a93-49e9-bcc8-0361fe527d57.wav" },
+    { "scene": "Scene02_Atmosphere", "job": "a3b4cae2-7602-410e-9e23-84e6c2bbbfee", "duration": 13.76, "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3ELrrZRxCjFzcYL4kYhidZiKMMm/hf_20261103_223230_a3b4cae2-7602-410e-9e23-84e6c2bbbfee.wav" },
+    { "scene": "Scene03_Disruption", "job": "e9989f71-3814-43bc-b1cc-525537df91bd", "duration": 9.76, "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3ELrrZRxCjFzcYL4kYhidZiKMMm/hf_20261103_223256_e9989f71-3814-43bc-b1cc-525537df91bd.wav" },
+    { "scene": "Scene04_Data", "job": "c3a33849-a4fe-409e-adf5-a2fe987e92c5", "duration": 10.64, "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3ELrrZRxCjFzcYL4kYhidZiKMMm/hf_20261103_223314_c3a33849-a4fe-409e-adf5-a2fe987e92c5.wav" },
+    { "scene": "Scene05_Europe", "job": "8c5b78d6-d233-4704-958e-f7400a795880", "duration": 12.88, "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3ELrrZRxCjFzcYL4kYhidZiKMMm/hf_20261103_223331_8c5b78d6-d233-4704-958e-f7400a795880.wav" },
+    { "scene": "Scene06_Conclusion", "job": "d3d9296a-2f22-4471-bb82-6c51d97c2284", "duration": 12.32, "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3ELrrZRxCjFzcYL4kYhidZiKMMm/hf_20261103_223350_d3d9296a-2f22-4471-bb82-6c51d97c2284.wav" }
+  ]
+}
