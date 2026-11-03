@@ -33,7 +33,7 @@ node scripts/stills.mjs 5 18 33 48 62 80     # → out/stills/
 | Prop | Défaut | Rôle |
 |---|---|---|
 | `subtitles` | `true` | Sous-titres incrustés (repris de `timeline.json`) |
-| `voiceover` | `false` | Lit `public/audio/voiceover.wav` et abaisse la musique |
+| `voiceover` | `true` | Lit `public/audio/voiceover.wav` (voix Alistair, Higgsfield) et abaisse la musique |
 | `music` | `true` | Musique et sound design génératifs |
 | `musicVolume` | `0.8` | Volume global musique + effets |
 
@@ -73,6 +73,7 @@ SOURCES.md · ASSETS.md
 
 ## Modifier
 
+- **Nouvelle voix off** : remplacer les prises dans `voiceover/takes.json` (ou déposer `voiceover/takes/<Scène>.wav`), puis `python3 scripts/build_voiceover.py && node scripts/make-srt.mjs`. Les sous-titres sont recalés sur les pauses de la voix.
 - **Texte ou minutage de la voix off** : éditer `cues` dans `src/timeline.json`, puis `node scripts/make-srt.mjs`. Les sous-titres incrustés suivent automatiquement.
 - **Durée d’une scène** : éditer `scenes` dans `timeline.json`. Les animations internes sont exprimées en frames depuis le début nominal de la scène (`o + n`, avec `o = OVERLAP`). Vérifier les captures ensuite.
 - **Couleurs et police** : `src/theme.ts`.

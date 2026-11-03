@@ -2,41 +2,152 @@
   "fps": 30,
   "durationSec": 88,
   "scenes": [
-    { "id": "Scene01_Intro", "start": 0, "end": 11 },
-    { "id": "Scene02_Atmosphere", "start": 11, "end": 26 },
-    { "id": "Scene03_Disruption", "start": 26, "end": 41 },
-    { "id": "Scene04_Data", "start": 41, "end": 54 },
-    { "id": "Scene05_Europe", "start": 54, "end": 70 },
-    { "id": "Scene06_Conclusion", "start": 70, "end": 88 }
+    {
+      "id": "Scene01_Intro",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "id": "Scene02_Atmosphere",
+      "start": 11,
+      "end": 26
+    },
+    {
+      "id": "Scene03_Disruption",
+      "start": 26,
+      "end": 41
+    },
+    {
+      "id": "Scene04_Data",
+      "start": 41,
+      "end": 54
+    },
+    {
+      "id": "Scene05_Europe",
+      "start": 54,
+      "end": 70
+    },
+    {
+      "id": "Scene06_Conclusion",
+      "start": 70,
+      "end": 88
+    }
   ],
   "cues": [
-    { "start": 0.8, "end": 3.6, "text": "À trente kilomètres au-dessus du pôle Nord," },
-    { "start": 3.6, "end": 6.0, "text": "un phénomène inhabituel se prépare." },
-    { "start": 6.5, "end": 10.4, "text": "Et il pourrait influencer la météo de notre hiver." },
-
-    { "start": 11.5, "end": 15.6, "text": "Chaque hiver, de puissants vents tournent autour de l’Arctique." },
-    { "start": 16.0, "end": 18.6, "text": "C’est le vortex polaire stratosphérique," },
-    { "start": 18.6, "end": 21.2, "text": "une circulation atmosphérique qui se développe" },
-    { "start": 21.2, "end": 24.0, "text": "à plusieurs dizaines de kilomètres d’altitude." },
-
-    { "start": 26.5, "end": 29.6, "text": "Mais début novembre 2026, les modèles annoncent" },
-    { "start": 29.6, "end": 32.2, "text": "une perturbation particulièrement précoce." },
-    { "start": 32.8, "end": 35.0, "text": "Les vents pourraient fortement ralentir," },
-    { "start": 35.0, "end": 37.0, "text": "voire changer de direction." },
-
-    { "start": 41.5, "end": 45.0, "text": "Ce qui intrigue les scientifiques, c’est le calendrier." },
-    { "start": 45.4, "end": 49.3, "text": "À cette période, le vortex devrait normalement se renforcer." },
-    { "start": 49.7, "end": 53.2, "text": "Or les prévisions suggèrent un affaiblissement inhabituel." },
-
-    { "start": 54.5, "end": 55.9, "text": "Et pour l’Europe ?" },
-    { "start": 56.3, "end": 59.0, "text": "Une perturbation du vortex peut parfois modifier" },
-    { "start": 59.0, "end": 62.4, "text": "la circulation atmosphérique, plusieurs semaines plus tard." },
-    { "start": 63.0, "end": 65.4, "text": "Mais cela ne signifie pas automatiquement" },
-    { "start": 65.4, "end": 67.4, "text": "une vague de froid en Suisse." },
-
-    { "start": 70.5, "end": 73.3, "text": "Le vortex polaire est donc à surveiller." },
-    { "start": 73.8, "end": 77.0, "text": "Mais entre une perturbation à trente kilomètres d’altitude" },
-    { "start": 77.0, "end": 80.2, "text": "et la météo dans nos villes, rien n’est automatique." },
-    { "start": 80.8, "end": 83.2, "text": "L’hiver reste encore à écrire." }
+    {
+      "start": 0.8,
+      "end": 3.35,
+      "text": "À trente kilomètres au-dessus du pôle Nord,"
+    },
+    {
+      "start": 3.35,
+      "end": 6.22,
+      "text": "un phénomène inhabituel se prépare."
+    },
+    {
+      "start": 6.22,
+      "end": 9.47,
+      "text": "Et il pourrait influencer la météo de notre hiver."
+    },
+    {
+      "start": 11.5,
+      "end": 15.5,
+      "text": "Chaque hiver, de puissants vents tournent autour de l’Arctique."
+    },
+    {
+      "start": 15.5,
+      "end": 18.6,
+      "text": "C’est le vortex polaire stratosphérique,"
+    },
+    {
+      "start": 18.6,
+      "end": 22.03,
+      "text": "une circulation atmosphérique qui se développe"
+    },
+    {
+      "start": 22.03,
+      "end": 24.87,
+      "text": "à plusieurs dizaines de kilomètres d’altitude."
+    },
+    {
+      "start": 26.5,
+      "end": 28.96,
+      "text": "Mais début novembre 2026, les modèles annoncent"
+    },
+    {
+      "start": 28.96,
+      "end": 32.52,
+      "text": "une perturbation particulièrement précoce."
+    },
+    {
+      "start": 32.52,
+      "end": 34.26,
+      "text": "Les vents pourraient fortement ralentir,"
+    },
+    {
+      "start": 34.26,
+      "end": 35.89,
+      "text": "voire changer de direction."
+    },
+    {
+      "start": 41.5,
+      "end": 44.74,
+      "text": "Ce qui intrigue les scientifiques, c’est le calendrier."
+    },
+    {
+      "start": 44.74,
+      "end": 48.88,
+      "text": "À cette période, le vortex devrait normalement se renforcer."
+    },
+    {
+      "start": 48.88,
+      "end": 51.99,
+      "text": "Or les prévisions suggèrent un affaiblissement inhabituel."
+    },
+    {
+      "start": 54.5,
+      "end": 55.68,
+      "text": "Et pour l’Europe ?"
+    },
+    {
+      "start": 55.68,
+      "end": 58.77,
+      "text": "Une perturbation du vortex peut parfois modifier"
+    },
+    {
+      "start": 58.77,
+      "end": 62.74,
+      "text": "la circulation atmosphérique, plusieurs semaines plus tard."
+    },
+    {
+      "start": 62.74,
+      "end": 65.25,
+      "text": "Mais cela ne signifie pas automatiquement"
+    },
+    {
+      "start": 65.25,
+      "end": 67.13,
+      "text": "une vague de froid en Suisse."
+    },
+    {
+      "start": 70.5,
+      "end": 73.26,
+      "text": "Le vortex polaire est donc à surveiller."
+    },
+    {
+      "start": 73.26,
+      "end": 77.02,
+      "text": "Mais entre une perturbation à trente kilomètres d’altitude"
+    },
+    {
+      "start": 77.02,
+      "end": 80.47,
+      "text": "et la météo dans nos villes, rien n’est automatique."
+    },
+    {
+      "start": 80.47,
+      "end": 82.47,
+      "text": "L’hiver reste encore à écrire."
+    }
   ]
 }

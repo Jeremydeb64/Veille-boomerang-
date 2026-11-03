@@ -13,7 +13,7 @@ export const RemotionRoot: React.FC = () => {
       width={W}
       height={H}
       schema={videoSchema}
-      defaultProps={{ subtitles: true, voiceover: false, music: true, musicVolume: 0.8 }}
+      defaultProps={{ subtitles: true, voiceover: true, music: true, musicVolume: 0.8 }}
     />
   );
 };

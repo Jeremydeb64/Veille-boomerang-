@@ -1,7 +1,7 @@
 # Script voix off — « Vortex polaire : l’hiver 2026 pourrait-il basculer ? »
 
 Durée totale : **88 s** · 30 fps · français · débit visé ≈ 135–145 mots/min.
-Les repères ci-dessous sont **les mêmes que ceux de la vidéo** (`src/timeline.json`) : sous-titres, SRT et animations en dépendent.
+Voix retenue : **Alistair** (Higgsfield · Qwen TTS), une prise par scène. Les repères exacts, recalés sur la voix réelle, sont dans `src/timeline.json` et `vortex-polaire.fr.srt`. Les repères ci-dessous sont **ceux du minutage initial** (`src/timeline.json`) : sous-titres, SRT et animations en dépendent.
 
 ## Indications de jeu
 

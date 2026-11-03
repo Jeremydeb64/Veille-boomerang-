@@ -7,7 +7,9 @@ import { clamp } from "../anim";
 export const Subtitles: React.FC = () => {
   const frame = useCurrentFrame();
   const t = frame / FPS;
-  const cue = timeline.cues.find((c) => t >= c.start - 0.05 && t < c.end + 0.25);
+  // Sous-titre actif ; sinon le précédent reste 0,25 s avant de s'effacer
+  const cue =
+    timeline.cues.find((c) => t >= c.start - 0.05 && t < c.end) ?? timeline.cues.find((c) => t >= c.end && t < c.end + 0.25);
   if (!cue) return null;
   const f0 = cue.start * FPS;
   const f1 = (cue.end + 0.25) * FPS;

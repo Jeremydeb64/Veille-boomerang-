@@ -17,6 +17,7 @@ const CREDITS: [string, string][] = [
     "Prévisions d’ensemble ECMWF relayées par Severe Weather Europe, The Watchers, Fox Weather, Capital Weather Gang, Sortiraparis",
   ],
   ["Cartographie", "Natural Earth (domaine public), via world-atlas"],
+  ["Voix off", "Synthèse vocale Higgsfield (Qwen TTS, voix « Alistair »)"],
   ["Musique et sons", "Composition générative originale, créée pour cette vidéo"],
   ["Avertissement", "Les schémas illustrent des tendances qualitatives. Ils ne constituent pas une prévision météorologique."],
 ];

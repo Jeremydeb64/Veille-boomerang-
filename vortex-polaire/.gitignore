@@ -9,3 +9,4 @@ out
 # Audio intermédiaire
 public/audio/*.wav
 !public/audio/voiceover.wav
+voiceover/takes/

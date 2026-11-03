@@ -9,10 +9,10 @@ Tous les visuels sont **générés en code** (SVG piloté par les frames Remotio
 | Police Inter (300–800, italique 500) | https://rsms.me/inter/ via `@fontsource/inter`, copiée dans `public/fonts/` | Rasmus Andersson | SIL Open Font License 1.1 | Toute la typographie |
 | Musique : `public/audio/music.mp3` | Générée par `scripts/make_audio.py` | Création originale pour ce projet | Libre de droits (œuvre propre) | Nappes, drone, arpège de données, pulsations |
 | Sound design : `public/audio/sfx.mp3` | Générée par `scripts/make_audio.py` | Création originale pour ce projet | Libre de droits (œuvre propre) | Vent, transitions aériennes, montées, bips |
-| Voix off : `public/audio/voiceover.wav` | **À fournir** (enregistrement) | — | — | Narration (voir `voiceover/SCRIPT.md`) |
+| Voix off : `public/audio/voiceover.wav` | Synthèse vocale Higgsfield, moteur Qwen Audio 3.0 TTS Flash, voix « Alistair » (prises listées dans `voiceover/takes.json`), assemblée par `scripts/build_voiceover.py` | Higgsfield / Alibaba Cloud (Qwen) | Générée sur le compte Higgsfield du projet : vérifier les conditions d’usage commercial de Higgsfield avant diffusion | Narration complète (voir `voiceover/SCRIPT.md`) |
 
 ## Ressources envisagées mais non intégrées
 
 - **Textures terrestres NASA** (Blue Marble, Earth Observatory / SVS) : l’imagerie NASA est en général réutilisable avec mention, mais `svs.gsfc.nasa.gov` et `earthobservatory.nasa.gov` n’étaient pas joignables depuis l’environnement de production. Le globe est donc vectoriel : rendu net à toutes les échelles, et une teinte cohérente avec la palette.
   Pour ajouter une texture plus tard : la placer dans `public/assets/`, l’ajouter à ce tableau et l’appliquer dans `src/components/AnimatedGlobe.tsx` (motif SVG projeté ou React Three Fiber).
-- **TTS** : aucun service gratuit et de qualité naturelle n’était disponible hors ligne (les modèles de voix ouverts sont hébergés sur des domaines bloqués). Aucun service payant n’a été utilisé, conformément au brief.
+- **Voix ElevenLabs** (Higgsfield) : plus naturelle, mais 5,06 crédits pour le texte complet, au-delà du solde disponible. La voix Qwen « Alistair » a été retenue (≈ 0,7 crédit, essais compris).
