@@ -123,6 +123,12 @@ export const TutoClaudeCode: React.FC = () => {
         </Sequence>
       ))}
       <Progress />
+      <Audio
+        src={staticFile("musique.mp3")}
+        volume={(f) =>
+          interpolate(f, [0, 10, TOTAL - 20, TOTAL], [0, 0.3, 0.3, 0], clamp)
+        }
+      />
       {VOICE.map((v, i) => {
         const next = VOICE[i + 1]?.at ?? TOTAL;
         return (

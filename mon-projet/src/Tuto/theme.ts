@@ -32,18 +32,18 @@ export const clamp = {
 
 // Découpage (30 fps) — calé sur la voix off
 export const SCENES = {
-  intro: { from: 0, dur: 96 },
-  step1: { from: 96, dur: 69 },
-  step2: { from: 165, dur: 86 },
-  step3: { from: 251, dur: 103 },
-  outro: { from: 354, dur: 96 },
+  intro: { from: 0, dur: 130 },
+  step1: { from: 130, dur: 74 },
+  step2: { from: 204, dur: 74 },
+  step3: { from: 278, dur: 75 },
+  outro: { from: 353, dur: 102 },
 };
-export const TOTAL = 450;
+export const TOTAL = 455;
 
 export const VOICE = [
-  { file: "voix-1.mp3", at: 6, text: "Faire du motion design avec Claude Code ? C'est simple !" },
-  { file: "voix-2.mp3", at: 100, text: "1 · Ouvrez une session Claude Code." },
-  { file: "voix-3.mp3", at: 169, text: "2 · Tapez : npx create-video" },
-  { file: "voix-4.mp3", at: 255, text: "3 · Décrivez votre vidéo. Claude l'anime pour vous." },
-  { file: "voix-5.mp3", at: 358, text: "À vous ! Demandez un titre animé de 5 secondes." },
+  { file: "voix-1.mp3", at: 8, text: "Envie de créer des vidéos qui en jettent ? Avec Claude Code, c'est ultra simple !" },
+  { file: "voix-2.mp3", at: 134, text: "Étape 1 : ouvrez une session Claude Code !" },
+  { file: "voix-3.mp3", at: 208, text: "2 : tapez npx create-video" },
+  { file: "voix-4.mp3", at: 282, text: "3 : décrivez votre idée, et Claude l'anime !" },
+  { file: "voix-5.mp3", at: 357, text: "À vous de jouer : un titre animé de 5 secondes. Go !" },
 ];

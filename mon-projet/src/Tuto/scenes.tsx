@@ -389,8 +389,8 @@ export const Step3: React.FC = () => {
             </div>
           </Rise>
           <div style={{ alignSelf: "flex-start" }}>
-            <Pop delay={42}>
-              <MiniPlayer start={46} />
+            <Pop delay={34}>
+              <MiniPlayer start={36} />
             </Pop>
           </div>
         </div>
