@@ -20,6 +20,12 @@ npx remotion render VortexPolaire2026 out/vortex-polaire-2026.mp4 --codec=h264 -
 npx remotion render VortexPolaire2026 out/vortex-polaire-2026.mp4 --codec=h264 --crf=18 --props='{"subtitles":true,"voiceover":true,"music":true,"musicVolume":0.8}'
 ```
 
+Normalisation du son pour le web (−16 LUFS, crête −1,5 dBTP, image copiée sans réencodage) :
+
+```bash
+npm run master        # → out/vortex-polaire-2026-master.mp4
+```
+
 Captures de contrôle (une image par seconde indiquée) :
 
 ```bash

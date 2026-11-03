@@ -40,7 +40,8 @@
     "render": "remotion render VortexPolaire2026 out/vortex-polaire-2026.mp4 --codec=h264 --crf=18",
     "audio": "python3 scripts/make_audio.py",
     "srt": "node scripts/make-srt.mjs",
-    "stills": "node scripts/stills.mjs"
+    "stills": "node scripts/stills.mjs",
+    "master": "ffmpeg -y -i out/vortex-polaire-2026.mp4 -c:v copy -af loudnorm=I=-16:TP=-1.5:LRA=11 -c:a aac -b:a 256k -ar 48000 out/vortex-polaire-2026-master.mp4"
   },
   "allowScripts": {
     "esbuild": false
