@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T01:47:54.955174+00:00",
+ "generated_at": "2026-11-03T10:06:01.846085+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -69,7 +69,7 @@
    "url": "https://www.cominmag.ch/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 7
+   "kept": 9
   },
   {
    "name": "Blog du Modérateur",
@@ -77,7 +77,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 6
+   "kept": 9
   },
   {
    "name": "CB News",
@@ -108,7 +108,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 2
+   "kept": 4
   },
   {
    "name": "Adweek",
@@ -124,7 +124,7 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 5
+   "kept": 10
   },
   {
    "name": "Nieman Lab",
