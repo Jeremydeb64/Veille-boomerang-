@@ -1,7 +1,7 @@
 {
   "name": "vortex-polaire",
   "version": "1.0.0",
-  "description": "My Remotion video",
+  "description": "Vortex polaire 2026 — documentaire motion design (Remotion)",
   "repository": {},
   "license": "UNLICENSED",
   "engines": {
@@ -9,14 +9,24 @@
   },
   "private": true,
   "dependencies": {
+    "@fontsource/inter": "^5.3.0",
     "@remotion/cli": "4.0.540",
+    "@remotion/fonts": "^4.0.540",
+    "@remotion/media-utils": "^4.0.540",
+    "d3-geo": "^3.1.2",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "remotion": "4.0.540"
+    "remotion": "4.0.540",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.540",
+    "@types/d3-geo": "^3.1.1",
     "@types/react": "19.3.0",
+    "@types/topojson-client": "^3.1.5",
+    "@types/topojson-specification": "^1.0.5",
     "@types/web": "0.0.166",
     "eslint": "10.12.0",
     "prettier": "3.8.1",
@@ -26,7 +36,11 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "render": "remotion render VortexPolaire2026 out/vortex-polaire-2026.mp4 --codec=h264 --crf=18",
+    "audio": "python3 scripts/make_audio.py",
+    "srt": "node scripts/make-srt.mjs",
+    "stills": "node scripts/stills.mjs"
   },
   "allowScripts": {
     "esbuild": false
