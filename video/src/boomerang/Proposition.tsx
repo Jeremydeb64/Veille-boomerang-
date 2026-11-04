@@ -81,7 +81,7 @@ const FadeWrap: React.FC<{ dur: number; children: React.ReactNode }> = ({ dur, c
   return <AbsoluteFill style={{ opacity: o }}>{children}</AbsoluteFill>;
 };
 
-const useFonts = () => {
+export const useFonts = () => {
   const [handle] = useState(() => delayRender("Chargement des polices"));
   useEffect(() => {
     const fonts = [
