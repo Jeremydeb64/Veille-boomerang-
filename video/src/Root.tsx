@@ -2,12 +2,21 @@ import { Composition, Folder } from "remotion";
 import { HelloWorld } from "./HelloWorld";
 import { Logo } from "./HelloWorld/Logo";
 import { Title } from "./HelloWorld/Title";
+import { Proposition, TOTAL_FRAMES } from "./boomerang/Proposition";
 
 // Each <Composition> is an entry in the sidebar!
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="PropositionReprise"
+        component={Proposition}
+        durationInFrames={TOTAL_FRAMES}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
       <Folder name="Elements">
         <Composition
           id="Logo"
