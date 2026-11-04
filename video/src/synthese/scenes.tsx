@@ -58,20 +58,20 @@ export const Intro: React.FC = () => {
 export const Valeur: React.FC = () => {
   const cue = useCue();
   const f = useCurrentFrame();
-  const S = 820; // px pour 1 M
+  const S = 800; // px pour 1 M
   const X0 = 560;
   const rows = [
-    { l: "Valeur de rendement", s: "bénéfices sur 10 ans, capitalisés à 10 %", v: 1.28, txt: "1,28 M", c: C.blue, w: "× 2", k: "la valeur de rendement" },
-    { l: "Valeur substantielle", s: "fonds propres libérés", v: 0.466, txt: "0,466 M", c: C.mid, w: "× 1", k: "la valeur substantielle" },
-    { l: "Valeur fiscale", s: "moyenne pondérée", v: 1.0, txt: "1,00 M", c: C.navy, w: "", k: "La valeur fiscale" },
+    { l: "Valeur de rendement", s: "bénéfices sur 10 ans, capitalisés à 10 %", v: 1.28, txt: "1,28 M", c: C.mid, w: "", k: "la valeur de rendement" },
+    { l: "Valeur substantielle", s: "fonds propres libérés", v: 0.466, txt: "0,466 M", c: C.mid, w: "", k: "la valeur substantielle" },
+    { l: "Valeur fiscale", s: "moyenne pondérée des deux", v: 1.25, txt: "1,25 M", c: C.navy, w: "", k: "La valeur fiscale" },
   ];
-  const line = cue("donne un million");
+  const line = cue("Le prix de référence est fixé");
   const pl = prog(f, line, 24);
-  const ref = cue("C'est le prix");
+  const ref = cue("dix mille francs par action");
   return (
     <AbsoluteFill style={{ background: C.white }}>
       <Headline kicker="La valeur">
-        Ce que vaut Boomerang : <Hl>1 million</Hl>
+        Valeur fiscale 1,25 M, <Hl>prix de référence 1 M</Hl>
       </Headline>
       {rows.map((r, i) => {
         const at = cue(r.k);
@@ -89,18 +89,16 @@ export const Valeur: React.FC = () => {
                 <CountUp at={at} to={r.v} final={r.txt} format={(v) => `${v.toFixed(r.v < 1 ? 3 : 2).replace(".", ",")} M`} />
               </T>
             </Abs>
-            {r.w ? (
-              <Abs x={X0 + 18} y={y + 20} style={{ opacity: prog(f, cue("deux fois le rendement"), 14) }}>
-                <T size={30} bold color={C.white}>{r.w}</T>
-              </Abs>
-            ) : null}
           </React.Fragment>
         );
       })}
       {/* repère 1 M */}
       <Abs x={X0 + S - 2} y={340} w={4} h={440 * pl} style={{ background: `repeating-linear-gradient(${C.red} 0 12px, transparent 12px 20px)` }} />
-      <Abs x={X0 + S - 30} y={300} style={{ opacity: pl }}>
-        <T size={22} bold color={C.red}>1 M</T>
+      <Abs x={X0 + S - 160} y={300} w={320} style={{ opacity: pl, textAlign: "center" }}>
+        <T size={22} bold color={C.red}>prix de référence 1 M</T>
+      </Abs>
+      <Abs x={X0 + S - 200} y={786} w={400} style={{ textAlign: "center", opacity: prog(f, cue("soit environ quatre-vingts"), 16) }}>
+        <T size={22} bold color={C.red}>≈ 80 % de la valeur fiscale</T>
       </Abs>
       <Reveal at={ref} style={{ position: "absolute", left: 120, top: 850 }}>
         <div style={{ display: "flex", gap: 24, alignItems: "center", background: C.blue, padding: "22px 36px", borderRadius: 8 }}>
@@ -487,20 +485,20 @@ export const Equilibre: React.FC = () => {
   const xJ = 120 + W * 0.55 + 4;
   const wJ = W * 0.45 - 4;
   const xA = xJ + (wJ * 58300) / 67500;
-  // graphique
+  // graphique : années du premier prêt (2027–2032)
   const X0 = 300;
-  const STEP = 124;
-  const ZERO = 735;
-  const K = 1.9;
+  const N = 6;
+  const STEP = 246;
+  const ZERO = 600;
+  const K = 3.6;
   const planAt = cue("Après impôts");
   const propAt = cue("le solde reste proche");
   const negLbl = cue("entre moins");
-  const posAt = cue("Dès deux mille trente-trois");
   const vsAt = cue("Là où le plan initial");
   return (
     <AbsoluteFill style={{ background: C.white }}>
       <Headline kicker="Pourquoi cela tient">
-        Un solde <Hl>proche de l’équilibre</Hl>, puis positif
+        Un solde <Hl>proche de l’équilibre</Hl>
       </Headline>
       {/* partage des 150’000 */}
       <Abs x={120} y={290}>
@@ -520,7 +518,7 @@ export const Equilibre: React.FC = () => {
       </Abs>
       {/* comparaison des soldes */}
       <Abs x={120} y={455}>
-        <T size={20} bold color={C.grey}>SOLDE ANNUEL POUR JÉRÉMY</T>
+        <T size={20} bold color={C.grey}>SOLDE ANNUEL POUR JÉRÉMY · 2027–2032, DURÉE DU PREMIER PRÊT</T>
       </Abs>
       <Abs x={1240} y={455} style={{ display: "flex", gap: 28, opacity: prog(f, planAt, 16) }}>
         <T size={20} bold color={C.grey}>
@@ -532,8 +530,8 @@ export const Equilibre: React.FC = () => {
           notre proposition
         </T>
       </Abs>
-      <Abs x={X0} y={ZERO} w={12 * STEP * prog(f, planAt - 6, 16)} h={2} style={{ background: C.navy }} />
-      {Array.from({ length: 12 }, (_, i) => {
+      <Abs x={X0} y={ZERO} w={N * STEP * prog(f, planAt - 6, 16)} h={2} style={{ background: C.navy }} />
+      {Array.from({ length: N }, (_, i) => {
         const x = X0 + i * STEP;
         const pp = prog(f, planAt + i * 3, 14);
         const pq = prog(f, propAt + i * 3, 14);
@@ -544,22 +542,27 @@ export const Equilibre: React.FC = () => {
         return (
           <React.Fragment key={i}>
             {s1 !== undefined ? (
-              <Abs x={x + 18} y={s1 < 0 ? ZERO : ZERO - h1} w={42} h={h1} style={{ background: s1 < 0 ? PALE_RED : PALE_GREY }} />
+              <Abs x={x + 30} y={s1 < 0 ? ZERO : ZERO - h1} w={86} h={h1} style={{ background: s1 < 0 ? PALE_RED : PALE_GREY }} />
             ) : null}
-            <Abs x={x + 64} y={s2 < 0 ? ZERO : ZERO - h2} w={42} h={h2} style={{ background: s2 < 0 ? C.red : C.blue }} />
-            <Abs x={x} y={ZERO + 112} w={STEP} style={{ textAlign: "center", opacity: prog(f, planAt, 12) }}>
-              <T size={17} bold color={C.grey}>{2027 + i}</T>
+            <Abs x={x + 126} y={s2 < 0 ? ZERO : ZERO - h2} w={86} h={h2} style={{ background: s2 < 0 ? C.red : C.blue }} />
+            <Abs x={x} y={ZERO - 34} w={STEP} style={{ textAlign: "center", opacity: prog(f, planAt, 12) }}>
+              <T size={20} bold color={C.grey}>{2027 + i}</T>
+            </Abs>
+            {s1 !== undefined ? (
+              <Abs x={x + 10} y={ZERO + h1 + 6} w={126} style={{ textAlign: "center", opacity: pp }}>
+                <T size={18} bold color={C.red} style={{ opacity: 0.6 }}>{fmtK(s1)}</T>
+              </Abs>
+            ) : null}
+            <Abs x={x + 106} y={ZERO + h2 + 6} w={126} style={{ textAlign: "center", opacity: pq }}>
+              <T size={18} bold color={C.red}>{fmtK(s2)}</T>
             </Abs>
           </React.Fragment>
         );
       })}
-      <Reveal at={negLbl} style={{ position: "absolute", left: X0, top: ZERO - 70, width: 6 * STEP, textAlign: "center" }}>
-        <T size={22} bold color={C.red}>proposition : entre −2’483 et −1’025 / an</T>
+      <Reveal at={negLbl} style={{ position: "absolute", left: X0, top: ZERO - 110, width: N * STEP, textAlign: "center" }}>
+        <T size={26} bold color={C.red}>notre proposition : entre −2’483 et −1’025 par an</T>
       </Reveal>
-      <Reveal at={posAt} style={{ position: "absolute", left: X0 + 6 * STEP, top: ZERO - 100, width: 4 * STEP, textAlign: "center" }}>
-        <T size={22} bold color={C.blue}>dès 2033 : plus de 15’000 / an</T>
-      </Reveal>
-      <Reveal at={vsAt} style={{ position: "absolute", left: X0, top: ZERO + 150, width: 8 * STEP, textAlign: "center" }}>
+      <Reveal at={vsAt} style={{ position: "absolute", left: X0, top: ZERO + 250, width: N * STEP, textAlign: "center" }}>
         <div style={{ borderTop: `3px solid ${PALE_RED}`, paddingTop: 8 }}>
           <T size={24} bold color={C.red}>plan initial : −178’400 cumulés de 2027 à 2034</T>
         </div>
@@ -660,7 +663,7 @@ export const Gouvernance: React.FC = () => {
     ["Calendrier", "et calendrier"],
   ];
   const dès = cue("Dès deux mille trente-trois");
-  const piste = cue("Piste de travail");
+  const piste = cue("Une première piste");
   const person = (letter: string, color: string, name: string, roles: string, size = 110) => (
     <div style={{ display: "flex", gap: 22, alignItems: "center", marginBottom: 22 }}>
       <Avatar letter={letter} color={color} size={size} />
@@ -719,8 +722,8 @@ export const Gouvernance: React.FC = () => {
             </div>
           </div>
           <Reveal at={piste}>
-            <T size={22} bold color={C.pale} style={{ marginTop: 50, letterSpacing: 2 }}>PISTE DE TRAVAIL</T>
-            <T size={28} bold color={C.white} style={{ marginTop: 12 }}>Jérémy, directeur</T>
+            <T size={22} bold color={C.pale} style={{ marginTop: 50, letterSpacing: 2 }}>UNE PREMIÈRE PISTE DE TRAVAIL</T>
+            <T size={28} bold color={C.white} style={{ marginTop: 12 }}>Jérémy à la direction</T>
             <T size={28} bold color={C.white} style={{ marginTop: 8 }}>Yvan, conseiller stratégique et porteur d’affaires</T>
             <T size={20} color={C.pale} style={{ marginTop: 20 }}>organisation à définir ensemble, le moment venu</T>
           </Reveal>
@@ -737,8 +740,9 @@ export const Calendrier: React.FC = () => {
   const cue = useCue();
   const f = useCurrentFrame();
   const X0 = 200;
-  const YW = 122; // px par année
-  const yx = (y: number) => X0 + (y - 2026) * YW;
+  const W26 = 260; // 2026 élargie : la phase « Entrer » a besoin de place
+  const YW = (1760 - X0 - W26) / 12; // px par année ensuite
+  const yx = (y: number) => (y <= 2027 ? X0 + (y - 2026) * W26 : X0 + W26 + (y - 2027) * YW);
   const e = cue("Entrer");
   const a = cue("Accompagner");
   const t = cue("Transmettre");
@@ -757,14 +761,14 @@ export const Calendrier: React.FC = () => {
         const pp = prog(f, p.at, 20);
         return (
           <Abs key={p.l} x={yx(p.from)} y={320} w={(yx(p.to) - yx(p.from)) * pp} h={64} style={{ background: p.c, overflow: "hidden", borderRight: `3px solid ${C.white}` }}>
-            <div style={{ padding: "16px 18px", fontFamily: FONT_BODY, fontWeight: 700, fontSize: 24, color: C.white, whiteSpace: "nowrap" }}>{p.l}</div>
+            <div style={{ padding: "16px 24px", fontFamily: FONT_BODY, fontWeight: 700, fontSize: 24, color: C.white, whiteSpace: "nowrap" }}>{p.l}</div>
           </Abs>
         );
       })}
       {/* axe des années */}
-      <Abs x={X0} y={420} w={13 * YW} h={2} style={{ background: C.navy }} />
+      <Abs x={X0} y={420} w={yx(2039) - X0} h={2} style={{ background: C.navy }} />
       {Array.from({ length: 13 }, (_, i) => (
-        <Abs key={i} x={X0 + i * YW} y={430} w={YW} style={{ textAlign: "center" }}>
+        <Abs key={i} x={yx(2026 + i)} y={430} w={yx(2027 + i) - yx(2026 + i)} style={{ textAlign: "center" }}>
           <T size={19} bold color={C.grey}>{2026 + i}</T>
         </Abs>
       ))}
@@ -813,7 +817,7 @@ export const Calendrier: React.FC = () => {
         );
       })}
       {/* tête de lecture */}
-      <Abs x={X0 + 13 * YW * head - 2} y={300} w={4} h={460} style={{ background: C.red, opacity: head > 0 && head < 1 ? 0.6 : 0 }} />
+      <Abs x={X0 + (yx(2039) - X0) * head - 2} y={300} w={4} h={460} style={{ background: C.red, opacity: head > 0 && head < 1 ? 0.6 : 0 }} />
     </AbsoluteFill>
   );
 };
