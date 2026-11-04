@@ -1,0 +1,51 @@
+{
+  "voice": "fr-FR-RemyMultilingualNeural",
+  "rate": "-3%",
+  "pitch": "-2Hz",
+  "scenes": [
+    {
+      "id": "s01_hook",
+      "text": "Le Valais est la région la plus sismique de Suisse. Et les spécialistes parlent d'un « Big One » : un séisme de magnitude 6 ou plus, qui frappe le canton environ une fois par siècle."
+    },
+    {
+      "id": "s02_timeline",
+      "text": "Remontons le temps. 1524, à Ardon. 1755, à Brigue. 1855, à Viège. Et 1946, à Sierre. Quatre secousses majeures en cinq siècles. Et depuis trois cents ans, un rythme d'environ un siècle."
+    },
+    {
+      "id": "s03_1855",
+      "text": "Le 25 juillet 1855, la terre tremble dans la vallée de la Viège. Magnitude 6,2 environ : le plus fort séisme de Suisse depuis trois siècles. Églises lézardées, maisons endommagées, éboulements vers Saint-Nicolas. Et des dizaines de répliques, pendant des mois."
+    },
+    {
+      "id": "s04_1946",
+      "text": "Le 25 janvier 1946, à 18 heures 32, c'est la région entre Sion et Sierre qui est secouée. Bilan : 4 morts, plus de 3500 bâtiments endommagés, et 26 millions de francs de dégâts, une somme énorme pour l'époque. Puis, le 30 mai, une réplique fait s'effondrer des millions de mètres cubes de roche au-dessus d'Ayent."
+    },
+    {
+      "id": "s05_now",
+      "text": "Depuis, plus rien de cette ampleur. Cela fait maintenant 80 ans. Attention : cela ne veut pas dire que le séisme est imminent. Personne ne peut prédire sa date. Mais statistiquement, nous sommes entrés dans la fenêtre."
+    },
+    {
+      "id": "s06_projection",
+      "text": "Et aujourd'hui ? Le Valais compte bien plus d'habitants et de bâtiments, souvent construits dans la plaine du Rhône. Or ces sols meubles amplifient les secousses. Selon le Service sismologique suisse, un séisme de magnitude 6 près de Sion pourrait causer entre 4,5 et 10 milliards de francs de dommages."
+    },
+    {
+      "id": "s07_nature",
+      "text": "En montagne, il faut aussi compter avec les chutes de pierres et les glissements de terrain. Et en hiver, avec les avalanches. Des routes pourraient être coupées, et certaines vallées isolées pendant quelques jours."
+    },
+    {
+      "id": "s08_avant",
+      "text": "La bonne nouvelle, c'est qu'on peut s'y préparer. Chez vous, fixez les meubles hauts et les objets lourds. Gardez une provision de secours : environ 9 litres d'eau par personne, de quoi manger plusieurs jours, une lampe et une radio à piles. Convenez d'un point de rencontre en famille. Et vérifiez votre assurance : les dégâts dus aux séismes sont souvent exclus."
+    },
+    {
+      "id": "s09_pendant",
+      "text": "Pendant la secousse, trois réflexes. Se baisser. S'abriter sous une table solide. Et s'agripper. Restez loin des fenêtres, et ne courez pas dehors. Si vous êtes déjà à l'extérieur, éloignez-vous des bâtiments et des pentes."
+    },
+    {
+      "id": "s10_apres",
+      "text": "Après, attendez-vous à des répliques. Sortez calmement, sans prendre l'ascenseur. Si ça sent le gaz, coupez-le et aérez. Informez-vous avec l'application Alertswiss, et gardez le 112 pour les vraies urgences."
+    },
+    {
+      "id": "s11_outro",
+      "text": "Le Big One n'est pas une prophétie. C'est une statistique. On ne sait pas quand il viendra, mais on sait comment s'y préparer. Alors partagez ces bons réflexes autour de vous."
+    }
+  ]
+}

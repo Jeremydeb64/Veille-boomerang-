@@ -1,0 +1,94 @@
+{
+ "fps": 30,
+ "durationInFrames": 5399,
+ "scenes": [
+  {
+   "id": "s01_hook",
+   "from": 0,
+   "durationInFrames": 347,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s02_timeline",
+   "from": 347,
+   "durationInFrames": 589,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s03_1855",
+   "from": 936,
+   "durationInFrames": 546,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s04_1946",
+   "from": 1482,
+   "durationInFrames": 628,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s05_now",
+   "from": 2110,
+   "durationInFrames": 452,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s06_projection",
+   "from": 2562,
+   "durationInFrames": 540,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s07_nature",
+   "from": 3102,
+   "durationInFrames": 391,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s08_avant",
+   "from": 3493,
+   "durationInFrames": 634,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s09_pendant",
+   "from": 4127,
+   "durationInFrames": 484,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s10_apres",
+   "from": 4611,
+   "durationInFrames": 447,
+   "voiceFrom": 8
+  },
+  {
+   "id": "s11_outro",
+   "from": 5058,
+   "durationInFrames": 341,
+   "voiceFrom": 8
+  }
+ ],
+ "shakes": [
+  {
+   "frame": 2,
+   "durationInFrames": 66,
+   "amp": 0.55
+  },
+  {
+   "frame": 1033,
+   "durationInFrames": 78,
+   "amp": 0.9
+  },
+  {
+   "frame": 1665,
+   "durationInFrames": 72,
+   "amp": 0.8
+  },
+  {
+   "frame": 4149,
+   "durationInFrames": 48,
+   "amp": 0.45
+  }
+ ]
+}
