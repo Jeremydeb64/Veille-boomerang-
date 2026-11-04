@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T11:35:56.180849+00:00",
+ "generated_at": "2026-11-04T18:52:39.768890+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -7,7 +7,7 @@
    "section": "valais",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14909747585599268409",
    "ok": true,
-   "items_in_feed": 20,
+   "items_in_feed": 10,
    "kept": 0
   },
   {
@@ -24,7 +24,7 @@
    "url": "https://www.rts.ch/info/?format=rss/news",
    "ok": true,
    "items_in_feed": 25,
-   "kept": 25
+   "kept": 24
   },
   {
    "name": "RTS Sport",
@@ -56,7 +56,7 @@
    "url": "https://www.cominmag.ch/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 16
+   "kept": 20
   },
   {
    "name": "Blog du Modérateur",
@@ -80,7 +80,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 13
+   "kept": 20
   },
   {
    "name": "Abondance",
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 5
+   "kept": 6
   },
   {
    "name": "Adweek",
@@ -111,8 +111,8 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 1992,
-   "kept": 3
+   "items_in_feed": 1994,
+   "kept": 5
   }
  ]
 }
