@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T15:49:28.361004+00:00",
+ "generated_at": "2026-11-05T22:18:59.929000+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -80,7 +80,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 20
+   "kept": 19
   },
   {
    "name": "Abondance",
@@ -111,7 +111,7 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 1995,
+   "items_in_feed": 1996,
    "kept": 6
   }
  ]
