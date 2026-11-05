@@ -63,15 +63,15 @@ export const Valeur: React.FC = () => {
   const rows = [
     { l: "Valeur de rendement", s: "bénéfices sur 10 ans, capitalisés à 10 %", v: 1.28, txt: "1,28 M", c: C.mid, w: "", k: "la valeur de rendement" },
     { l: "Valeur substantielle", s: "fonds propres libérés", v: 0.466, txt: "0,466 M", c: C.mid, w: "", k: "la valeur substantielle" },
-    { l: "Valeur fiscale", s: "moyenne pondérée des deux", v: 1.25, txt: "1,25 M", c: C.navy, w: "", k: "La valeur fiscale" },
+    { l: "Valorisation", s: "moyenne pondérée des deux", v: 1.25, txt: "1,25 M", c: C.navy, w: "", k: "La valeur fiscale" },
   ];
   const line = cue("Le prix de référence est fixé");
   const pl = prog(f, line, 24);
   const ref = cue("dix mille francs par action");
   return (
     <AbsoluteFill style={{ background: C.white }}>
-      <Headline kicker="La valeur">
-        Valeur fiscale 1,25 M, <Hl>prix de référence 1 M</Hl>
+      <Headline kicker="">
+        LA VALEUR
       </Headline>
       {rows.map((r, i) => {
         const at = cue(r.k);
@@ -98,7 +98,7 @@ export const Valeur: React.FC = () => {
         <T size={22} bold color={C.red}>prix de référence 1 M</T>
       </Abs>
       <Abs x={X0 + S - 200} y={786} w={400} style={{ textAlign: "center", opacity: prog(f, cue("soit environ quatre-vingts"), 16) }}>
-        <T size={22} bold color={C.red}>≈ 80 % de la valeur fiscale</T>
+        <T size={22} bold color={C.red}>≈ 80 % de la valorisation</T>
       </Abs>
       <Reveal at={ref} style={{ position: "absolute", left: 120, top: 850 }}>
         <div style={{ display: "flex", gap: 24, alignItems: "center", background: C.blue, padding: "22px 36px", borderRadius: 8 }}>
