@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T00:32:28.331699+00:00",
+ "generated_at": "2026-11-05T07:25:37.756930+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -7,7 +7,7 @@
    "section": "valais",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14909747585599268409",
    "ok": true,
-   "items_in_feed": 10,
+   "items_in_feed": 20,
    "kept": 0
   },
   {
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 13
+   "kept": 12
   },
   {
    "name": "CB News",
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 6
+   "kept": 7
   },
   {
    "name": "Adweek",
