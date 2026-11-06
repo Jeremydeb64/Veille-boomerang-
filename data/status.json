@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T11:32:00.978207+00:00",
+ "generated_at": "2026-11-06T18:29:04.773387+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 12
+   "kept": 13
   },
   {
    "name": "CB News",
@@ -80,7 +80,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 19
+   "kept": 17
   },
   {
    "name": "Abondance",
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 6
+   "kept": 7
   },
   {
    "name": "Adweek",
@@ -111,7 +111,7 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 1996,
+   "items_in_feed": 1997,
    "kept": 6
   }
  ]
