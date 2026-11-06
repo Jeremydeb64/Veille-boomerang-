@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T22:18:59.929000+00:00",
+ "generated_at": "2026-11-06T02:50:38.961842+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -7,7 +7,7 @@
    "section": "valais",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14909747585599268409",
    "ok": true,
-   "items_in_feed": 20,
+   "items_in_feed": 0,
    "kept": 0
   },
   {
@@ -31,8 +31,8 @@
    "section": "romandie",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14102030062020538480",
    "ok": true,
-   "items_in_feed": 0,
-   "kept": 0
+   "items_in_feed": 1,
+   "kept": 1
   },
   {
    "name": "Le Temps",
