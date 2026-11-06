@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:50:38.961842+00:00",
+ "generated_at": "2026-11-06T11:32:00.978207+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 7
+   "kept": 6
   },
   {
    "name": "Adweek",
