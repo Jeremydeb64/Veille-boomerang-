@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T03:13+00:00",
+ "updated": "2026-11-07T10:42+00:00",
  "villes": [
   {
    "ville": "Sierre",
-   "temp": 8,
-   "code": 45,
-   "ciel": "Brouillard",
+   "temp": 10,
+   "code": 2,
+   "ciel": "Partiellement nuageux",
    "min": 7,
    "max": 12
   },
@@ -14,7 +14,7 @@
    "temp": 8,
    "code": 3,
    "ciel": "Couvert",
-   "min": 8,
+   "min": 7,
    "max": 10
   }
  ]
