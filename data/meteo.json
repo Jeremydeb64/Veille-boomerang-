@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-07T16:38+00:00",
+ "updated": "2026-11-07T20:31+00:00",
  "villes": [
   {
    "ville": "Sierre",
-   "temp": 9,
-   "code": 1,
-   "ciel": "Plutôt ensoleillé",
-   "min": 7,
+   "temp": 6,
+   "code": 2,
+   "ciel": "Partiellement nuageux",
+   "min": 6,
    "max": 12
   },
   {
    "ville": "Lausanne",
-   "temp": 9,
-   "code": 1,
-   "ciel": "Plutôt ensoleillé",
+   "temp": 8,
+   "code": 2,
+   "ciel": "Partiellement nuageux",
    "min": 7,
    "max": 10
   }
