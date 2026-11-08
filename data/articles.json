@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-07T23:58:37.247051+00:00",
+ "generated_at": "2026-11-08T06:43:43.841645+00:00",
  "window_hours": 72,
  "articles": [
+  {
+   "title": "Succession de Guy Parmelin: des regrets pour Nicolas Kolly",
+   "link": "https://www.letemps.ch/opinions/chroniques/succession-de-guy-parmelin-des-regrets-pour-nicolas-kolly",
+   "date": "2026-11-08T07:18:39+01:00",
+   "summary": "CHRONIQUE. Alors que la tête du premier parti de Suisse durcit son discours à l’approche des élections fédérales et désigne ouvertement d’autres élus comme ennemis intérieurs, l’avocat et député UDC fribourgeois Nicolas Kolly offre un contraste apaisant. On peut regretter qu’il…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Pris à partie et critiqués, les médias sont au cœur de la lutte politique en France",
+   "link": "https://www.rts.ch/info/monde/2026/article/medias-francais-attaques-de-tous-cotes-mais-pas-polarises-29405879.html?rts_source=rss_t",
+   "date": "2026-11-08T06:31:24+00:00",
+   "summary": "Pétition contre CNews, critiques de la gauche contre BFMTV, charges à droite contre France Inter: le paysage audiovisuel français est au cœur de la bataille politique à l'approche de la présidentielle. Pour l'historien des médias Alexis Lévrier, les attaques contre les médias se…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Clémence Kuperfils (Samsung Ads) : « TotalView permet de toucher plus de monde avec le même budget »",
+   "link": "https://www.cbnews.fr/medias/clemence-kuperfils-samsung-ads-totalview-permet-toucher-plus-monde-avec-meme-budget",
+   "date": "2026-11-08T05:00:03+00:00",
+   "summary": "Clémence Kuperfils (Samsung Ads) : « TotalView permet de toucher plus de monde avec le même budget » Clémence Kuperfils (Samsung Ads) : « TotalView permet de toucher plus de monde avec le même budget » echaronnat dim 08/11/2026 - 06:00 Médias",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Voile - Pour sa première participation, Tom Laperche gagne la Route du Rhum et établit un nouveau record",
+   "link": "https://www.rts.ch/sport/autres-sports/2026/article/route-du-rhum-tom-laperche-s-impose-avec-un-nouveau-record-29409251.html?rts_source=rss_t",
+   "date": "2026-11-08T03:43:17+00:00",
+   "summary": "Magistral depuis le coup de canon à Saint-Malo, Tom Laperche (SVR Lazartigue) a remporté samedi en Guadeloupe la prestigieuse Route du Rhum, dès sa première participation. Le Français établit un nouveau record de la compétition.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Au Paraguay, le président destitué a été placé en détention préventive",
+   "link": "https://www.rts.ch/info/monde/2026/article/paraguay-le-president-destitue-place-en-detention-29409242.html?rts_source=rss_t",
+   "date": "2026-11-08T01:26:10+00:00",
+   "summary": "Le président destitué du Paraguay Santiago Peña a été placé samedi en détention préventive, dans la foulée de son inculpation dans le cadre de la débâcle de l'Ueno Bank qui a lésé des millions d'épargnants.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
   {
    "title": "Fabrice Mollier, l'invité du dimanche",
    "link": "https://www.cbnews.fr/cb/fabrice-mollier-invite-du-dimanche",
@@ -371,14 +411,6 @@
    "section": "romandie"
   },
   {
-   "title": "Série: «Nocturne», les bonnes recettes du thriller importées de Suède aux Etats-Unis",
-   "link": "https://www.letemps.ch/culture/ecrans/serie-nocturne-les-bonnes-recettes-du-thriller-importees-de-suede-aux-etats-unis",
-   "date": "2026-11-07T10:33:03+01:00",
-   "summary": "Le polar d’automne d’Apple TV est une adaptation de Lars Kepler, pseudonyme d’un couple suédois aux thrillers fameux. Stephen Graham s’y montre une fois encore magistral en tueur manipulateur Un enfant surgit, et une enquête abandonnée sur deux disparitions qui ont traumatisé…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Conservateurs et travaillistes au coude-à-coude en Nouvelle-Zélande",
    "link": "https://www.rts.ch/info/monde/2026/article/nouvelle-zelande-les-deux-grands-partis-au-coude-a-coude-29408663.html?rts_source=rss_t",
    "date": "2026-11-07T09:57:20+00:00",
@@ -392,38 +424,6 @@
    "date": "2026-11-07T09:48:08+00:00",
    "summary": "Des vidéos virales affirment qu'une quarantaine d'hommes auraient été séquestrés et torturés dans une maison près de Kiev. Un adolescent de 14 ans est présenté comme une victime. Attention: les images sont trompeuses et aucune preuve de torture n'a été établie à ce stade.",
    "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Mères de familles XXL, elles racontent leur vie hors norme et tordent le cou à certains clichés",
-   "link": "https://www.rts.ch/articles/2026/article/familles-nombreuses-deux-meres-de-11-et-14-enfants-racontent-29407677.html?rts_source=rss_t",
-   "date": "2026-11-07T08:39:21+00:00",
-   "summary": "Alors que la taille moyenne des ménages ne cesse de se restreindre en Suisse, avec une moyenne de 1,3 enfant par femme, les très grandes fratries font figure d'exception. Dans l'émission La Discute, Barbara, mère de onze enfants, et Caroline, mère de quatorze enfants, racontent…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "L'approvisionnement de la région de Kiev perturbé par de nouvelles frappes russes",
-   "link": "https://www.rts.ch/info/monde/2026/article/ukraine-les-frappes-russes-perturbent-l-approvisionnement-de-kiev-29408635.html?rts_source=rss_t",
-   "date": "2026-11-07T08:27:27+00:00",
-   "summary": "Des frappes russes ont endommagé un important pont routier et des infrastructures énergétiques à Kiev et dans sa région, perturbant les approvisionnements de la capitale, ont indiqué samedi les autorités locales.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "'L'Affaire Marie-Claire', un biopic qui éclaire l'histoire de la lutte pour le droit à l'avortement",
-   "link": "https://www.rts.ch/info/culture/cinema/2026/article/proces-de-bobigny-le-film-sur-gisele-halimi-et-le-droit-a-l-avortement-29246576.html?rts_source=rss_t",
-   "date": "2026-11-07T08:12:00+00:00",
-   "summary": "Le film 'L'Affaire Marie-Claire', présenté en avant-première au dernier Festival de Cannes, est sorti le 4 novembre au cinéma. Les réalisateurs Yvo Muller et Lauriane Escaffre retracent l'histoire du procès de Bobigny en 1972, un moment-clé dans la lutte pour le droit à…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Jannik Sinner engage Magnus Norman, ex-coach de Stan Wawrinka - RTS",
-   "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rts.ch/sport/tennis/2026/article/jannik-sinner-engage-magnus-norman-ex-coach-de-stan-wawrinka-29407761.html&ct=ga&cd=CAIyGTFhNWMzMWU1ZWQ3NTFhYTE6Y2g6ZnI6Q0g&usg=AOvVaw2PSiH16-7E6VVRXPuigeBt",
-   "date": "2026-11-07T00:07:08+00:00",
-   "summary": "Jannik Sinner va s'appuyer sur le coach à succès de Stan Wawrinka. Accueil /; Sport /; Tennis.",
-   "source": "RTS Sport",
    "section": "romandie"
   },
   {
@@ -899,14 +899,6 @@
    "section": "com-france"
   },
   {
-   "title": "Coopérative U reconduit Heroiks pour son budget média",
-   "link": "https://www.cbnews.fr/conseil/cooperative-u-reconduit-heroiks-son-budget-media",
-   "date": "2026-11-05T18:28:42+00:00",
-   "summary": "Coopérative U reconduit Heroiks pour son budget média Coopérative U reconduit Heroiks pour son budget média thierry.wojciak jeu 05/11/2026 - 19:28 Conseil",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
    "title": "How TF is the grocery store a media channel?",
    "link": "https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-05T18:00:00+00:00",
@@ -1049,46 +1041,6 @@
    "summary": "Ce qu'il faut retenir : Pour un site classique, un fichier llms.txt n'apporte aucun bénéfice mesurable en 2026, ni dans Google ni dans les moteurs IA. Sur abondance.com, du 1er juin au 4 novembre 2026, nos deux fichiers ont reçu 1 657 requêtes. Seules 10 viennent de robots d'IA…",
    "source": "Abondance",
    "section": "com-france"
-  },
-  {
-   "title": "7 chaînes YouTube à suivre pour se former à l’IA",
-   "link": "https://www.blogdumoderateur.com/7-chaines-youtube-former-ia/",
-   "date": "2026-11-05T06:00:26+00:00",
-   "summary": "Entre tutoriels, interviews et vulgarisation, YouTube regorge de ressources pour comprendre et utiliser l’IA. Voici sept chaînes à découvrir.",
-   "source": "Blog du Modérateur",
-   "section": "com-france"
-  },
-  {
-   "title": "In graphic detail: Six thousand brands later, ChatGPT ads still have a conversion problem",
-   "link": "https://digiday.com/marketing/in-graphic-detail-chatgpt-s-ad-growth-is-outrunning-the-proof-that-it-works/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-05T05:01:00+00:00",
-   "summary": "OpenAI has ambitious ad revenue targets, which depend on advertiser demand, measurement and monetisation.",
-   "source": "Digiday",
-   "section": "international"
-  },
-  {
-   "title": "Agencies find AI overuse is leading to brief bloat",
-   "link": "https://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-05T05:01:00+00:00",
-   "summary": "Agencies and marketers now frequently use AI tools to create media and creative briefs. But the practice could be a canary in the coalmine for AI overuse in advertising.",
-   "source": "Digiday",
-   "section": "international"
-  },
-  {
-   "title": "After DoorDash’s Instacart bid, here’s the case for and against consolidation in commerce media",
-   "link": "https://digiday.com/marketing/after-doordashs-instacart-bid-heres-the-case-for-and-against-consolidation-in-commerce-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-05T05:01:00+00:00",
-   "summary": "The DoorDash-Instacart deal could accelerate commerce media consolidation, promising scale but risking higher prices and lock-in.",
-   "source": "Digiday",
-   "section": "international"
-  },
-  {
-   "title": "Media Briefing: Publishers’ revenue growth defies traffic declines, but tougher comparisons loom",
-   "link": "https://digiday.com/media/media-briefing-publishers-revenue-growth-defies-traffic-declines-but-tougher-comparisons-loom/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-05T05:01:00+00:00",
-   "summary": "The New York Times, People Inc., News Corp and Reuters report revenue growth despite AI disruption, but face tougher comparisons ahead.",
-   "source": "Digiday",
-   "section": "international"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T23:58:37.247051+00:00",
+ "generated_at": "2026-11-08T06:43:43.841645+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -7,7 +7,7 @@
    "section": "valais",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14909747585599268409",
    "ok": true,
-   "items_in_feed": 20,
+   "items_in_feed": 0,
    "kept": 0
   },
   {
@@ -31,8 +31,8 @@
    "section": "romandie",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14102030062020538480",
    "ok": true,
-   "items_in_feed": 1,
-   "kept": 1
+   "items_in_feed": 0,
+   "kept": 0
   },
   {
    "name": "Le Temps",
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 10
+   "kept": 9
   },
   {
    "name": "CB News",
@@ -104,7 +104,7 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 11
+   "kept": 7
   },
   {
    "name": "HugoDécrypte (podcast)",
