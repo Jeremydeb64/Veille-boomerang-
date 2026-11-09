@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T23:09:40.667981+00:00",
+ "generated_at": "2026-11-09T02:59:05.594390+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -7,7 +7,7 @@
    "section": "valais",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14909747585599268409",
    "ok": true,
-   "items_in_feed": 0,
+   "items_in_feed": 20,
    "kept": 0
   },
   {
@@ -78,9 +78,8 @@
    "name": "Siècle Digital",
    "section": "com-france",
    "url": "https://siecledigital.fr/feed/",
-   "ok": true,
-   "items_in_feed": 20,
-   "kept": 4
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Abondance",

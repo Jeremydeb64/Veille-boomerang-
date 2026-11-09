@@ -1,46 +1,46 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "source": "Picsum / Unsplash",
  "photos": [
   {
    "file": "wp-1.jpg",
-   "author": "Lukas Schweizer",
-   "url": "https://unsplash.com/photos/9VWOr22LhVI"
+   "author": "Brian Gonzalez",
+   "url": "https://unsplash.com/photos/llYg8Ni43fc"
   },
   {
    "file": "wp-2.jpg",
-   "author": "Carli Jean",
-   "url": "https://unsplash.com/photos/Gk6YgzmrLgM"
+   "author": "Aleksi Tappura",
+   "url": "https://unsplash.com/photos/mCg0ZgD7BgU"
   },
   {
    "file": "wp-3.jpg",
-   "author": "Andre Koch",
-   "url": "https://unsplash.com/photos/oSf8ePoG9NU"
+   "author": "Oscar Nilsson",
+   "url": "https://unsplash.com/photos/2aWEwBGSqR8"
   },
   {
    "file": "wp-4.jpg",
-   "author": "Caleb George",
-   "url": "https://unsplash.com/photos/FmMivfgHCiM"
+   "author": "Keith Misner",
+   "url": "https://unsplash.com/photos/h0Vxgz5tyXA"
   },
   {
    "file": "wp-5.jpg",
-   "author": "Lucas Theis",
-   "url": "https://unsplash.com/photos/MO-30jajbrM"
+   "author": "André Robillard",
+   "url": "https://unsplash.com/photos/IUwLkxL49co"
   },
   {
    "file": "wp-6.jpg",
-   "author": "Cole Patrick",
-   "url": "https://unsplash.com/photos/H28ODcp4EUk"
+   "author": "Alejandro Escamilla",
+   "url": "https://unsplash.com/photos/du_OrQAA4r0"
   },
   {
    "file": "wp-7.jpg",
-   "author": "Ben Moore",
-   "url": "https://unsplash.com/photos/pJILiyPdrXI"
+   "author": "Christopher Sardegna",
+   "url": "https://unsplash.com/photos/R1E6x8U83Ho"
   },
   {
    "file": "wp-8.jpg",
-   "author": "Alex Talmon",
-   "url": "https://unsplash.com/photos/UFskvng2OMU"
+   "author": "Vadim Sherbakov",
+   "url": "https://unsplash.com/photos/osSryggkso4"
   }
  ]
 }
