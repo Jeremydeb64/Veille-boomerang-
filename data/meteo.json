@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-10T04:21+00:00",
+ "updated": "2026-11-10T13:00+00:00",
  "villes": [
   {
    "ville": "Sierre",
-   "temp": 9,
-   "code": 63,
-   "ciel": "Pluie",
-   "min": 8,
+   "temp": 12,
+   "code": 80,
+   "ciel": "Averses",
+   "min": 9,
    "max": 12
   },
   {
    "ville": "Lausanne",
-   "temp": 10,
-   "code": 63,
-   "ciel": "Pluie",
+   "temp": 14,
+   "code": 3,
+   "ciel": "Couvert",
    "min": 10,
    "max": 14
   }
