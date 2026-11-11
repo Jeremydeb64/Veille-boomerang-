@@ -1,0 +1,218 @@
+{
+  "summary": {
+    "health_score": 57,
+    "business_type": "Agence de communication et web (B2B, local Sierre/Lausanne)",
+    "top_findings": [
+      "Aucune page dédiée par service (7 prestations sur une page de ~420 mots)",
+      "Absent des résultats sur 'agence web Sierre Valais' et 'agence de communication Valais'",
+      "Titres de page de 112-124 caractères avec suffixe identique",
+      "Blog sans date ni auteur, article en double, aucun lien vers les services",
+      "H1 de l'accueil non descriptif ('/boomerang marketing')"
+    ],
+    "quick_wins": [
+      "Réécrire les <title> en 50-60 caractères",
+      "301 du doublon de blog 2484 vers 3354",
+      "Afficher date et auteur sur les articles",
+      "Remplacer alt='Image' par des descriptions",
+      "noindex + retrait du sitemap des pages de formulaires d'avis et de conditions"
+    ]
+  },
+  "categories": [
+    {
+      "name": "Technical SEO",
+      "score": 70,
+      "what_works": [
+        "HTTPS partout",
+        "robots.txt propre et sitemap déclaré",
+        "Sitemap XML valide (67 URL)"
+      ],
+      "findings": [
+        {
+          "title": "Connexions directes refusées par le serveur",
+          "severity": "High",
+          "description": "Reset TCP sur boomerang.ch:443 depuis une IP de centre de données ; risque de blocage des robots.",
+          "recommendation": "Vérifier l'accès de Googlebot, Bingbot et des robots d'IA (Search Console, logs)."
+        },
+        {
+          "title": "lastmod du sitemap peu fiable",
+          "severity": "Medium",
+          "description": "34 des 35 articles portent la date 2025-07-04.",
+          "recommendation": "Générer les lastmod à partir de la date réelle de modification."
+        },
+        {
+          "title": "Pages sans valeur de recherche dans le sitemap",
+          "severity": "Medium",
+          "description": "Pages 'votre avis' (3579, 3626), conditions-de-participation, documentation, cookies.",
+          "recommendation": "noindex et retrait du sitemap."
+        },
+        {
+          "title": "/sitemap.xml renvoie 404",
+          "severity": "Low",
+          "description": "Le sitemap réel est /fr/sitemap.xml.",
+          "recommendation": "301 de /sitemap.xml vers /fr/sitemap.xml."
+        }
+      ]
+    },
+    {
+      "name": "Content Quality",
+      "score": 55,
+      "what_works": [
+        "Page L'agence : historique, équipe de 16 personnes, ISO 9001/14001, Valais Excellence",
+        "14 études de cas",
+        "Articles récents sur le GEO bien structurés"
+      ],
+      "findings": [
+        {
+          "title": "Pages de prestations trop minces",
+          "severity": "High",
+          "description": "~420 mots pour 7 services.",
+          "recommendation": "Une page de 800-1200 mots par service."
+        },
+        {
+          "title": "Études de cas sans résultats",
+          "severity": "High",
+          "description": "Barryland : ~180 mots, ni chiffres ni témoignage.",
+          "recommendation": "Ajouter résultats chiffrés, citation du client et liens vers les services."
+        },
+        {
+          "title": "Blog sans date ni auteur",
+          "severity": "High",
+          "description": "Aucune date ni aucun auteur visibles.",
+          "recommendation": "Afficher les dates et l'auteur, ajouter le schema BlogPosting."
+        },
+        {
+          "title": "Article en double",
+          "severity": "Medium",
+          "description": "'Mesurer le succès…' en ID 2484 et 3354.",
+          "recommendation": "Redirection 301."
+        }
+      ]
+    },
+    {
+      "name": "On-Page SEO",
+      "score": 50,
+      "what_works": [
+        "URL lisibles en français",
+        "Navigation principale claire"
+      ],
+      "findings": [
+        {
+          "title": "Titres trop longs et identiques",
+          "severity": "High",
+          "description": "Accueil 112 caractères, projet 124.",
+          "recommendation": "50-60 caractères, propre à chaque page."
+        },
+        {
+          "title": "H1 de l'accueil non descriptif",
+          "severity": "High",
+          "description": "'/boomerang marketing'.",
+          "recommendation": "'Agence de communication et web en Valais et à Lausanne'."
+        },
+        {
+          "title": "Maillage interne pauvre",
+          "severity": "Medium",
+          "description": "Aucun lien des articles vers les services.",
+          "recommendation": "1 ou 2 liens contextuels par article."
+        },
+        {
+          "title": "Pages locales faibles",
+          "severity": "Medium",
+          "description": "Sierre et Lausanne : ni carte, ni horaires, ni contenu local.",
+          "recommendation": "Créer de vraies pages locales."
+        }
+      ]
+    },
+    {
+      "name": "Images",
+      "score": 35,
+      "what_works": [
+        "Logos clients correctement nommés"
+      ],
+      "findings": [
+        {
+          "title": "Alt générique",
+          "severity": "Medium",
+          "description": "10 des 13 images de Barryland ont alt='Image'.",
+          "recommendation": "Alt descriptifs."
+        }
+      ]
+    },
+    {
+      "name": "AI Search Readiness",
+      "score": 55,
+      "what_works": [
+        "robots.txt ne bloque pas les robots d'IA",
+        "llms.txt probablement présent",
+        "NAP cohérent dans les annuaires"
+      ],
+      "findings": [
+        {
+          "title": "Pas de passages citables ni de FAQ",
+          "severity": "Medium",
+          "description": "Pas de chiffres propres à l'agence ni de FAQ sur les services.",
+          "recommendation": "Ajouter FAQ, chiffres et sources."
+        },
+        {
+          "title": "Homonymie 'Boomerang'",
+          "severity": "Medium",
+          "description": "Nombreuses entreprises du même nom.",
+          "recommendation": "Schema Organization avec sameAs."
+        }
+      ]
+    }
+  ],
+  "action_plan": {
+    "phases": [
+      {
+        "name": "Phase 1: Critical Fixes",
+        "timeframe": "Week 1",
+        "items": [
+          "Vérifier l'accès des robots (pare-feu)",
+          "Mesurer les CWV et relever canonical / description / schema"
+        ]
+      },
+      {
+        "name": "Phase 2: High-Impact Improvements",
+        "timeframe": "Weeks 2-3",
+        "items": [
+          "Réécrire les titres",
+          "H1 de l'accueil",
+          "301 du doublon",
+          "Dates et auteurs du blog",
+          "noindex des pages de formulaires",
+          "Alt des images"
+        ]
+      },
+      {
+        "name": "Phase 3: Content & Authority",
+        "timeframe": "Month 2",
+        "items": [
+          "Pages par service",
+          "Études de cas chiffrées",
+          "Pages locales Sierre et Lausanne",
+          "Google Business Profile et avis",
+          "Maillage interne",
+          "Schema Organization et Service"
+        ]
+      },
+      {
+        "name": "Phase 4: Monitoring & Iteration",
+        "timeframe": "Ongoing",
+        "items": [
+          "Search Console et Bing Webmaster",
+          "Baseline seo-drift",
+          "Nouvel audit dans 3 mois"
+        ]
+      }
+    ]
+  },
+  "artifacts": {
+    "findings_dir": "findings/",
+    "screenshots_dir": "screenshots/"
+  },
+  "limitations": [
+    "Le serveur cible a refusé les connexions directes : pas de HTML brut, d'en-têtes ni de rendu",
+    "Quota de l'API PageSpeed épuisé : pas de CWV",
+    "Score calculé sans Schema ni Performance (poids recalculés)"
+  ]
+}
