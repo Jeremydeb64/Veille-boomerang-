@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:36:47.072939+00:00",
+ "generated_at": "2026-11-11T00:55:02.510048+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 12
+   "kept": 13
   },
   {
    "name": "CB News",
