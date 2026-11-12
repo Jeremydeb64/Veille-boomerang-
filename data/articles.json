@@ -1,7 +1,79 @@
 {
- "generated_at": "2026-11-11T23:04:48.866926+00:00",
+ "generated_at": "2026-11-12T04:18:04.541197+00:00",
  "window_hours": 72,
  "articles": [
+  {
+   "title": "Ce que l’on sait sur les fausses alertes à la bombe dans les écoles qui ont secoué l’Italie et le Royaume-Uni",
+   "link": "https://www.letemps.ch/monde/ce-que-l-on-sait-sur-les-fausses-alertes-a-la-bombe-dans-les-ecoles-qui-ont-secoue-l-italie-et-le-royaume-uni",
+   "date": "2026-11-12T05:10:37+01:00",
+   "summary": "REVUE DE PRESSE. Après les secteurs aérien et médiatique, des milliers d’écoles ont été visées mercredi par de fausses menaces. Alors que les opérations «hybrides» se multiplient sur le sol européen, le point sur cette «probable campagne de perturbation coordonnée» C’est un…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "En direct, Moyen-Orient – Une frappe israélienne fait au moins six morts à Khan Younès",
+   "link": "https://www.letemps.ch/monde/moyenorient/en-direct-moyen-orient-une-frappe-israelienne-fait-au-moins-six-morts-a-khan-younes",
+   "date": "2026-11-12T04:46:43+01:00",
+   "summary": "Israël et le Hamas s'accusent mutuellement de violer le cessez-le-feu entré en vigueur le 10 octobre 2025. Une frappe israélienne sur l'hôpital Nasser, dans la bande de Gaza, a fait six morts et au moins 20 blessés mercredi, ont indiqué les secours palestiniens. Notre suivi…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Derrière ses têtes d’affiche en NBA, le basket suisse avance à deux vitesses",
+   "link": "https://www.letemps.ch/sport/derriere-ses-tetes-d-affiche-en-nba-le-basket-suisse-avance-a-deux-vitesses",
+   "date": "2026-11-12T04:30:10+01:00",
+   "summary": "La présence cette saison de trois joueurs suisses au sein de la plus grande ligue du monde témoigne d’un vivier de talents florissant, également visible à travers la progression des équipes nationales. A l’inverse, le championnat est sur la pente descendante, plombé par des…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Andrea Siviero, président de la Fédération suisse de basket: «La professionnalisation des clubs est au cœur de notre vision»",
+   "link": "https://www.letemps.ch/sport/andrea-siviero-president-de-la-federation-suisse-de-basket-la-professionnalisation-des-clubs-est-au-coeur-de-notre-vision",
+   "date": "2026-11-12T04:30:10+01:00",
+   "summary": "A la tête de Swiss Basketball depuis juin 2024, réélu ce printemps, le Tessinois est le premier conscient que le basket suisse part de loin. Porteur d’un plan global sur le long terme, il pointe la nécessité d’accompagner les clubs à se structurer Le Temps: Quel est votre regard…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "En direct, guerre contre l’Ukraine – Les émissaires américains vont rencontrer Vladimir Poutine, puis Volodymyr Zelensky",
+   "link": "https://www.letemps.ch/monde/en-direct-guerre-contre-l-ukraine-les-emissaires-americains-vont-rencontrer-vladimir-poutine-puis-volodymyr-zelensky",
+   "date": "2026-11-12T04:21:46+01:00",
+   "summary": "Jared Kushner et Steve Witkoff doivent rencontrer jeudi à Moscou le président russe, puis le même jour à Dublin son homologue ukrainien. A son arrivée dans la capitale irlandaise, Volodymyr Zelensky a dit qu'il pourrait y avoir une «fenêtre d'opportunité» pour parvenir à un…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Nvidia s'apprêterait à limoger Jensen Huang, éclaboussé par une nouvelle révélation",
+   "link": "https://www.rts.ch/info/monde/2026/article/nvidia-le-patron-jensen-huang-serait-sur-le-point-d-etre-limoge-29413642.html?rts_source=rss_t",
+   "date": "2026-11-12T03:45:28+00:00",
+   "summary": "Le conseil d'administration de Nvidia s'apprête à évincer son cofondateur et directeur, Jensen Huang, rapporte le Wall Street Journal. Le dirigeant du géant des puces électroniques fait face à une liste croissante de polémiques, notamment des liaisons extraconjugales.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Le démocrate Scott Colom est élu dans le Mississippi, devenant le premier sénateur afro-américain depuis 150 ans",
+   "link": "https://www.letemps.ch/monde/le-democrate-scott-colom-est-elu-dans-le-mississippi-devenant-le-premier-senateur-afro-americain-depuis-150-ans",
+   "date": "2026-11-12T02:16:16+01:00",
+   "summary": "Dans cet Etat du Sud marqué par le raciste et le ségrégationnisme, l’Afro-américain Scott Colom est arrivé en courte tête de l’élection sénatoriale. Le démocrate Scott Colom est parvenu à prendre aux républicains un siège au Sénat américain dans le Mississippi, le premier…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Les démocrates prennent un nouveau siège aux républicains, au sénat américain",
+   "link": "https://www.rts.ch/info/monde/2026/article/midterms-2026-les-democrates-remportent-un-siege-au-senat-29413633.html?rts_source=rss_t",
+   "date": "2026-11-12T01:43:03+00:00",
+   "summary": "Le démocrate Scott Colom est parvenu à prendre aux républicains un siège au Sénat américain dans le Mississippi, lors des élections de mi-mandat, selon les projections de médias mercredi. Il est le premier sénateur noir à être élu en près de 150 ans dans cet Etat.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "L’ambassadeur russe aux Etats-Unis est mort «soudainement»",
+   "link": "https://www.letemps.ch/monde/l-ambassadeur-russe-aux-etats-unis-est-mort-soudainement",
+   "date": "2026-11-12T01:30:27+01:00",
+   "summary": "Le Ministère russe des affaires étrangères a annoncé tôt mercredi la disparition de Alexandre Dartchiev, en poste à Washington depuis 2025. Selon les Etats-Unis, l’ambassadeur russe serait décédé à Moscou L’ambassadeur russe aux Etats-Unis, Alexandre Dartchiev, est mort…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
   {
    "title": "La grève générale en Espagne a réuni plusieurs centaines de milliers de manifestants",
    "link": "https://www.letemps.ch/monde/la-greve-generale-en-espagne-a-reuni-plusieurs-centaines-de-milliers-de-manifestants",
@@ -25,6 +97,14 @@
    "summary": "Wirz wird 90, in einem bewegten Jahr: Die älteste Grossagentur des Landes hat eine tiefgreifende Transformation hinter sich und muss nach dem reduzierten Migros-Volumen Stellen abbauen. Die Co-CEOs Petra Dreyfus und Livio Dainese darüber, was es heisst, die Schweiz zu verstehen,…",
    "source": "watson.ch",
    "section": "romandie"
+  },
+  {
+   "title": "Friday, Nov. 6 Daily Cable News Ratings: Fox News’ The Five Leads the Way",
+   "link": "https://www.adweek.com/tvnewser/friday-nov-6-2026-daily-cable-news-ratings/",
+   "date": "2026-11-11T21:08:41+00:00",
+   "summary": "CNN was in first place in the primetime demo.",
+   "source": "Adweek",
+   "section": "international"
   },
   {
    "title": "A Lausanne, l’impayable Tiphanie Bovay-Klameth fait grand bruit en cheffe de chœur mielleusement sadique",
@@ -131,6 +211,14 @@
    "section": "romandie"
   },
   {
+   "title": "The Washington Post Nears Breakeven After ‘Hundreds and Hundreds of Millions’ in Losses",
+   "link": "https://www.adweek.com/media/the-washington-post-nears-breakeven-after-hundreds-and-hundreds-of-millions-in-losses/",
+   "date": "2026-11-11T19:02:00+00:00",
+   "summary": "This story was originally published in On Background with Mark Stenberg, a free, weekly newsletter that explores the key themes shaping the media industry. You can sign up for it here. […]",
+   "source": "Adweek",
+   "section": "international"
+  },
+  {
    "title": "Ce que cache la candidature de Teddy Riner (11/11)",
    "link": "https://shows.acast.com/les-actus-du-jour-hugo-decrypte/episodes/ce-que-cache-la-candidature-de-teddy-riner-1111",
    "date": "2026-11-11T18:54:57+00:00",
@@ -203,30 +291,6 @@
    "section": "romandie"
   },
   {
-   "title": "«Là où ça chauffe, ça devient insupportable»: Les proviseurs français menacent de se retirer face à un mouvement lycéen moins large mais plus violent",
-   "link": "https://www.letemps.ch/monde/france/la-ou-ca-chauffe-ca-devient-insupportable-les-proviseurs-francais-menacent-de-se-retirer-face-a-un-mouvement-lyceen-moins-large-mais-plus-violent",
-   "date": "2026-11-11T17:22:49+01:00",
-   "summary": "Avec «245 personnels» de l’Education nationale blessés depuis le début de la contestation, des chefs d’établissement réclament une mobilisation préventive des forces de l’ordre et organiseront vendredi un rassemblement national devant des sites symboliques Un proviseur blessé…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Le Parlement européen s’apprête à voter en décembre sur la «préférence européenne» dans l’industrie",
-   "link": "https://www.letemps.ch/economie/le-parlement-europeen-s-apprete-a-voter-en-decembre-sur-la-preference-europeenne-dans-l-industrie",
-   "date": "2026-11-11T17:08:17+01:00",
-   "summary": "Les eurodéputés veulent obliger les entreprises recevant des fonds publics à privilégier les composants fabriqués dans l’UE. Plus de 5000 amendements ont été déposés sur ce texte baptisé l’Accélérateur industriel Le Parlement européen va acter en décembre sa position sur…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Le Conseil fédéral prêt à imposer son tarif aux médecins pour freiner les coûts de la santé",
-   "link": "https://www.letemps.ch/suisse/le-conseil-federal-pret-a-imposer-son-tarif-aux-medecins-pour-freiner-les-couts-de-la-sante",
-   "date": "2026-11-11T17:06:25+01:00",
-   "summary": "Le Conseil fédéral hausse le ton face aux médecins et aux hôpitaux. Devant leur refus de limiter la hausse des coûts ambulatoires, il prépare une intervention directe dans leur tarif. Les médecins dénoncent une enveloppe fermée qui menacerait l’accès aux soins Sur le papier,…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "La faîtière valaisanne des médecins-dentistes fête ses 100 ans et tire le bilan de son action",
    "link": "https://canal9.ch/fr/la-faitiere-valaisanne-des-medecins-dentistes-fete-ses-100-ans-et-tire-le-bilan-de-son-action/",
    "date": "2026-11-11T17:02:20+00:00",
@@ -264,14 +328,6 @@
    "date": "2026-11-11T16:51:22+00:00",
    "summary": "Le nouveau système tarifaire pour les soins Tardoc a été revu pour le début de l'année 2027. Les structures tarifaires seront adaptées dans plusieurs domaines, a communiqué mercredi le Conseil fédéral, qui demande des améliorations.",
    "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Pourparlers russo-ukrainiens: un échange de prisonniers promis, mais aucun progrès sur le cessez-le-feu",
-   "link": "https://www.letemps.ch/monde/pourparlers-russo-ukrainiens-un-echange-de-prisonniers-promis-mais-aucun-progres-sur-le-cessez-le-feu",
-   "date": "2026-11-11T16:36:04+01:00",
-   "summary": "Unique résultat de la rencontre, une promesse d’échange de prisonniers. L’essentiel était toutefois que les Européens ne soient pas écartés par Moscou et Washington. Aux côtés de la France, de l’Allemagne et du Royaume-Uni, la Suisse faisait partie des autres invités de cette…",
-   "source": "Le Temps",
    "section": "romandie"
   },
   {
@@ -339,14 +395,6 @@
    "section": "international"
   },
   {
-   "title": "Sarah Huber, ancienne négociatrice suisse à l'OMC, a troqué la diplomatie pour l'alpage et les plantes médicinales",
-   "link": "https://www.letemps.ch/societe/sarah-huber-ancienne-negociatrice-suisse-a-l-omc-a-troque-la-diplomatie-pour-l-alpage-et-les-plantes-medicinales",
-   "date": "2026-11-11T15:17:21+01:00",
-   "summary": "A 51 ans, après des décennies dans les rouages de l'Etat, Sarah Huber a choisi la rudesse de l'alpage à 2000 mètres. Un refuge où elle cultive plantes et résilience, loin de l'impuissance ressentie dans les sphères internationales Il faut vingt minutes de marche soutenue, le…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Ungebetener Gast stört den Winterspass",
    "link": "https://www.persoenlich.com/kategorie-werbung/ungebetener-gast-stort-den-winterspass",
    "date": "2026-11-11T15:15:00+01:00",
@@ -392,14 +440,6 @@
    "date": "2026-11-11T15:00:00+01:00",
    "summary": "Das Gratisblatt übernimmt regelmässig Texte des Stadtzürcher Onlinemagazins. Tsüri.ch wird für die Zweitverwertung entschädigt. Chefredaktor Simon Jacoby sieht die redaktionelle Unabhängigkeit nicht gefährdet.",
    "source": "watson.ch",
-   "section": "romandie"
-  },
-  {
-   "title": "Des milliers d’écoles italiennes ciblées par des fausses alertes à la bombe",
-   "link": "https://www.letemps.ch/monde/europe/vague-de-fausses-alertes-a-la-bombe-en-italie-au-royaume-uni-et-en-irlande-les-ecoles-prises-pour-cible",
-   "date": "2026-11-11T14:56:57+01:00",
-   "summary": "Des courriels menaçants, reçus hier par quelque 6300 établissements à travers la péninsule, ont entraîné l’évacuation de nombre d’entre eux. Selon Giorgia Meloni, aucun «danger concret» n’a été identifié. Des menaces similaires ont également été signalées au Royaume-Uni et en…",
-   "source": "Le Temps",
    "section": "romandie"
   },
   {
@@ -537,14 +577,6 @@
    "summary": "Der Protest geht mittlerweile über die Grenzen der Redaktionen hinaus. Unter dem Motto «Den Journalismus retten – die Demokratie verteidigen» ruft die Media Alliance Medienschaffende und die Bevölkerung dazu auf, sich am 21. November um 15 Uhr auf dem Bundesplatz in Bern zu…",
    "source": "Cominmag",
    "section": "com-suisse"
-  },
-  {
-   "title": "A Genève, Washington persiste dans son boycott du Conseil des droits de l’homme de l’ONU",
-   "link": "https://www.letemps.ch/monde/ameriques/a-geneve-washington-persiste-dans-son-boycott-du-conseil-des-droits-de-l-homme-de-l-onu",
-   "date": "2026-11-11T13:14:43+01:00",
-   "summary": "Washington a refusé l’examen phare du Conseil des droits de l’homme pour la deuxième année consécutive. A Genève, des militants américains ont dit leur colère et leur inquiétude face à cette nouvelle fragilisation du système onusien par les Etats-Unis Pour la deuxième année…",
-   "source": "Le Temps",
-   "section": "romandie"
   },
   {
    "title": "JustWatch TV arrive en Suisse : la data au cœur d’un nouveau modèle de streaming publicitaire",
@@ -763,22 +795,6 @@
    "section": "romandie"
   },
   {
-   "title": "Il y a parfois trop d’aluminium dans votre tasse de matcha",
-   "link": "https://www.rts.ch/info/sante/2026/article/trop-d-aluminium-dans-le-the-matcha-ce-qu-il-faut-savoir-29411600.html?rts_source=rss_t",
-   "date": "2026-11-11T09:00:34+00:00",
-   "summary": "Une enquête menée par le magazine de consommation français ‘Que choisir?’ montre que sur sept sortes de matchas analysés, dont certains en vente en Suisse, cinq contenaient une quantité d’aluminium supérieure à la norme européenne, aussi adoptée par la Suisse. Les résidus étant…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "La crise des composants dope le marché des téléphones reconditionnés",
-   "link": "https://www.rts.ch/info/economie/2026/article/penurie-de-composants-envolee-des-telephones-reconditionnes-29410853.html?rts_source=rss_t",
-   "date": "2026-11-11T08:58:54+00:00",
-   "summary": "A cause de la pénurie mondiale de semi-conducteurs, les prix des appareils connectés ont pris l'ascenseur ces douze derniers mois. En conséquence, les consommateurs se tournent vers le marché du téléphone reconditionné et d'occasion.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
    "title": "#EMPLOI – Farner recherche un.e consultant.e en communication",
    "link": "https://cominmag.ch/emploi-farner-recherche-un-e-consultant-e-en-communication/",
    "date": "2026-11-11T08:05:33+00:00",
@@ -971,14 +987,6 @@
    "section": "com-france"
   },
   {
-   "title": "Commerce Media’s Consolidation Era Is Here",
-   "link": "https://www.adweek.com/commerce/commerce-medias-consolidation-era-is-here/",
-   "date": "2026-11-10T14:07:37+00:00",
-   "summary": "2027 will be shaped by big moves from DoorDash, Delta, and McDonald's.",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
    "title": "Les dernières nouveautés de Photoshop, Premiere, Lightroom, Illustrator et InDesign",
    "link": "https://www.blogdumoderateur.com/dernieres-nouveautes-photoshop-premiere-lightroom-illustrator-indesign/",
    "date": "2026-11-10T14:05:17+00:00",
@@ -993,14 +1001,6 @@
    "summary": "En ouverture de MAX 2026, Adobe a présenté des agents capables de travailler en arrière-plan, annoncé des intégrations MCP pour les agents tiers, et enrichi Firefly de nouveaux outils.",
    "source": "Blog du Modérateur",
    "section": "com-france"
-  },
-  {
-   "title": "Skydance to Embrace Bundling Across Business Functions",
-   "link": "https://www.adweek.com/convergent-tv/skydance-to-embrace-bundling-across-business-functions/",
-   "date": "2026-11-10T13:25:22+00:00",
-   "summary": "The company has started more than 20 what it calls “workstreams” to identify areas of possible cuts.",
-   "source": "Adweek",
-   "section": "international"
   },
   {
    "title": "(Pop) Est-ce que Dior a utilisé l’IA pour son nouveau court-métrage ? HugoDécrypte",
