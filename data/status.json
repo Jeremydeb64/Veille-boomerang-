@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T13:17:38.968708+00:00",
+ "generated_at": "2026-11-12T21:07:04.339595+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 15
+   "kept": 14
   },
   {
    "name": "CB News",
@@ -80,7 +80,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 14
+   "kept": 12
   },
   {
    "name": "Abondance",
@@ -111,7 +111,7 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2006,
+   "items_in_feed": 2007,
    "kept": 6
   }
  ]
