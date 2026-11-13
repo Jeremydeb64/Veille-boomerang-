@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T10:00:05.823192+00:00",
+ "generated_at": "2026-11-13T18:05:45.957835+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 14
+   "kept": 10
   },
   {
    "name": "CB News",
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 6
+   "kept": 7
   },
   {
    "name": "Adweek",
@@ -111,7 +111,7 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2007,
+   "items_in_feed": 2008,
    "kept": 6
   }
  ]
