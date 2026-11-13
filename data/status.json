@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:05:45.957835+00:00",
+ "generated_at": "2026-11-13T23:53:23.025960+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 10
+   "kept": 8
   },
   {
    "name": "CB News",
@@ -111,7 +111,7 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2008,
+   "items_in_feed": 2009,
    "kept": 6
   }
  ]
