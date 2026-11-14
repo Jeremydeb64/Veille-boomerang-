@@ -1,7 +1,71 @@
 {
- "generated_at": "2026-11-14T19:29:05.760186+00:00",
+ "generated_at": "2026-11-14T23:24:26.585729+00:00",
  "window_hours": 72,
  "articles": [
+  {
+   "title": "Rebecca Amsellem, l'invitée du dimanche",
+   "link": "https://www.cbnews.fr/cb/rebecca-amsellem-invitee-du-dimanche",
+   "date": "2026-11-14T22:50:03+00:00",
+   "summary": "Rebecca Amsellem, l'invitée du dimanche Rebecca Amsellem, l'invitée du dimanche dahlia.girgis sam 14/11/2026 - 23:50 CB+",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Une filiale de La Poste française a subi une importante cyberattaque en septembre, plus de 20 millions de personnes ont été touchées",
+   "link": "https://www.letemps.ch/cyber/cybersecurite/une-filiale-de-la-poste-francaise-victime-d-une-cyberattaque-plus-de-20-millions-de-personnes-touchees",
+   "date": "2026-11-14T21:47:18+01:00",
+   "summary": "La plateforme Maileva, spécialisée dans l'envoi de courriers professionnels pour les entreprises, a été victime d'une cyberattaque mi-septembre. Les coordonnées de 22 millions de personnes ont été exposées. Une fuite de données rarement vue en France Maileva, filiale du groupe…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "La Nuit des Griffes réveille l'appétit des Romands pour les films d'horreur",
+   "link": "https://www.rts.ch/info/culture/cinema/2026/article/cinema-d-horreur-la-nuit-des-griffes-fait-le-plein-a-lausanne-29416206.html?rts_source=rss_t",
+   "date": "2026-11-14T21:42:08+00:00",
+   "summary": "Le festival lausannois La Nuit des Griffes, qui propose deux jours de cinéma horrifique, rencontre un succès croissant. Mais qu’est-ce qui nous attire tant dans les films d’horreur ?",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "La panne de Microsoft révèle la dépendance numérique des entreprises suisses",
+   "link": "https://www.rts.ch/info/economie/2026/article/panne-de-microsoft-la-dependance-des-entreprises-suisses-29416156.html?rts_source=rss_t",
+   "date": "2026-11-14T21:09:15+00:00",
+   "summary": "La panne mondiale de Microsoft a perturbé les activités de nombreuses entreprises suisses, dont le fabricant de sécateurs FELCO. Son directeur général, Nabil Francis, alerte sur les risques d'une dépendance numérique qui pourrait fragiliser l'ensemble du tissu économique.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "A Genève, la Coalition contre l’austérité rassemble plusieurs milliers de personnes pour «faire boule de neige» contre les coupes budgétaires",
+   "link": "https://www.letemps.ch/suisse/geneve/a-geneve-la-coalition-contre-l-austerite-rassemble-plusieurs-milliers-de-personnes-pour-faire-boule-de-neige-contre-les-coupes-budgetaires",
+   "date": "2026-11-14T20:45:57+01:00",
+   "summary": "Faire front commun contre les économies: c'est le pari de la Coalition contre l’austérité, qui fédérait samedi à Genève près de 40 organisations d’horizons divers. Une convergence des luttes qui passe de la théorie à la rue Les archets s’agitent, les cuivres retentissent et en…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Les créatifs ne sont pas des gestionnaires de l’immédiat",
+   "link": "https://www.letemps.ch/opinions/editoriaux/les-creatifs-ne-sont-pas-des-gestionnaires-de-l-immediat",
+   "date": "2026-11-14T20:38:23+01:00",
+   "summary": "ÉDITO. Dans l’industrie du luxe, les créateurs sont désormais jugés sur leurs premiers défilés, comme un chef d’Etat sur ses 100 premiers jours. Chez Hermès, Nadège Vanhée, elle, connaît son apogée après douze ans Cent jours. C’est le temps qu’il aura fallu à Franklin Delano…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Les Editions Corti republient des nouvelles de Sheridan Le Fanu (1814-1873), surnommé le «Prince invisible», maître du gothique irlandais",
+   "link": "https://www.letemps.ch/culture/livres/les-editions-corti-republient-des-nouvelles-de-sheridan-le-fanu-1814-1873-surnomme-le-prince-invisible-maitre-du-gothique-irlandais",
+   "date": "2026-11-14T20:38:06+01:00",
+   "summary": "Un couple londonien accueille un mystérieux locataire, qui va exercer un redoutable empire sur eux. Un capitaine est poursuivi par un petit homme qui lui prédit sa mort. Un père fait régner la terreur dans sa famille… «Le Mystérieux Locataire» et ses six histoires d’emprise,…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "L'huile végétale, une alternative au diesel qui peine encore à le remplacer",
+   "link": "https://www.rts.ch/info/economie/2026/article/hvo-100-l-huile-vegetale-peut-elle-remplacer-le-diesel-29416097.html?rts_source=rss_t",
+   "date": "2026-11-14T20:24:33+00:00",
+   "summary": "Avec la flambée du prix du carburant, de plus en plus d'automobilistes utilisent de l'huile végétale directement à la place du diesel, une pratique non sans risque. Un nouveau carburant à base d'huile a toutefois fait ses preuves, mais reste difficile à produire.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
   {
    "title": "La chute de Jensen Huang ébranlera-t-elle la confiance dans l'écosystème taïwanais des semi-conducteurs?",
    "link": "https://www.letemps.ch/cyber/la-chute-de-jensen-huang-ebranlera-t-elle-la-confiance-dans-l-ecosysteme-taiwanais-des-semi-conducteurs",
@@ -25,6 +89,14 @@
    "summary": "Depuis les années 1950, le pays a perdu 14 km² de surface côtière. Les rechargements artificiels permettent de gagner du temps, mais puisent dans une ressource elle-même sous pression Face à l’horizon crépusculaire, ce vendredi soir, Francisco Silva hale le filet qu’il vient de…",
    "source": "Le Temps",
    "section": "romandie"
+  },
+  {
+   "title": "La fin annoncée de Shein et Temu, ils ripostent (14/11)",
+   "link": "https://shows.acast.com/les-actus-du-jour-hugo-decrypte/episodes/la-fin-annoncee-de-shein-et-temu-ils-ripostent-1411",
+   "date": "2026-11-14T19:29:47+00:00",
+   "summary": "Chaque jour, en moins de 10 minutes, un résumé de l’actualité du jour. Rapide, facile, accessible. 📺 Pour découvrir et vous abonner à notre chaine YouTube \"Grands Formats\" (interviews, enquêtes, reportages) : hugodecrypte.com/grands-formats 💼 Pour trouver un stage, alternance ou CDD/CDI : hugodecrypte.com/jobboard 🗞️ L'essentiel de l'actualité, gratuitement, par email : hugodecrypte.com/newsletter Et pour suivre l'actualité sur Instagram : hugodecrypte.com/insta-hd 🔗 DES LIENS POUR EN SAVOIR PLUS TAXE PETITS COLIS : Toute l’Europe , Les Echos , Le Figaro MANIFESTATIONS : Franceinfo , TF1 UKRAINE : Le Parisien , CNN ÉTATS-UNIS : Franceinfo , Courrier International MICROSOFT : BFM , Le Monde EURO MILLION : Ouest-France , Le Parisien Écriture : Blanche Vathonne - Léah Boukobza - Samy Rabbata - Hugo Travers Hébergé par Acast. Visitez acast.com/privacy pour plus d'informations.",
+   "source": "HugoDécrypte (podcast)",
+   "section": "international"
   },
   {
    "title": "Acte V des manifestations contre la vie chère en France: malgré une mobilisation en baisse, les revendications varient et la tension persiste",
@@ -187,14 +259,6 @@
    "section": "romandie"
   },
   {
-   "title": "«L’Architecte romaine» fait revivre la trop méconnue Plautilla Bricci et tout le XVIIe siècle autour d’elle",
-   "link": "https://www.letemps.ch/culture/livres/l-architecte-romaine-fait-revivre-la-trop-meconnue-plautilla-bricci-et-tout-le-xviie-siecle-autour-d-elle",
-   "date": "2026-11-14T13:42:10+01:00",
-   "summary": "Melania Mazzucco retrace la vie d’une artiste hors du commun et injustement méconnue, qui a traversé tout le siècle baroque. Un roman intimiste, mais aussi historique, sur les fastes et les intrigues de la cour papale La Villa Benedetta s’élevait au sommet de la collline du…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "La chaleur de l’été a rendu muettes des cloches d'églises",
    "link": "https://www.rts.ch/info/societe/2026/article/canicule-en-suisse-la-chaleur-bloque-des-cloches-d-eglises-29413085.html?rts_source=rss_t",
    "date": "2026-11-14T13:35:03+00:00",
@@ -219,14 +283,6 @@
    "section": "romandie"
   },
   {
-   "title": "«Les garçons nous sous-estiment toujours»: les débuts réussis des très jeunes hockeyeuses neuchâteloises",
-   "link": "https://www.letemps.ch/sport/hockey/les-garcons-nous-sous-estiment-toujours-les-debuts-reussis-des-tres-jeunes-hockeyeuses-neuchateloises",
-   "date": "2026-11-14T12:01:38+01:00",
-   "summary": "La Neuchâtel Hockey Academy a créé cette saison la première équipe romande exclusivement féminine de la catégorie des moins de 12 ans. Ses membres, qui jouent également dans des formations masculines, y apprennent à prendre des responsabilités… et elles gagnent la plupart de…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "(Pop) Gérard Depardieu mis en cause par de nouvelles images et témoignages révélés par Le Média et Médiapart… HugoDécrypte",
    "link": "https://shows.acast.com/les-actus-du-jour-hugo-decrypte/episodes/pop-gerard-depardieu-mis-en-cause-par-de-nouvelles-images-et",
    "date": "2026-11-14T12:00:00+00:00",
@@ -248,22 +304,6 @@
    "date": "2026-11-14T11:18:57+00:00",
    "summary": "Phnom Penh devient ce week-end le cœur battant de la Francophonie. La capitale cambodgienne accueille dimanche et lundi le Sommet de la Francophonie, placé sous le signe de la paix, de la coopération et de la prospérité partagée. Ignazio Cassis représente la Suisse.",
    "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Et le Mississippi élut (à nouveau) un sénateur noir",
-   "link": "https://www.letemps.ch/opinions/chroniques/et-le-mississippi-elut-a-nouveau-un-senateur-noir",
-   "date": "2026-11-14T11:05:58+01:00",
-   "summary": "CHRONIQUE. La défaite historique des républicains aux Etats-Unis se clôt avec les résultats d’un Etat dont le basculement résume à lui seul un changement d’époque. La dérive autoritaire de Washington semble ainsi avoir atteint ses limites, écrit Frédéric Koller Lors de la…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Aux Etats-Unis, un matériel obsolète et surchargé provoque l’annulation de plus de 16 000 vols – et des débats houleux",
-   "link": "https://www.letemps.ch/monde/aux-etats-unis-un-materiel-obsolete-et-surcharge-provoque-l-annulation-de-plus-de-6000-vols-et-des-debats-houleux",
-   "date": "2026-11-14T11:03:27+01:00",
-   "summary": "L’espace aérien a rouvert aux États-Unis vendredi soir après la suspension de tous les décollages dans le pays pendant plusieurs heures, en raison d’un problème technique. L’annulation a affecté plus de 1,5 million de passagers et relancé les débats sur la modernisation des…",
-   "source": "Le Temps",
    "section": "romandie"
   },
   {
@@ -375,30 +415,6 @@
    "link": "https://www.rts.ch/info/monde/2026/article/data-centers-pourquoi-ils-deviennent-des-cibles-de-guerre-29407012.html?rts_source=rss_t",
    "date": "2026-11-14T06:55:50+00:00",
    "summary": "Que ce soit en Ukraine, en Russie ou au Moyen-Orient, les centres de données sont devenus des cibles de guerre. Leur défaillance, même temporaire, peut paralyser l'économie d'un pays ainsi que des services publics, comme les hôpitaux.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Lent retour à la normale aux États-Unis après une suspension de tous les vols pendant quatre heures",
-   "link": "https://www.rts.ch/info/monde/2026/article/etats-unis-tous-les-avions-cloues-au-sol-dans-le-pays-29415686.html?rts_source=rss_t",
-   "date": "2026-11-14T06:00:00+00:00",
-   "summary": "L'espace aérien a rouvert aux États-Unis vendredi soir après la suspension de tous les décollages dans le pays pendant plusieurs heures, en raison d'un problème technique. L'annulation de presque 6000 vols a affecté des centaines de milliers de passagers. Les autorités ont…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "SpaceX échoue à rattraper le premier étage de sa fusée Starship",
-   "link": "https://www.rts.ch/info/sciences-tech/2026/article/spacex-echoue-a-rattraper-le-premier-etage-de-la-fusee-starship-29415815.html?rts_source=rss_t",
-   "date": "2026-11-14T03:17:59+00:00",
-   "summary": "SpaceX a renoncé vendredi à rattraper le premier étage de sa fusée Starship, juste après son lancement à 16h47 locales (23h47 en Suisse). L'entreprise d'Elon Musk compte quand même tenter samedi de récupérer le second étage, ce qui serait inédit.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Donald Trump, Xi Jinping et Vladimir Poutine se rencontreront jeudi en Chine",
-   "link": "https://www.rts.ch/info/monde/2026/article/trump-xi-et-poutine-se-rencontrent-jeudi-en-chine-29415799.html?rts_source=rss_t",
-   "date": "2026-11-14T01:27:16+00:00",
-   "summary": "Les présidents américain Donald Trump, chinois Xi Jinping et russe Vladimir Poutine vont se rencontrer jeudi en Chine, en marge du sommet de la Coopération économique Asie-Pacifique (APEC), a affirmé la Maison Blanche. L'APEC a lieu du 18 au 19 novembre à Shenzhen.",
    "source": "RTS Info",
    "section": "romandie"
   },
@@ -863,14 +879,6 @@
    "link": "https://www.cbnews.fr/etudes/salons-les-exposants-progressent-les-visiteurs-se-font-plus-rares",
    "date": "2026-11-12T18:06:39+00:00",
    "summary": "Salons : les exposants progressent, les visiteurs se font plus rares Salons : les exposants progressent , les visiteurs se font plus rares thierry.wojciak jeu 12/11/2026 - 19:06 Etudes",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Bleuforêt confie sa communication à WEAREMB et Passing-Shot",
-   "link": "https://www.cbnews.fr/conseil/bleuforet-confie-sa-communication-wearemb-passing-shot",
-   "date": "2026-11-12T18:06:25+00:00",
-   "summary": "Bleuforêt confie sa communication à WEAREMB et Passing-Shot Bleuforêt confie sa communication à WEAREMB et Passing-Shot thierry.wojciak jeu 12/11/2026 - 19:06 Conseil",
    "source": "CB News",
    "section": "com-france"
   },
