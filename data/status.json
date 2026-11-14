@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T07:02:27.490498+00:00",
+ "generated_at": "2026-11-14T14:31:15.317558+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -56,7 +56,7 @@
    "url": "https://www.cominmag.ch/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 20
+   "kept": 10
   },
   {
    "name": "Blog du Modérateur",
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 10,
-   "kept": 7
+   "kept": 5
   },
   {
    "name": "Adweek",
@@ -111,7 +111,7 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2009,
+   "items_in_feed": 2010,
    "kept": 6
   }
  ]
