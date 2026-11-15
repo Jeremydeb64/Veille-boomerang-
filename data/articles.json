@@ -1,7 +1,23 @@
 {
- "generated_at": "2026-11-14T23:24:26.585729+00:00",
+ "generated_at": "2026-11-15T03:06:23.762364+00:00",
  "window_hours": 72,
  "articles": [
+  {
+   "title": "En France, une filiale de La Poste se fait voler les données de 22 millions de personnes",
+   "link": "https://www.rts.ch/info/monde/2026/article/cyberattaque-22-millions-de-donnees-volees-chez-une-filiale-de-la-poste-29416312.html?rts_source=rss_t",
+   "date": "2026-11-15T01:30:07+00:00",
+   "summary": "Une filiale du groupe La Poste, Maileva, spécialisée dans l'envoi de courriers professionnels, a été victime d'une importante cyberattaque, mi-septembre, ayant conduit au vol des coordonnées de 22 millions de personnes.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "SpaceX rattrape pour la première fois l'étage supérieur de sa fusée Starship",
+   "link": "https://www.rts.ch/info/monde/2026/article/spacex-rattrape-l-etage-superieur-de-starship-une-premiere-29416255.html?rts_source=rss_t",
+   "date": "2026-11-14T23:46:37+00:00",
+   "summary": "L'entreprise américaine SpaceX, appartenant à Elon Musk, a réussi samedi à rattraper l'imposant étage supérieur de sa mégafusée Starship après plus de 22 heures de vol. Il s'agit d'une première historique.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
   {
    "title": "Rebecca Amsellem, l'invitée du dimanche",
    "link": "https://www.cbnews.fr/cb/rebecca-amsellem-invitee-du-dimanche",
@@ -399,22 +415,6 @@
    "link": "https://www.rts.ch/info/monde/2026/article/detroit-d-ormuz-deux-petroliers-en-feu-touches-par-des-mines-29415849.html?rts_source=rss_t",
    "date": "2026-11-14T07:30:32+00:00",
    "summary": "Deux pétroliers ont pris feu après avoir percuté des mines dans le détroit d'Ormuz, ont indiqué samedi les gardiens de la révolution, armée idéologique du régime iranien. Téhéran revendique le contrôle de cette voie maritime stratégique.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Le témoignage de Béatrice Keul, la \"Swiss Beauty Queen\" qui accuse Donald Trump de viol",
-   "link": "https://www.rts.ch/info/monde/2026/article/donald-trump-accuse-de-viol-le-temoignage-de-beatrice-keul-29412884.html?rts_source=rss_t",
-   "date": "2026-11-14T07:28:25+00:00",
-   "summary": "Ancienne dauphine de Miss Suisse, Béatrice Keul accuse le président américain Donald Trump de l'avoir violée en 1993 dans une suite d'hôtel à New York. Dans une interview à SRF, elle raconte son histoire et répond aux critiques qui lui sont adressées.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "\"Plus on va vers une économie digitale, plus on aura intérêt à stocker les données dans des endroits inattaquables\"",
-   "link": "https://www.rts.ch/info/monde/2026/article/data-centers-pourquoi-ils-deviennent-des-cibles-de-guerre-29407012.html?rts_source=rss_t",
-   "date": "2026-11-14T06:55:50+00:00",
-   "summary": "Que ce soit en Ukraine, en Russie ou au Moyen-Orient, les centres de données sont devenus des cibles de guerre. Leur défaillance, même temporaire, peut paralyser l'économie d'un pays ainsi que des services publics, comme les hôpitaux.",
    "source": "RTS Info",
    "section": "romandie"
   },
