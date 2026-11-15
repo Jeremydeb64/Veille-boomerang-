@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T17:59:26.248701+00:00",
+ "generated_at": "2026-11-15T23:11:03.174845+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -104,7 +104,7 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 8
+   "kept": 7
   },
   {
    "name": "HugoDécrypte (podcast)",
@@ -112,7 +112,7 @@
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
    "items_in_feed": 2012,
-   "kept": 6
+   "kept": 4
   }
  ]
 }
