@@ -1,21 +1,469 @@
 {
- "generated_at": "2026-11-17T14:54:44.201282+00:00",
+ "generated_at": "2026-11-17T23:10:05.809268+00:00",
  "window_hours": 72,
  "articles": [
   {
-   "title": "Le rappeur américain Napoleon Maddox: «L’engagement n’est pas une posture à la mode»",
-   "link": "https://www.letemps.ch/culture/le-rappeur-americain-napoleon-maddox-l-engagement-n-est-pas-une-posture-a-la-mode",
-   "date": "2026-11-17T15:51:55+01:00",
-   "summary": "Entre beats affûtés et rimes de combat, le rappeur américain Napoleon Maddox et le beatmaker français Sorg signent «1968». Un disque qui ravive la mémoire des luttes passées face aux colères qui traversent les rues aujourd’hui En ce jour de Toussaint, les fantômes des révoltes…",
+   "title": "Jedes zweite KMU ohne Marketingstrategie",
+   "link": "https://www.persoenlich.com/marketing/jedes-zweite-kmu-ohne-marketingstrategie",
+   "date": "2026-11-18T00:01:00+01:00",
+   "summary": "Fast sechs von zehn Schweizer Betrieben haben kein eigenständiges Marketingbudget, bei drei von vier ist das digitale Marketing Chefsache. Das zeigen vertiefende Ergebnisse einer Studie mit der Hochschule Luzern, die persoenlich.com exklusiv vorab vorliegen.",
+   "source": "watson.ch",
+   "section": "romandie"
+  },
+  {
+   "title": "Passer d'une gouvernance «solitaire» à «collégiale»: Philippe Diallo se pose en anti-Gianni Infantino dans la course à la présidence de la FIFA",
+   "link": "https://www.letemps.ch/sport/passer-d-une-gouvernance-solitaire-a-collegiale-philippe-diallo-se-pose-en-anti-gianni-infantino-dans-la-course-a-la-presidence-de-la-fifa",
+   "date": "2026-11-17T21:41:59+01:00",
+   "summary": "Au lendemain de sa candidature annoncée à la présidence de la FIFA, l'actuel patron de la Fédération française de football s'est présenté comme l'incarnation du changement face à l'Italo-Suisse, qu'il n'a pas manqué d'égratigner Après avoir obtenu l'aval de la Fédération…",
    "source": "Le Temps",
    "section": "romandie"
   },
   {
-   "title": "La peur d’une identité numérique obligatoire relance le combat citoyen",
-   "link": "https://www.letemps.ch/suisse/la-peur-d-une-identite-numerique-obligatoire-relance-le-combat-citoyen",
-   "date": "2026-11-17T15:47:21+01:00",
-   "summary": "Un an après avoir perdu de justesse dans les urnes, les opposants à l’identité électronique lancent une initiative populaire. Ils veulent garantir dans la Constitution le caractère facultatif de l’e-ID Ils ne veulent pas d’une e-ID obligatoire et entendent l’inscrire dans la…",
+   "title": "L'enquête sur la Deutsche Bank montre que le cadre suisse a permis de protéger les avoirs d'oligarques russes",
+   "link": "https://www.rts.ch/info/economie/2026/article/deutsche-bank-20-oligarques-russes-geres-depuis-la-suisse-29419275.html?rts_source=rss_t",
+   "date": "2026-11-17T21:35:45+00:00",
+   "summary": "La Deutsche Bank a délibérément concentré ses activités les plus sensibles à Genève et à Zurich, selon une enquête journalistique basée sur une fuite de données internes. Elle décrit comment sa filiale helvétique gérait les fortunes d'une vingtaine d'oligarques russes proches du…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "«Ohne Menschen wird Lokaljournalismus öde»",
+   "link": "https://www.persoenlich.com/medien/ohne-menschen-wird-lokaljournalismus-ode",
+   "date": "2026-11-17T21:05:00+01:00",
+   "summary": "Bei Lokal.news liefert die KI einen grossen Teil der Inhalte, Gründer Thomas Brändle schreibt aber auch selbst als Reporter. Im Interview erklärt er, wo die Maschine an Grenzen stösst und was er aus der Kritik an seiner Doppelrolle als FDP-Politiker gelernt hat.",
+   "source": "watson.ch",
+   "section": "romandie"
+  },
+  {
+   "title": "Au Crève-Cœur, les auteurs du «Prénom» signent une comédie romantique typique et qui pique",
+   "link": "https://www.letemps.ch/culture/scenes/au-creve-coeur-les-auteurs-du-prenom-signent-une-comedie-romantique-typique-et-qui-pique",
+   "date": "2026-11-17T20:54:31+01:00",
+   "summary": "Une autrice revêche écrit une pièce dans laquelle une autrice revêche craque petit à petit pour son voisin de palier, un maladroit au grand cœur. Dirigés par Brigitte Rosset, Camille Figuereo et Mauro Bellucci incarnent à merveille ces amoureux enchâssés Vous l’aurez remarqué.…",
    "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Lukas Dhont, réalisateur des «Braves»: «J’avais envie de montrer un amour authentique»",
+   "link": "https://www.letemps.ch/culture/ecrans/lukas-dhont-realisateur-des-braves-j-avais-envie-de-montrer-un-amour-authentique",
+   "date": "2026-11-17T20:26:20+01:00",
+   "summary": "Dans son troisième film, «Les Braves», le cinéaste belge Lukas Dhont raconte une histoire d’amour et d’émancipation dans les tranchées de la Première Guerre mondiale. Rencontre au dernier Festival de Cannes, où ses deux jeunes interprètes ont reçu le Prix d’interprétation…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Dans «Septentrionale», Karim Kattan suit le trajet en voiture de deux êtres qui fuient l’anéantissement de leur pays sous les bombes",
+   "link": "https://www.letemps.ch/culture/livres/dans-septentrionale-karim-kattan-suit-le-trajet-en-voiture-de-deux-etres-qui-fuient-l-aneantissement-de-leur-pays-sous-les-bombes",
+   "date": "2026-11-17T20:26:11+01:00",
+   "summary": "L’auteur, qui a passé son enfance et son adolescence à Bethléem, a reçu le Prix Wepler-Fondation La Poste le 9 novembre pour ce roman lyrique, toujours éclairé par la lueur des étoiles Après le Genevois Bernard Bourrit en 2025 pour Détruire tout (Inculte/Actes Sud), c’est Karim…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Une étude estime que Tchernobyl a engendré une forte hausse de la mortalité des nourrissons en Suisse",
+   "link": "https://www.rts.ch/info/suisse/2026/article/tchernobyl-2000-deces-de-nourrissons-en-suisse-au-total-selon-une-etude-contestee-29419196.html?rts_source=rss_t",
+   "date": "2026-11-17T20:16:50+00:00",
+   "summary": "En Suisse, la mort d'environ 2000 nouveaux-nés pourrait être attribuée à la catastrophe de Tchernobyl, selon une étude de l'association des Médecins pour une responsabilité sociale et la prévention de la guerre nucléaire. L'OFSP remet en question ces résultats.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "«Le sport est bon pour la santé économique»: les grandes compétitions génèrent une manne aussi substantielle que sous-estimée",
+   "link": "https://www.letemps.ch/sport/le-sport-est-bon-pour-la-sante-economique-les-grandes-competitions-generent-une-manne-aussi-substantielle-que-sous-estimee",
+   "date": "2026-11-17T20:11:39+01:00",
+   "summary": "Une analyse menée par la Chambre de commerce à la demande de la ville de Genève chiffre à 57 millions de francs les retombées économiques de l’organisation de cinq manifestations sportives majeures dans la cité en 2025 Il y a eu Remco Evenepoel et son maillot arc-en-ciel de…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Le lac des Brenets perd sa compagnie de navigation, condamnée par son assèchement à répétition",
+   "link": "https://www.rts.ch/info/regions/neuchatel/2026/article/lac-des-brenets-la-compagnie-de-navigation-cesse-son-activite-29418894.html?rts_source=rss_t",
+   "date": "2026-11-17T19:57:56+00:00",
+   "summary": "C'est la fin de l'aventure pour la compagnie de navigation sur le lac des Brenets (NLB). Après des années marquées par la sécheresse, le directeur et capitaine Yvan Durig a mis fin aux activités de l'entreprise familiale et licencié les 13 collaborateurs.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "L’accusation de plagiat disqualifie-t-elle la force du propos?",
+   "link": "https://www.letemps.ch/opinions/chroniques/l-accusation-de-plagiat-disqualifie-t-elle-la-force-du-propos",
+   "date": "2026-11-17T19:47:56+01:00",
+   "summary": "Après l’affaire Thélyson Orélien, voici que le couperet est aussi tombé dans celle concernant Roberto Saviano, mais de manière inattendue. Avant eux, Paul Celan (1920-1970) avait aussi été cloué au pilori, à tort. Tous ces cas nous invitent à ne pas céder à la facilité Pourquoi…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Loi sur le matériel de guerre: un pas pour la sécurité du continent",
+   "link": "https://www.letemps.ch/opinions/editoriaux/loi-sur-le-materiel-de-guerre-un-pas-pour-la-securite-du-continent",
+   "date": "2026-11-17T19:42:44+01:00",
+   "summary": "ÉDITORIAL. Imparfaite, la modification de la loi fédérale sur le matériel de guerre n’en est pas moins un geste en direction des partenaires européens. Un signal nécessaire dans le contexte des menaces contre la sécurité du continent auxquelles la Suisse n’échappe pas La…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Les contorsions de la loi sur le matériel de guerre pour coller à la neutralité sans fâcher davantage l’Europe",
+   "link": "https://www.letemps.ch/suisse/les-contorsions-de-la-loi-sur-le-materiel-de-guerre-pour-coller-a-la-neutralite-sans-facher-davantage-l-europe",
+   "date": "2026-11-17T19:35:29+01:00",
+   "summary": "La modification de la loi fédérale sur le matériel de guerre est destinée à redonner les moyens à l’industrie d’armement suisse de regagner la confiance des pays voisins. Une révision qui impose la neutralité dans la loi au prix de nombreuses exceptions dans son interprétation.…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Pressions, rebondissements surprises et actions en justice: la bataille autour de la fibre optique en Suisse devient spectaculaire",
+   "link": "https://www.letemps.ch/cyber/souverainete-numerique/pressions-rebondissements-surprises-et-actions-en-justice-la-bataille-autour-de-la-fibre-optique-en-suisse-devient-spectaculaire",
+   "date": "2026-11-17T19:22:56+01:00",
+   "summary": "La Confédération a interdit à la Commission de la concurrence de faire recours contre une décision de justice dans son litige l’opposant à Swisscom. Mais la lutte autour du déploiement de la fibre optique est loin d’être finie Qui dit feuilleton haletant dans le domaine de la…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Crise de la Comédie de Genève: tandis que le président de la FAD, Philippe Juvet, jette l'éponge, Joëlle Bertossa, responsable de la Culture, promet d'accélérer les réformes",
+   "link": "https://www.letemps.ch/culture/crise-de-la-comedie-de-geneve-tandis-que-le-president-de-la-fad-philippe-juvet-jette-l-eponge-joelle-bertossa-responsable-de-la-culture-promet-d-accelerer-les-reformes",
+   "date": "2026-11-17T19:10:58+01:00",
+   "summary": "En place depuis le mois de mai, l'avocat genevois quittera ses fonctions le 31 décembre. La Fondation d'art dramatique, qui gère la Comédie et le Poche, devrait être transformée pour gagner en professionnalisme Les tubes d’été résistent rarement à l’automne. Philippe Juvet avait…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Communication locale : le numérique dépasse le papier, l'IA suscite la défiance",
+   "link": "https://www.cbnews.fr/etudes/communication-locale-numerique-depasse-papier-ia-suscite-defiance",
+   "date": "2026-11-17T19:07:03+00:00",
+   "summary": "Communication locale : le numérique dépasse le papier, l'IA suscite la défiance Communication locale : le numérique dépasse le papier, l'IA suscite la défiance thierry.wojciak mar 17/11/2026 - 20:07 Etudes",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Claire Basini : « TF1+ est aujourd'hui un réflexe quotidien pour des millions de Français »",
+   "link": "https://www.cbnews.fr/medias/claire-basini-tf1-est-aujourd-hui-reflexe-quotidien-millions-francais",
+   "date": "2026-11-17T19:06:52+00:00",
+   "summary": "Claire Basini : « TF1+ est aujourd'hui un réflexe quotidien pour des millions de Français » Claire Basini : « TF1+ est aujourd'hui un réflexe quotidien pour des millions de Français » thierry.wojciak mar 17/11/2026 - 20:06 Groupe TF1 Médias",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Canal+ : Bruno Rodrigues est promu EVP Global Digital Content et directeur digital France",
+   "link": "https://www.cbnews.fr/mouvements/canal-bruno-rodrigues-est-promu-evp-global-digital-content-directeur-digital-france",
+   "date": "2026-11-17T19:06:44+00:00",
+   "summary": "Canal+ : Bruno Rodrigues est promu EVP Global Digital Content et directeur digital France Canal+ : Bruno Rodrigues est promu EVP Global Digital Content et directeur digital France thierry.wojciak mar 17/11/2026 - 20:06 Mouvements",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Faire-part de naissance : Cleophele Agency",
+   "link": "https://www.cbnews.fr/conseil/faire-part-naissance-cleophele-agency",
+   "date": "2026-11-17T19:06:33+00:00",
+   "summary": "Faire-part de naissance : Cleophele Agency Faire-part de naissance : Cleophele Agency thierry.wojciak mar 17/11/2026 - 20:06 Conseil",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Yield réunit ses expertises sous une nouvelle identité",
+   "link": "https://www.cbnews.fr/conseil/yield-reunit-ses-expertises-nouvelle-identite",
+   "date": "2026-11-17T19:06:23+00:00",
+   "summary": "Yield réunit ses expertises sous une nouvelle identité Yield réunit ses expertises sous une nouvelle identité sarah.boleslaw… mar 17/11/2026 - 20:06 Conseil",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Mode masculine, horlogerie, mariage : les marques qui se sont distinguées en 2026 selon Launchmetrics",
+   "link": "https://www.cbnews.fr/luxe/mode-masculine-horlogerie-mariage-les-marques-qui-se-sont-distinguees-2026-launchmetrics",
+   "date": "2026-11-17T19:06:13+00:00",
+   "summary": "Mode masculine, horlogerie, mariage : les marques qui se sont distinguées en 2026 selon Launchmetrics Mode masculine, horlogerie, mariage : les marques qui se sont distinguées en 2026 selon Launchmetrics thierry.wojciak mar 17/11/2026 - 20:06 Luxe",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Trophées Gault&Millau 2027 : les lauréats et les nouvelles tables distinguées",
+   "link": "https://www.cbnews.fr/luxe/trophees-gaultmillau-2027-les-laureats-les-nouvelles-tables-distinguees",
+   "date": "2026-11-17T19:06:04+00:00",
+   "summary": "Trophées Gault&Millau 2027 : les lauréats et les nouvelles tables distinguées Trophées Gault&Millau 2027 : les lauréats et les nouvelles tables distinguées thierry.wojciak mar 17/11/2026 - 20:06 Luxe",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "La stratégie de Singapore Airlines face aux nouveaux défis du secteur",
+   "link": "https://www.cbnews.fr/luxe/strategie-singapore-airlines-face-aux-nouveaux-defis-du-secteur",
+   "date": "2026-11-17T19:05:53+00:00",
+   "summary": "La stratégie de Singapore Airlines face aux nouveaux défis du secteur La stratégie de Singapore Airlines face aux nouveaux défis du secteur thierry.wojciak mar 17/11/2026 - 20:05 Luxe",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Okube étend son offre de mesure avec First-id",
+   "link": "https://www.cbnews.fr/digital/okube-etend-son-offre-mesure-avec-first-id",
+   "date": "2026-11-17T19:05:40+00:00",
+   "summary": "Okube étend son offre de mesure avec First-id Okube étend son offre de mesure avec First-id dahlia.girgis mar 17/11/2026 - 20:05 Digital",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Trois nouveaux formats interactifs chez Samsung Ads",
+   "link": "https://www.cbnews.fr/medias/trois-nouveaux-formats-interactifs-chez-samsung-ads",
+   "date": "2026-11-17T19:05:08+00:00",
+   "summary": "Trois nouveaux formats interactifs chez Samsung Ads Trois nouveaux formats interactifs chez Samsung Ads dahlia.girgis mar 17/11/2026 - 20:05 Médias",
+   "source": "CB News",
+   "section": "com-france"
+  },
+  {
+   "title": "Malgré les appels internationaux, Israël continue d'entraver l'aide humanitaire à Gaza",
+   "link": "https://www.rts.ch/info/monde/2026/article/gaza-israel-continue-d-entraver-l-aide-humanitaire-29419077.html?rts_source=rss_t",
+   "date": "2026-11-17T19:00:17+00:00",
+   "summary": "Alors que des dizaines de pays appellent toujours Israël à faciliter l'entrée de l'aide humanitaire vers la bande de Gaza, l'Etat hébreu continue de retenir aux frontières une grande partie du matériel nécessaire à la survie des habitants de l'enclave palestinienne.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "KI und Wirtschaftlichkeit als zentrale Themen",
+   "link": "https://www.persoenlich.com/medien/ki-und-wirtschaftlichkeit-als-zentrale-themen",
+   "date": "2026-11-17T19:00:00+01:00",
+   "summary": "An der Tagung im Westhive Hardturm diskutierten rund 70 Fachleute aus Verlagswesen, Redaktion und Forschung, wie Fachmedien im Umfeld Künstlicher Intelligenz sichtbar und wirtschaftlich tragfähig bleiben können.",
+   "source": "watson.ch",
+   "section": "romandie"
+  },
+  {
+   "title": "Pourquoi la sortie demain de GTA VI est historique. (17/11)",
+   "link": "https://shows.acast.com/les-actus-du-jour-hugo-decrypte/episodes/1711",
+   "date": "2026-11-17T19:00:00+00:00",
+   "summary": "Chaque jour, en moins de 10 minutes, un résumé de l’actualité du jour. Rapide, facile, accessible. 📺 Pour découvrir et vous abonner à notre chaine YouTube \"Grands Formats\" (interviews, enquêtes, reportages) : hugodecrypte.com/grands-formats 💼 Pour trouver un stage, alternance ou CDD/CDI : hugodecrypte.com/jobboard 🗞️ L'essentiel de l'actualité, gratuitement, par email : hugodecrypte.com/newsletter Et pour suivre l'actualité sur Instagram : hugodecrypte.com/insta-hd 🔗 DES LIENS POUR EN SAVOIR PLUS GTA VI : CNN , IGN , JeuxVidéo.com , Fortune BONNE NOUVELLE : Franceinfo , Radio France GRÈVE 17 NOVEMBRE : BFMTV , Franceinfo MARINE LE PEN ASSOCIATIONS : Franceinfo , Le Parisien HUBS RETOUR RWANDA : Franceinfo , Le Monde SANTÉ PSYCHIQUE UNICEF : Libération , Unicef HUGGING FACE OPEN AI : BFMTV , Les Echos GRAMMYS : Franceinfo , Libération Écriture : Blanche Vathonne - Léah Boukobza - Samy Rabbata - Eden Ayach - Hugo Travers Hébergé par Acast. Visitez acast.com/privacy pour plus d'informations.",
+   "source": "HugoDécrypte (podcast)",
+   "section": "international"
+  },
+  {
+   "title": "L’IA dope la croissance mondiale, mais fragilise aussi les assureurs",
+   "link": "https://www.letemps.ch/economie/finance/l-ia-dope-la-croissance-mondiale-mais-fragilise-aussi-les-assureurs",
+   "date": "2026-11-17T18:59:47+01:00",
+   "summary": "L’économie mondiale accélère, mais ses moteurs de croissance se concentrent dans quelques secteurs, au premier rang desquels figure l’intelligence artificielle. Une concentration qui ouvre de nouvelles perspectives aux assureurs, mais les expose aussi davantage aux chocs Et si…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "A la COP31, un brouillon fleuve de 144 paragraphes pour éviter de choisir",
+   "link": "https://www.letemps.ch/monde/a-la-cop31-un-brouillon-fleuve-de-144-paragraphes-pour-eviter-de-choisir",
+   "date": "2026-11-17T18:51:46+01:00",
+   "summary": "Face aux divergences persistantes entre délégations, la présidence turco-australienne a remis un document sans précédent, qui multiplie les options contradictoires Que faire lorsque la direction n’est pas très claire, lorsque les ambitions manquent, lorsque les positions…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "En Asie, le premier ministre canadien Mark Carney continue de promouvoir les puissances moyennes, en contraste avec le sommet Trump-Xi-Poutine",
+   "link": "https://www.letemps.ch/monde/ameriques/en-asie-le-premier-ministre-canadien-mark-carney-continue-de-promouvoir-les-puissances-moyennes-en-contraste-avec-le-sommet-trump-xi-poutine",
+   "date": "2026-11-17T18:46:12+01:00",
+   "summary": "Le chef du gouvernement canadien poursuit sa stratégie de désengagement vis-à-vis des Etats-Unis. Après avoir osé dire non à Donald Trump en août, il conclut des allègements douaniers avec Xi Jinping et négocie avec l’Asie du Sud-Est Face aux présidents américain, chinois et…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
+   "link": "https://digiday.com/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-17T18:31:54+00:00",
+   "summary": "This year’s Work/Life Awards finalists reflect a landscape where companies are rethinking workplace culture as a driver of business performance, employee engagement and innovation. Across industries, organizations are giving employees a more active role in shaping workplace…",
+   "source": "Digiday",
+   "section": "international"
+  },
+  {
+   "title": "Sur l’épineux sujet des retraites, le Rassemblement national tente de concilier justice sociale et sérieux budgétaire",
+   "link": "https://www.letemps.ch/monde/france/sur-l-epineux-sujet-des-retraites-le-rassemblement-national-tente-de-concilier-justice-sociale-et-serieux-budgetaire",
+   "date": "2026-11-17T18:31:00+01:00",
+   "summary": "Marine Le Pen, favorite de la présidentielle française, promet l’abaissement de l’âge légal et introduit une part de capitalisation obligatoire. Ses adversaires dénoncent un chiffrage irréaliste, trois ans après les manifestations contre la réforme Borne Dans la campagne…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Nicolas Pernet neu im Verwaltungsrat",
+   "link": "https://www.persoenlich.com/marketing/nicolas-pernet-neu-im-verwaltungsrat",
+   "date": "2026-11-17T18:25:00+01:00",
+   "summary": "Der Direktor Angebot der SRG folgt auf Severine Schori-Vogt, die die seit Mai 2025 im Gremium sass.",
+   "source": "watson.ch",
+   "section": "romandie"
+  },
+  {
+   "title": "Dominique de Villepin, l’ancien cauchemar des étudiants qui se rêve en idole des jeunes",
+   "link": "https://www.letemps.ch/opinions/chroniques/dominique-de-villepin-l-ancien-cauchemar-des-etudiants-qui-se-reve-en-idole-des-jeunes",
+   "date": "2026-11-17T18:14:59+01:00",
+   "summary": "CHRONIQUE. L’ancien premier ministre de Jacques Chirac multiplie les signaux en direction des jeunes électeurs, entre références musicales et alliance avec François Ruffin L’officialisation de sa candidature pour la présidentielle n’en finit plus de se faire attendre. Mais la…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Robots tueurs: vers un fiasco multilatéral",
+   "link": "https://www.letemps.ch/opinions/editoriaux/robots-tueurs-vers-un-fiasco-multilateral",
+   "date": "2026-11-17T18:00:30+01:00",
+   "summary": "COMMENTAIRE. Face à l’apparente incapacité de négocier à Genève un instrument juridique pour empêcher que les armes autonomes échappent à tout contrôle humain, il est temps d’entamer un processus parallèle, car l’absence de réglementation contraignante aurait un impact…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Mardi 17.11.2026",
+   "link": "https://canal9.ch/fr/mardi-17-11-2026/",
+   "date": "2026-11-17T18:00:00+00:00",
+   "summary": "",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "Douze ans après l’incendie mortel des Tattes, les victimes n’ont pas encore touché un centime",
+   "link": "https://www.letemps.ch/suisse/geneve/douze-ans-apres-l-incendie-mortel-des-tattes-les-victimes-n-ont-pas-encore-touche-un-centime",
+   "date": "2026-11-17T17:35:40+01:00",
+   "summary": "Le collectif Solidarités Tattes s’est rassemblé ce mardi pour dénoncer encore une fois les lenteurs de toute cette procédure. Le directeur de l’Hospice général est allé à la rencontre des manifestants pour dire sa détermination à trouver un accord rapidement C’était le 17…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Nur e Gwinn: Käse, Autokosten und Walliser KI",
+   "link": "https://canal9.ch/de/nur-e-gwinn-kase-autokosten-und-walliser-ki/",
+   "date": "2026-11-17T17:16:29+00:00",
+   "summary": "Was bleibt Oberwalliser Bauern und Käsern von ihrer Arbeit, und fahren wir mit Strom günstiger als mit Benzin? «Nur e Gwinn» rechnet nach und spricht mit Recapp-Geschäftsführer David Imseng über",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "Interdire la snus? Le Valais ouvre le débat",
+   "link": "https://canal9.ch/fr/interdire-la-snus-le-valais-ouvre-le-debat/",
+   "date": "2026-11-17T17:12:27+00:00",
+   "summary": "Petits sachets glissés contre la gencive très prisés des jeunes : la snus pourrait bientôt disparaître des kiosques valaisans. Jeudi, le Grand Conseil a demandé au gouvernement de préparer une",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "Reconstruire l’Etat en profondeur après les élections de mi-mandat",
+   "link": "https://www.letemps.ch/opinions/reconstruire-l-etat-en-profondeur-apres-les-elections-de-mi-mandat",
+   "date": "2026-11-17T17:11:16+01:00",
+   "summary": "OPINION. Démantelée par Elon Musk et son Département de l’efficacité gouvernementale, l’administration américaine a perdu bon nombre de fonctionnaires, et sa mémoire institutionnelle au passage. Sa reconstruction pourrait désormais bénéficier d’une conjoncture favorable avec un…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Les Romands consomment 50% plus d’antibiotiques que les Alémaniques, un écart culturel persistant",
+   "link": "https://www.letemps.ch/sciences/sante/les-romands-consomment-50-plus-d-antibiotiques-que-les-alemaniques-un-ecart-culturel-persistant",
+   "date": "2026-11-17T17:01:33+01:00",
+   "summary": "Le nouveau rapport fédéral attribue cet écart à des pratiques médicales et des attitudes face aux infections qui diffèrent entre régions. Genève arrive en tête de la consommation, tous les cantons romands dépassant la moyenne nationale En Suisse, une barrière de rösti s’observe…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Stimmen zum Kriegsmaterialgesetz: Gegner und Befürworter geben ihre Argumente zur umstrittenen Abstimmung ab",
+   "link": "https://canal9.ch/de/stimmen-zum-kriegsmaterialgesetz-gegner-und-befurworter-geben-ihre-argumente-zur-umstrittenen-abstimmung-ab/",
+   "date": "2026-11-17T17:01:26+00:00",
+   "summary": "Wir sind in Hérémence bei Nammo MTH zu Besuch. Grund ist das Kriegsmaterialgesetz. Auch die Gegner der Abstimmung laden zur Pressekonferenz.",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "TAGESINFO vom 17.11.2026",
+   "link": "https://canal9.ch/de/tagesinfo-vom-17-11-2026/",
+   "date": "2026-11-17T17:01:20+00:00",
+   "summary": "RACLETTE-RETTER WALKER? Nach Rückzug des Milchkonzerns Cremo durchlebt Walliser Raclette AOP turbulente Zeiten. Jetzt zeichnet sich erster potenzieller Käufer ab: Bergkäserei Walker AG aus Bitsch. UMSTRITTENE KRIEGSMATERIAL-ABSTIMMUNG Links-grünes Nein-Komitee wirbt",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "Le budget vaudois 2027 rejeté en commission, une première historique dans le canton",
+   "link": "https://www.letemps.ch/suisse/vaud/le-budget-vaudois-2027-rejete-en-commission-une-premiere-historique-dans-le-canton",
+   "date": "2026-11-17T16:55:11+01:00",
+   "summary": "La Commission des finances vote contre le projet par 8 voix contre 7, dénonçant l’absence de stratégie crédible après l’acceptation de l’initiative fiscale «12%» en septembre dernier Coup de semonce pour le Conseil d’Etat vaudois: la Commission des finances (Cofin) du Grand…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Production fromagère, véhicules électriques et politique du 3ème âge",
+   "link": "https://canal9.ch/fr/production-fromagere-vehicules-electriques-et-politique-du-3eme-age/",
+   "date": "2026-11-17T16:55:02+00:00",
+   "summary": "C’est tout bénef s’intéresse cette semaine à la production de fromage dans le Haut-Valais, au coût d’un véhicule électrique, mais aussi à la politique valaisanne du 3ème âge.",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "Faut-il rouvrir les archives pour éclairer les zones d'ombre du passé?",
+   "link": "https://www.rts.ch/info/societe/2026/article/acces-aux-archives-faut-il-eclairer-les-zones-d-ombre-29418433.html?rts_source=rss_t",
+   "date": "2026-11-17T16:52:35+00:00",
+   "summary": "L'accès aux archives suscite un intérêt croissant en Europe. Début novembre, après des décennies de blocage politique, la Hongrie a dévoilé les dossiers de son ex-police secrète. En Allemagne, des millions de personnes ont utilisé un outil pour rechercher d'éventuels liens…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Martigny: Nuit Incolore présente sa «Re:Naissance» à la maison",
+   "link": "https://canal9.ch/fr/martigny-nuit-incolore-presente-sa-renaissance-a-la-maison/",
+   "date": "2026-11-17T16:51:49+00:00",
+   "summary": "Trois ans après son immense succès «Dépassé» qui lui a valu le prix de la révélation francophone de l’année aux NRJ Music Awards, le chanteur valaisan Nuit Incolore est de",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "Tout quitter pour devenir quelqu’un d’autre: dans «Friteuse», l’artiste Jeanne Spaeter raconte comment elle a changé d’identité à Bruxelles, dans les effluves de graisse de bœuf",
+   "link": "https://www.letemps.ch/culture/scenes/tout-quitter-pour-devenir-quelqu-un-d-autre-dans-friteuse-l-artiste-jeanne-spaeter-raconte-comment-elle-a-change-d-identite-a-bruxelles-dans-les-effluves-de-graisse-de-boeuf",
+   "date": "2026-11-17T16:38:07+01:00",
+   "summary": "Après avoir épousé un parfait inconnu pour décortiquer la notion de couple, l’artiste a emménagé à Bruxelles sous le nom et la personnalité d’une autre, afin de questionner ce qui nous définit. Elle raconte cette expérience sur scène, à Neuchâtel cette semaine, puis au festival…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Ad Buyers Embrace Retail Media’s Honeymoon With Streaming",
+   "link": "https://www.adweek.com/commerce/ad-buyers-embrace-retail-medias-honeymoon-with-streaming/",
+   "date": "2026-11-17T16:34:50+00:00",
+   "summary": "TV deals with shopping data have created a powerful tool.",
+   "source": "Adweek",
+   "section": "international"
+  },
+  {
+   "title": "Ein Lichtstrahl als roter Faden",
+   "link": "https://www.persoenlich.com/prcorporate-communication/ein-lichtstrahl-als-roter-faden",
+   "date": "2026-11-17T16:25:00+01:00",
+   "summary": "Im Imagefilm «Lichtblicke» des Kantonsspitals Baden kommen nur KSB-Mitarbeitende vor. Gedreht wurde in drei Tagen direkt im Spital.",
+   "source": "watson.ch",
+   "section": "romandie"
+  },
+  {
+   "title": "Quel matériel de guerre la Suisse exporte-t-elle?",
+   "link": "https://www.rts.ch/info/suisse/2026/article/exportations-d-armes-que-vend-la-suisse-a-l-etranger-29418747.html?rts_source=rss_t",
+   "date": "2026-11-17T16:21:11+00:00",
+   "summary": "La Suisse exporte du matériel de guerre vers plus de 60 pays. Avant la votation du 29 novembre sur la loi fédérale sur le matériel de guerre, Le Point J décrypte le poids économique de ce secteur avec Pauline Turuban, journaliste spécialiste de données à SwissInfo.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "The Trade Desk, Facing First Revenue Decline Since 2020, Loses Three Senior Executives",
+   "link": "https://www.adweek.com/programmatic/the-trade-desk-facing-first-revenue-decline-since-2020-loses-three-senior-executives/",
+   "date": "2026-11-17T16:20:50+00:00",
+   "summary": "The DSP is losing leaders in engineering, client service and commercial operations as it works through its first revenue decline since 2020.",
+   "source": "Adweek",
+   "section": "international"
+  },
+  {
+   "title": "Indicateur immobilier BCVS: Seul 1% de logements à louer vacants",
+   "link": "https://canal9.ch/fr/indicateur-immobilier-bcvs-seul-1-de-logements-a-louer-vacants/",
+   "date": "2026-11-17T16:13:17+00:00",
+   "summary": "Avec 1% de logements à louer vacants et des prix qui prennent l’ascenseur, le marché immobilier valaisan reste sous pression. La BCVS a fait le point ce mardi sur les",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "La sortie de GTA VI pourrait vider les bureaux jeudi",
+   "link": "https://www.rts.ch/info/culture/jeux-video/2026/article/sortie-de-gta-vi-crainte-d-un-absenteisme-massif-jeudi-29418520.html?rts_source=rss_t",
+   "date": "2026-11-17T16:12:52+00:00",
+   "summary": "Le jeu vidéo Grand Theft Auto VI sort dans la nuit de mercredi à jeudi et de nombreux fans à travers le monde comptent bien y jouer dès le premier jour. Un économiste prédit même une vague d’absences au travail aux Etats-Unis, même si tous les spécialistes ne croient pas à un…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "L'ascension de Juste Shani, du marketing au rap en toute indépendance",
+   "link": "https://www.rts.ch/info/culture/musiques/2026/article/juste-shani-etoile-montante-du-rap-venue-du-marketing-29418314.html?rts_source=rss_t",
+   "date": "2026-11-17T16:11:13+00:00",
+   "summary": "La rappeuse française Juste Shani sera en concert le 21 novembre à Genève dans le cadre du festival Les Créatives. Ancienne directrice marketing, elle a quitté son emploi pour produire sa musique et créer sa propre structure. Un parcours singulier et une plume acérée qui ont…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Thursday, Nov. 12 Daily Cable News Ratings: Fox News Retakes Primetime Demo",
+   "link": "https://www.adweek.com/tvnewser/thursday-nov-12-2026-daily-cable-news-ratings/",
+   "date": "2026-11-17T16:08:32+00:00",
+   "summary": "The Five was the No.1 program of the evening in both measured categories.",
+   "source": "Adweek",
+   "section": "international"
+  },
+  {
+   "title": "Lausanne ne peut pas commencer à construire ses éoliennes dans les bois du Jorat, en tout cas pour le moment",
+   "link": "https://www.rts.ch/info/regions/vaud/2026/article/eoljorat-sud-le-projet-de-8-eoliennes-a-lausanne-suspendu-29418858.html?rts_source=rss_t",
+   "date": "2026-11-17T15:43:04+00:00",
+   "summary": "Le projet de parc éolien EolJorat Sud, sur les hauts de Lausanne, est suspendu. Ses opposants, qui ont fait recours contre les autorisations de construire, ont obtenu un effet suspensif auprès du Tribunal fédéral.",
+   "source": "RTS Info",
    "section": "romandie"
   },
   {
@@ -27,19 +475,115 @@
    "section": "romandie"
   },
   {
-   "title": "Gucci supprime une trentaine de postes dans son usine horlogère de Cortaillod",
-   "link": "https://www.letemps.ch/economie/horlogerie-joaillerie/gucci-supprime-une-trentaine-de-postes-dans-son-usine-horlogere-de-cortaillod",
-   "date": "2026-11-17T15:19:07+01:00",
-   "summary": "La branche horlogère de la marque de luxe italienne centralise ses activités logistiques en Italie. Les licenciements ne devraient pas intervenir avant 2027, précise le syndicat Unia Une trentaine de postes vont passer à la trappe chez Gucci Swiss Timepieces à Cortaillod, dans…",
-   "source": "Le Temps",
+   "title": "Zillennials: a new generation of consumers or a marketing invention?",
+   "link": "https://cominmag.ch/en/zillennials-a-new-generation-of-consumers-or-a-marketing-invention/",
+   "date": "2026-11-17T15:22:40+00:00",
+   "summary": "Following on from Millennials and Generation Z, here come the Zillennials. Born at the cusp of two generations, these young adults are said to have developed a distinctive relationship with brands, technology and consumption. But is this new category based on genuine behavioural…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "Zillennials: Eine neue Verbrauchergeneration oder eine Erfindung des Marketings?",
+   "link": "https://cominmag.ch/de/zillennials-eine-neue-verbrauchergeneration-oder-eine-erfindung-des-marketings/",
+   "date": "2026-11-17T15:21:21+00:00",
+   "summary": "Nach den Millennials und der Generation Z kommen nun die Zillennials. Diese jungen Erwachsenen, die an der Schnittstelle zweier Generationen geboren wurden, sollen ein besonderes Verhältnis zu Marken, Technologie und Konsum entwickelt haben. Aber beruht diese neue Kategorie auf…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "Media prices in Switzerland: behind the fall in CPMs lies a redistribution of advertising value",
+   "link": "https://cominmag.ch/en/media-prices-in-switzerland-behind-the-fall-in-cpms-lies-a-redistribution-of-advertising-value/",
+   "date": "2026-11-17T15:18:34+00:00",
+   "summary": "The 2026 Media Price/Performance Index (MPLI), published by the Swiss Advertisers’ Association (ASA) and Leading Swiss Agencies (LSA), reveals an advertising market undergoing a major restructuring. Whilst television and radio are becoming more competitive in terms of cost per…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "Medienpreise in der Schweiz: Hinter dem Rückgang der CPM verbirgt sich eine Umverteilung des Werbewerts",
+   "link": "https://cominmag.ch/de/medienpreise-in-der-schweiz-hinter-dem-ruckgang-der-cpm-verbirgt-sich-eine-umverteilung-des-werbewerts/",
+   "date": "2026-11-17T15:15:56+00:00",
+   "summary": "Der Medienpreis-Leistungs-Index (MPLI) 2026, veröffentlicht vom Schweizer Werbetreibendenverband (ASA) und Leading Swiss Agencies (LSA), zeigt einen Werbemarkt im Umbruch. Während Fernsehen und Radio hinsichtlich der Kosten pro Kontakt wettbewerbsfähiger werden, leidet die…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "Lombard Odier: «rethink everything»: Zehn Jahre später – eher eine Philosophie als ein Slogan",
+   "link": "https://cominmag.ch/de/lombard-odier-rethink-everything-zehn-jahre-spater-eher-eine-philosophie-als-ein-slogan/",
+   "date": "2026-11-17T15:11:34+00:00",
+   "summary": "Vor zehn Jahren brach Lombard Odier mit den traditionellen Konventionen des Schweizer Privatbankwesens und setzte auf eine sichtbarere, emotionalere und stärker auf die grossen Veränderungen in der Welt ausgerichtete Kommunikation. Mit «rethink everything®» setzte das Genfer…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "Swiss Cyber Security Days 2027: Agente-basierte KI rückt das digitale Vertrauen in den Mittelpunkt wirtschaftlicher Herausforderungen",
+   "link": "https://cominmag.ch/de/swiss-cyber-security-days-2027-agente-basierte-ki-ruckt-das-digitale-vertrauen-in-den-mittelpunkt-wirtschaftlicher-herausforderungen/",
+   "date": "2026-11-17T15:07:21+00:00",
+   "summary": "Je autonomer künstliche Intelligenz wird, desto mehr verändert sich die Cybersicherheit. Systeme, die ohne menschliches Eingreifen Entscheidungen treffen und Massnahmen ausführen können, eröffnen neue Perspektiven, setzen Unternehmen aber auch bisher unbekannten Risiken aus. Die…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "Im Kommunikationsmuseum gewähren Mikrochips einen Blick hinter die Kulissen unserer digitalen Welt",
+   "link": "https://cominmag.ch/de/im-kommunikationsmuseum-gewahren-mikrochips-einen-blick-hinter-die-kulissen-unserer-digitalen-welt/",
+   "date": "2026-11-17T15:04:03+00:00",
+   "summary": "Sie sind überall, bleiben aber weitgehend unbekannt. In unseren Smartphones, unseren Bankkarten, unseren Autos, unseren vernetzten Geräten und sogar in der Infrastruktur, die das Internet am Laufen hält, bilden Mikrochips das Fundament unserer digitalen Welt. Laut dem Museum für…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "Der BBC Player kommt in die Schweiz und stärkt die Rolle von Prime Video im Streaming-Markt",
+   "link": "https://cominmag.ch/de/der-bbc-player-kommt-in-die-schweiz-und-starkt-die-rolle-von-prime-video-im-streaming-markt/",
+   "date": "2026-11-17T15:01:58+00:00",
+   "summary": "Ab dem 3. Dezember 2026 wird BBC Studios seinen Dienst BBC Player in der Schweiz über Prime Video anbieten. Über die Einführung eines neuen Katalogs britischer Programme hinaus verdeutlicht dieser Schritt eine strategische Entwicklung im Streaming-Bereich: Produzenten und…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "En balade: les mélèzes de Balavaux, dans le pinceau de Michel-Ange",
+   "link": "https://canal9.ch/fr/en-balade-les-melezes-de-balavaux-dans-le-pinceau-de-michel-ange/",
+   "date": "2026-11-17T15:01:26+00:00",
+   "summary": "La saison de la flamboyance des mélèzes touche lentement à sa fin. L’occasion d’admirer les derniers jours en couleurs de ces grands conifères dans notre canton avant l’entrée dans l’hiver",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "JustWatch TV kommt in die Schweiz: Daten als Kernstück eines neuen werbefinanzierten Streaming-Modells",
+   "link": "https://cominmag.ch/de/justwatch-tv-kommt-in-die-schweiz-daten-als-kernstuck-eines-neuen-werbefinanzierten-streaming-modells/",
+   "date": "2026-11-17T14:58:09+00:00",
+   "summary": "Dieser neue Dienst ist über die Website sowie die Mobil- und TV-Apps von JustWatch zugänglich und bietet eine Auswahl an Filmen und Serien kostenlos an, finanziert durch Werbung. Die Schweiz ist damit der zwölfte Markt, in dem dieses Angebot eingeführt wird, das bereits unter…",
+   "source": "Cominmag",
+   "section": "com-suisse"
+  },
+  {
+   "title": "Walker als Retter in der Not? Die Freiburger Molkerei Cremo zieht sich aus dem Wallis zurück. In die Bresche könnte der Konkurrent aus Bitsch springen.",
+   "link": "https://canal9.ch/de/walker-als-retter-in-der-not-die-freiburger-molkerei-cremo-zieht-sich-aus-dem-wallis-zuruck-in-die-bresche-konnte-der-konkurrent-aus-bitsch-springen/",
+   "date": "2026-11-17T14:58:06+00:00",
+   "summary": "Es gibt kaum etwas Schöneres als ein feines Walliser Raclette in gemütlicher Runde mit Familie und Freunden. Umso schlimmer ist es, wenn man sich plötzlich Sorgen um das Walliser Nationalgericht",
+   "source": "Canal9",
+   "section": "valais"
+  },
+  {
+   "title": "Les grands événements sportifs rapportent des millions à Genève, estime la faîtière des entreprises genevoises",
+   "link": "https://www.rts.ch/info/regions/geneve/2026/article/evenements-sportifs-57-millions-de-retombees-pour-geneve-29418775.html?rts_source=rss_t",
+   "date": "2026-11-17T14:56:08+00:00",
+   "summary": "Une estimation de la Chambre de commerce, d'industrie et des services de Genève (CCIG) chiffre les retombées économiques des grands événements sportifs dans le canton de Genève. Selon lui, cinq manifestations d'envergure en 2025 ont généré 57 millions de francs, dont 38,5…",
+   "source": "RTS Info",
    "section": "romandie"
   },
   {
-   "title": "«Midterms» 2026: au Texas, l’improbable victoire du démocrate Bobby Pulido, star de la musique tex-mex",
-   "link": "https://www.letemps.ch/monde/ameriques/midterms-2026-au-texas-l-improbable-victoire-du-democrate-bobby-pulido-star-de-la-musique-tex-mex",
-   "date": "2026-11-17T15:12:38+01:00",
-   "summary": "Le chanteur américain, étoile de ce genre musical apprécié des Latinos, a été élu dans un territoire qui avait largement voté pour Donald Trump en 2024. Il vient aussi de décrocher le Latin Grammy Awards Bad Bunny, Shakira, Ricky Martin, Juanes, Rosalía… Toutes les superstars de…",
-   "source": "Le Temps",
+   "title": "'Paris-NYC' de Sarah Lancman, un album soyeux qui célèbre les histoires d'amour qui commencent",
+   "link": "https://www.rts.ch/info/culture/musiques/2026/article/sarah-lancman-paris-nyc-un-6e-album-jazz-lumineux-29414281.html?rts_source=rss_t",
+   "date": "2026-11-17T14:47:46+00:00",
+   "summary": "De la joie et de l'amour. C'est ce que Sarah Lancman a souhaité pour son sixième album. Dans 'Paris-NYC', la chanteuse, pianiste et compositrice parisienne s'est entourée d'un trio de jazz à New York, du Quatuor Hanson à Paris, ainsi que de l'harmoniciste suisse Grégoire Maret.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "Un \"oui\" aux exportations d'armes permettrait à la Suisse d’accéder aux fonds européens",
+   "link": "https://www.rts.ch/info/suisse/2026/article/exportations-d-armes-un-oui-ouvrirait-les-fonds-europeens-29418316.html?rts_source=rss_t",
+   "date": "2026-11-17T14:46:22+00:00",
+   "summary": "C’est une dimension de la votation sur l’exportation de matériel de guerre dont la droite comme la gauche ne parlent pas: le vote du 29 novembre prochain a une importante portée européenne, car un \"non\" aux assouplissements proposés compromettrait le partenariat de défense entre…",
+   "source": "RTS Info",
    "section": "romandie"
   },
   {
@@ -83,14 +627,6 @@
    "section": "com-france"
   },
   {
-   "title": "Après huit années de voyage, la mission BepiColombo prête à percer les secrets de Mercure",
-   "link": "https://www.letemps.ch/sciences/espace/apres-huit-annees-de-voyage-la-mission-bepicolombo-prete-a-percer-les-secrets-de-mercure",
-   "date": "2026-11-17T14:23:51+01:00",
-   "summary": "Ce samedi, deux sondes spatiales seront capturées par la gravité de la planète la plus proche du Soleil. Mercure est difficile à observer depuis la Terre et assez méconnue au regard des autres planètes rocheuses du Système solaire Elle aura mis huit ans à atteindre Mercure. La…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Instagram lance Direct, une nouvelle application pour discuter sans passer par Instagram",
    "link": "https://siecledigital.fr/2026/11/17/instagram-lance-direct-une-nouvelle-application-pour-discuter-sans-passer-par-instagram/",
    "date": "2026-11-17T14:21:19+00:00",
@@ -131,12 +667,60 @@
    "section": "com-france"
   },
   {
+   "title": "Le Français OVHcloud se lance dans les LLM avec Olala, un petit modèle ouvert",
+   "link": "https://www.blogdumoderateur.com/ovhcloud-llm-olala-petit-modele-ouvert/",
+   "date": "2026-11-17T14:05:13+00:00",
+   "summary": "Le spécialiste roubaisien du cloud publie son premier LLM, entraîné sur des supercalculateurs publics européens, et se pose en concurrent direct de Mistral AI.",
+   "source": "Blog du Modérateur",
+   "section": "com-france"
+  },
+  {
+   "title": "Kroger Names Melanie Zimmermann to Lead Advertising Business",
+   "link": "https://www.adweek.com/commerce/kroger-names-melanie-zimmermann-to-lead-advertising-business/",
+   "date": "2026-11-17T14:00:00+00:00",
+   "summary": "Zimmermann has held leadership roles at Criteo and Macy's.",
+   "source": "Adweek",
+   "section": "international"
+  },
+  {
    "title": "Instagram s’associe à Amazon pour permettre aux influenceurs de monétiser leurs publications",
    "link": "https://siecledigital.fr/2026/11/17/instagram-sassocie-a-amazon-pour-permettre-aux-influenceurs-de-monetiser-leurs-publications/",
    "date": "2026-11-17T13:59:00+00:00",
    "summary": "Instagram a décidé de s’associer à Amazon pour faciliter la monétisation des contenus, en permettant aux créateurs d’intégrer directement des liens d’affiliation Amazon dans leurs publications. Les créateurs peuvent intégrer directement des liens dans leurs contenus Instagram…",
    "source": "Siècle Digital",
    "section": "com-france"
+  },
+  {
+   "title": "Amazon’s New Christmas Ad Is a Bet Against Itself",
+   "link": "https://www.adweek.com/brand-marketing/amazons-new-christmas-ad-is-a-bet-against-itself/",
+   "date": "2026-11-17T13:48:08+00:00",
+   "summary": "There are two problems with Amazon's new holiday ad. One is peripheral. One central.",
+   "source": "Adweek",
+   "section": "international"
+  },
+  {
+   "title": "A Crash Course in Marketing to Machines",
+   "link": "https://www.adweek.com/brand-marketing/a-crash-course-in-marketing-to-machines/",
+   "date": "2026-11-17T13:17:40+00:00",
+   "summary": "Customers increasingly ask AI assistants what to buy. Here’s how to make sure the evidence they find points to your brand.",
+   "source": "Adweek",
+   "section": "international"
+  },
+  {
+   "title": "Disney Posts Blockbuster Q4 Boosted by Sports and Marvel Comics Universe",
+   "link": "https://www.adweek.com/convergent-tv/disney-posts-blowout-q4-boosted-by-sports-and-marvel-comics-universe/",
+   "date": "2026-11-17T12:57:24+00:00",
+   "summary": "Bullish prospects contrast with talk of layoffs and $3 billion in cost cutting.",
+   "source": "Adweek",
+   "section": "international"
+  },
+  {
+   "title": "How Elex Michaelson Fills CNN’s West Coast Gap",
+   "link": "https://www.adweek.com/tvnewser/how-elex-michaelson-fills-cnns-west-coast-gap/",
+   "date": "2026-11-17T12:56:15+00:00",
+   "summary": "In his first year, Michaelson was on the air for two breaking international news stories in Venezuela and Iran.",
+   "source": "Adweek",
+   "section": "international"
   },
   {
    "title": "«Radio ist immer noch ein sexy Medium»",
@@ -155,20 +739,12 @@
    "section": "romandie"
   },
   {
-   "title": "A Genève, un extraordinaire fonds de costumes cherche un nouveau toit",
-   "link": "https://www.letemps.ch/heidi/a-geneve-un-extraordinaire-fonds-de-costumes-cherche-un-nouveau-toit",
-   "date": "2026-11-17T12:41:16+01:00",
-   "summary": "Costumières & Cie, une association d'une cinquantaine de professionnelles du cinéma et des arts vivants, a réuni 30'000 costumes et construit bénévolement un outil de travail devenu central en Suisse romande.",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Aux Etats-Unis, les plus grands centres de données numériques génèrent l’équivalent des deux tiers des émissions de CO2 de la Suisse",
-   "link": "https://www.letemps.ch/economie/aux-etats-unis-les-plus-grands-centres-de-donnees-numeriques-generent-l-equivalent-des-deux-tiers-des-emissions-de-co2-de-la-suisse",
-   "date": "2026-11-17T12:32:38+01:00",
-   "summary": "Dans une étude parue lundi, la revue «Nature Sustainability» affirme que les 408 principaux data centers des Etats-Unis émettent 25,7 millions de tonnes d’émissions de CO2 par an. Plus de la moitié de la consommation l’électricité de ces installations nécessaires à l’IA vient…",
-   "source": "Le Temps",
-   "section": "romandie"
+   "title": "72andSunny Appoints WPP Exec to Lead New York Office After Layoffs",
+   "link": "https://www.adweek.com/agencies/72andsunny-appoints-wpp-exec-to-lead-new-york-office-after-layoffs/",
+   "date": "2026-11-17T12:51:21+00:00",
+   "summary": "Rebekah Pagis joins as CEO after cuts impacted the agency’s C-Suite.",
+   "source": "Adweek",
+   "section": "international"
   },
   {
    "title": "Prix des médias en Suisse : derrière la baisse des CPM, une redistribution de la valeur publicitaire",
@@ -187,67 +763,11 @@
    "section": "international"
   },
   {
-   "title": "Zusammenschluss mit Spring Family",
-   "link": "https://www.persoenlich.com/prcorporate-communication/zusammenschluss-mit-spring-family",
-   "date": "2026-11-17T11:55:00+01:00",
-   "summary": "Die Branding Agentur mit Standort in Zürich bleibt als eigenständige Marke mit dem bestehenden Team bestehen. Die neue Gruppe zählt rund 560 Mitarbeitende an 14 Standorten.",
-   "source": "watson.ch",
-   "section": "romandie"
-  },
-  {
-   "title": "Roche obtient le feu vert américain pour un nouveau traitement oral du cancer du sein résistant",
-   "link": "https://www.letemps.ch/economie/pharmas-medtech/roche-obtient-le-feu-vert-americain-pour-un-nouveau-traitement-oral-du-cancer-du-sein-resistant",
-   "date": "2026-11-17T11:48:15+01:00",
-   "summary": "Le Wilserdly, administré en association avec l’évérolimus, cible les cancers du sein avec mutation du gène ESR1. Le laboratoire bâlois anticipe jusqu’à 500 millions de francs de revenus dès 2026 Le géant bâlois Roche va pouvoir lancer sur le marché américain un nouveau…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Patriote l’UDC? «Überhaupt nicht!»",
-   "link": "https://www.letemps.ch/opinions/patriote-l-udc-uberhaupt-nicht",
-   "date": "2026-11-17T11:43:41+01:00",
-   "summary": "OPINION. Au moment où l’UDC désigne son ticket pour le Conseil fédéral, la représentativité des régions et des femmes pèse peu dans la balance… Surprenant pour un parti soi-disant patriote? Pas du tout. Le parti agrarien attaque ce qui fait la Suisse: sa démocratie et la…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Fortunes d’oligarques russes hébergés en Suisse, relations avec Jeffrey Epstein… Une fuite massive de documents secoue Deutsche Bank",
-   "link": "https://www.letemps.ch/economie/finance/fortunes-d-oligarques-russes-heberges-en-suisse-relations-avec-jeffrey-epstein-une-fuite-massive-de-documents-secoue-deutsche-bank",
-   "date": "2026-11-17T11:38:18+01:00",
-   "summary": "Une enquête menée par plus de 200 journalistes se basant sur une fuite de 15 millions de fichiers montre comment la banque allemande hébergeait via Zurich et Genève la fortune d’une vingtaine de proches de Vladimir Poutine, classés par niveau de risque Deutsche Bank est…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Laura Dünser moderiert neu bei SRF Kids",
-   "link": "https://www.persoenlich.com/medien/laura-dunser-moderiert-neu-bei-srf-kids",
-   "date": "2026-11-17T11:35:00+01:00",
-   "summary": "Die bisherige Reporterin von «SRF Kids Reporter:in» stösst am Samstag erstmals zum Radio-Moderationsteam.",
-   "source": "watson.ch",
-   "section": "romandie"
-  },
-  {
-   "title": "Chaque année, plus de Français veulent devenir parents sans y arriver: les dons de sperme ne suivent pas la demande",
-   "link": "https://www.letemps.ch/monde/france/chaque-annee-plus-de-francais-veulent-devenir-parents-sans-y-arriver-les-dons-de-sperme-ne-suivent-pas-la-demande",
-   "date": "2026-11-17T11:34:02+01:00",
-   "summary": "Cinq ans après la «PMA pour toutes», l’explosion des demandes crée des tensions inédites sur les stocks de spermatozoïdes et d’ovocytes en France. Les disparités territoriales aggravent les inégalités d’accès et poussent certains à se tourner vers des parcours alternatifs, dans…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Le pont de Crimée à nouveau ciblé par des attaques ukrainiennes",
    "link": "https://www.rts.ch/info/monde/2026/article/guerre-en-ukraine-le-pont-de-crimee-a-nouveau-cible-par-kiev-29418467.html?rts_source=rss_t",
    "date": "2026-11-17T11:29:25+00:00",
    "summary": "Le gouvernement russe va tenir une réunion d'urgence après une nouvelle attaque ukrainienne contre le pont qui relie la Russie à la péninsule de Crimée annexée par Moscou, ont rapporté mardi les médias russes d'Etat. La Russie a, elle, frappé deux ponts majeurs à Kiev.",
    "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Ironischer Twist für Weihnachten",
-   "link": "https://www.persoenlich.com/kategorie-werbung/ironischer-twist-fur-weihnachten",
-   "date": "2026-11-17T10:55:00+01:00",
-   "summary": "Die Online-Händlerin setzt in ihrer Festtagskampagne auf eine Figur, die bewusst nicht festlich wirkt.",
-   "source": "watson.ch",
    "section": "romandie"
   },
   {
@@ -269,18 +789,18 @@
   {
    "title": "Deutsche Bank chute en Bourse après une enquête sur une fuite de documents internes",
    "link": "https://www.rts.ch/info/economie/2026/article/deutsche-bank-le-titre-chute-de-6-apres-des-fuites-massives-29418406.html?rts_source=rss_t",
-   "date": "2026-11-17T10:40:08+00:00",
-   "summary": "Deutsche Bank est rattrapée mardi par son passé sulfureux après la publication d'une vaste enquête fondée sur plus de 15 millions de documents internes ayant fuité, ravivant les interrogations sur les efforts de redressement engagés par son patron Christian Sewing.",
+   "date": "2026-11-17T10:40:00+00:00",
+   "summary": "Deutsche Bank est rattrapée mardi par son passé sulfureux après la publication d'une vaste enquête fondée sur plus de 15 millions de documents internes ayant fuité. Les révélations montrent aussi comment la Suisse continue d’offrir un refuge idéal pour contourner les contrôles…",
    "source": "RTS Info",
    "section": "romandie"
   },
   {
-   "title": "Aus dem Pool direkt in die Bank-App",
-   "link": "https://www.persoenlich.com/kategorie-werbung/aus-dem-pool-direkt-in-die-bank-app",
-   "date": "2026-11-17T10:15:00+01:00",
-   "summary": "Nach dem Auftakt Anfang Jahr richtet sich die zweite Phase der BCN-Kampagne an junge Menschen. Die Berner Agentur zeichnet für Konzeption und Produktion verantwortlich.",
-   "source": "watson.ch",
-   "section": "romandie"
+   "title": "NowThis Acquires Impact Media in ‘Seven-Figure’ Deal to Reach Younger, Civic-Minded Audiences",
+   "link": "https://www.adweek.com/media/nowthis-acquires-impact-media/",
+   "date": "2026-11-17T10:16:21+00:00",
+   "summary": "The social publisher is adding @impact and @environment as it spends to grow its franchise business.",
+   "source": "Adweek",
+   "section": "international"
   },
   {
    "title": "'Le Tour d'écrou' de Britten transforme l'Opéra de Lausanne en manoir hanté oppressant ★★★★☆",
@@ -288,14 +808,6 @@
    "date": "2026-11-17T10:06:12+00:00",
    "summary": "A Lausanne, Richard Brunel signe une mise en scène de l'opéra 'Le Tour d'écrou' de Benjamin Britten qui exploite pleinement les ambiguïtés de l'oeuvre. Huis clos psychologique où fantômes et non-dits nourrissent une tension constante, cette production cultive une atmosphère…",
    "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "«La manière suisse de penser et de concevoir un objet peut apporter quelque chose d’intéressant à la parfumerie»: Eryon, une nouvelle fragrance aux codes typiquement helvétiques",
-   "link": "https://www.letemps.ch/societe/styles/la-maniere-suisse-de-penser-et-de-concevoir-un-objet-peut-apporter-quelque-chose-d-interessant-a-la-parfumerie-eryon-une-nouvelle-fragrance-aux-codes-typiquement-helvetiques",
-   "date": "2026-11-17T10:06:07+01:00",
-   "summary": "Un couple d’entrepreneurs et une parfumeuse viennent de lancer Eryon, une marque de parfumerie helvétique. Avec l’ambition de mettre en bouteilles l’essence de notre pays en s’inspirant de sa nature, de son design et de ses architectes Les Français ont Pierre-François-Pascal…",
-   "source": "Le Temps",
    "section": "romandie"
   },
   {
@@ -307,52 +819,12 @@
    "section": "com-suisse"
   },
   {
-   "title": "Unilever’s Creator Army Has Grown From 75,000 to 500,000 in Two Years",
-   "link": "https://www.adweek.com/brand-marketing/unilevers-creator-army-has-grown-from-75000-to-500000-in-two-years/",
-   "date": "2026-11-17T09:44:04+00:00",
-   "summary": "Plus, three more things the CPG giant's CMO, Leandro Barreto, revealed about its marketing transformation at a recent investor event in New York",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
    "title": "ADCE Creative Week 2026 : la créativité suisse à l’épreuve de la scène européenne",
    "link": "https://cominmag.ch/adce-creative-week-2026-la-creativite-suisse-a-lepreuve-de-la-scene-europeenne/",
    "date": "2026-11-17T09:41:17+00:00",
    "summary": "La créativité ne se mesure plus uniquement à la qualité d’une campagne ou à son originalité. Elle s’évalue aussi à sa capacité à réunir des compétences, à faire dialoguer les disciplines et à produire des idées capables de circuler au-delà des frontières nationales. C’est…",
    "source": "Cominmag",
    "section": "com-suisse"
-  },
-  {
-   "title": "Q4 Isn’t the Offseason: Rethinking Active Audience Engagement and Brand Loyalty",
-   "link": "https://www.adweek.com/commerce/q4-isnt-the-offseason-rethinking-active-audience-engagement-and-brand-loyalty/",
-   "date": "2026-11-17T09:30:37+00:00",
-   "summary": "Strava’s Jen Starr and Oakley’s Daniel Rosenberg on turning seasonal consumer behavior into year-round engagement.",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "Why Great Leaders ‘Clear the Runway’ ft. Alaska Airlines’ Eric Edge",
-   "link": "https://www.adweek.com/brand-marketing/why-great-leaders-clear-the-runway-ft-alaska-airlines-eric-edge/",
-   "date": "2026-11-17T09:27:47+00:00",
-   "summary": "You don’t transform by abandoning what made you good.",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "Attention Is Still the Currency: Joe Marchese on Brand Building in the AI Era",
-   "link": "https://www.adweek.com/brand-marketing/attention-is-still-the-currency-joe-marchese-on-brand-building-in-the-ai-era/",
-   "date": "2026-11-17T09:23:54+00:00",
-   "summary": "How AI agents, attention, brand, strategy, and human connection are reshaping the future of marketing.",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "The Second Half of Life Is the Most Creative Act ft. Anna Banks of AARP",
-   "link": "https://www.adweek.com/brand-marketing/the-second-half-of-life-is-the-most-creative-act-ft-anna-banks-of-aarp/",
-   "date": "2026-11-17T09:20:29+00:00",
-   "summary": "Your brand's biggest opportunity might be hiding in plain sight.",
-   "source": "Adweek",
-   "section": "international"
   },
   {
    "title": "Avec Trio, les bâtiments de Central Malley postulent auprès des entreprises",
@@ -379,14 +851,6 @@
    "section": "com-suisse"
   },
   {
-   "title": "Wie lernt man, Emotionen zu verstehen und Empathie zu entwickeln? Ein neues, wissenschaftlich entwickeltes Spiel fürs Klassenzimmer soll genau das fördern.",
-   "link": "https://canal9.ch/de/wie-lernt-man-emotionen-zu-verstehen-und-empathie-zu-entwickeln-ein-neues-wissenschaftlich-entwickeltes-spiel-furs-klassenzimmer-soll-genau-das-fordern/",
-   "date": "2026-11-17T09:01:24+00:00",
-   "summary": "Die FernUni Schweiz und die Pädagogische Hochschule Wallis haben gemeinsam ein neues Gesellschaftsspiel entwickelt: «Emotion». Es soll Schülerinnen und Schüler spielerisch dabei unterstützen, ihre eigenen Gefühle auszudrücken, Emotionen anderer besser",
-   "source": "Canal9",
-   "section": "valais"
-  },
-  {
    "title": "Le repli des flux d'argent de l'IA vers la santé et l'alimentation propulse la Bourse suisse",
    "link": "https://www.rts.ch/info/economie/2026/article/bourse-suisse-l-indice-smi-bat-des-records-tire-par-la-sante-29418253.html?rts_source=rss_t",
    "date": "2026-11-17T08:55:20+00:00",
@@ -409,14 +873,6 @@
    "summary": "Prix, fonctionnalités, hébergement des données : on passe en revue les arguments qui plaident en faveur de cet outil français, lancé en 2013, pour l'envoi et la réception de fichiers volumineux.",
    "source": "Blog du Modérateur",
    "section": "com-france"
-  },
-  {
-   "title": "30ème édition pour Vinea",
-   "link": "https://canal9.ch/fr/30eme-edition-pour-vinea/",
-   "date": "2026-11-17T08:42:40+00:00",
-   "summary": "Samedi, Vinea a fêté sa 30ème édition. Une quarantaine de producteurs de vin étaient présents sur la plaine Bellevue à Sierre.",
-   "source": "Canal9",
-   "section": "valais"
   },
   {
    "title": "L'Estonie sauvegarde ses données critiques à l'étranger pour se protéger en cas d'invasion russe",
@@ -443,22 +899,6 @@
    "section": "com-suisse"
   },
   {
-   "title": "Comment les influenceurs ont créé la mode des protéines, sans justification scientifique",
-   "link": "https://www.letemps.ch/sciences/sante/comment-les-influenceurs-ont-cree-la-mode-des-proteines-sans-justification-scientifique",
-   "date": "2026-11-17T08:00:43+01:00",
-   "summary": "Les protéines sont partout, naturellement dans de nombreux aliments, et en supplément dans des barres, chips, saucissons et autres produits. En consommer plus que ce qui est recommandé permet-il vraiment de préserver, sans risque, sa santé? «Il s’agit d’une mode née sur les…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Macaulay Culkin Is Home Alone Again, This Time in McDonald’s",
-   "link": "https://www.adweek.com/creativity/macaulay-culkin-is-home-alone-again-this-time-in-mcdonalds/",
-   "date": "2026-11-17T08:00:00+00:00",
-   "summary": "Macaulay Culkin reprises his famous role as Kevin McCallister for McDonald’s global holiday campaign.",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
    "title": "Sur 'Bach to Groove', Estelle Revaz fait sonner son violoncelle comme une guitare électrique",
    "link": "https://www.rts.ch/info/culture/musiques/2026/article/estelle-revaz-bach-to-groove-le-violoncelle-facon-guitare-29414240.html?rts_source=rss_t",
    "date": "2026-11-17T07:47:20+00:00",
@@ -475,54 +915,6 @@
    "section": "romandie"
   },
   {
-   "title": "La Chine a un rôle déterminant dans le résultat des négociations de la COP31",
-   "link": "https://www.rts.ch/info/monde/2026/article/cop31-la-chine-detient-les-cles-des-negociations-29418230.html?rts_source=rss_t",
-   "date": "2026-11-17T07:36:16+00:00",
-   "summary": "Dans le bras de fer qui occupe les pays négociateurs de la COP31 d'Antalya, la Chine détient la clé du succès ou de l'échec. Mais pour l'instant, ses volontés ne sont pas claires quant à l'objectif du Sommet d'augmenter la part d'électricité à 35% dans la consommation d'énergie…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "De zéro à 1400 milliards de dollars en cinq ans: l’incroyable ambition d’Anthropic, géant de l’IA",
-   "link": "https://www.letemps.ch/economie/finance/de-zero-a-1400-milliards-de-dollars-en-cinq-ans-l-incroyable-ambition-d-anthropic-geant-de-l-ia",
-   "date": "2026-11-17T07:26:52+01:00",
-   "summary": "Concurrente directe d’OpenAI, éditeur de ChatGPT, la société californienne doit entrer en bourse jeudi. Après même pas six ans d’existence, Anthropic pourrait valoir 1400 milliards de dollars. Même avec cette capitalisation boursière, l’action est-elle intéressante? Ce n’est…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Bulle, la ville qui avait peur de grandir",
-   "link": "https://www.letemps.ch/heidi/bulle-la-ville-qui-avait-peur-de-grandir",
-   "date": "2026-11-17T07:09:27+01:00",
-   "summary": "Une consultante chinoise imaginaire découvre le chef-lieu du district de Gruyère, un territoire à la croissance dynamique, et une population qui ne s'en réjouit pas unanimement.",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Les petits sanctuaires romands pour animaux frappés par la flambée des prix du foin",
-   "link": "https://www.rts.ch/info/suisse/2026/article/prix-du-foin-les-refuges-d-animaux-romands-face-a-la-hausse-29416647.html?rts_source=rss_t",
-   "date": "2026-11-17T07:08:33+00:00",
-   "summary": "La pénurie de foin et la hausse des prix qu’elle entraîne impactent fortement les petits refuges romands qui accueillent les animaux abandonnés, maltraités ou destinés à l'abattoir. Plusieurs d'entre eux lancent un appel à l’aide avant l'hiver.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "La finale du Top 10 Rolex IJRC fête ses 25 ans à Palexpo",
-   "link": "https://www.letemps.ch/sport/la-finale-du-top-10-rolex-ijrc-fete-ses-25-ans-a-palexpo",
-   "date": "2026-11-17T07:00:04+01:00",
-   "summary": "Vendredi 11 décembre, les dix meilleurs cavaliers du monde disputeront à Genève la 25e finale du Top 10 Rolex IJRC. Retour sur la genèse d’une épreuve devenue légendaire depuis sa création en 2001 avec certains des acteurs qui l’ont imaginée, remportée et mise en scène Comme…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Les orangs-outans aussi ont leur madeleine de Proust",
-   "link": "https://www.letemps.ch/sciences/sciences-de-la-vie/les-orangs-outans-aussi-ont-leur-madeleine-de-proust",
-   "date": "2026-11-17T06:51:28+01:00",
-   "summary": "Nous l’avons expérimenté: un biscuit dégusté dans un contexte chaleureux aura à coup sûr meilleur goût dans notre souvenir que le même biscuit croqué dans un contexte neutre. Les émotions positives influencent-elles également les souvenirs des animaux non humains? Les…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Galaxus détourne les codes de Noël avec Fufu, une peluche aussi adorable qu’inquiétante",
    "link": "https://cominmag.ch/galaxus-detourne-les-codes-de-noel-avec-fufu-une-peluche-aussi-adorable-quinquietante/",
    "date": "2026-11-17T06:45:20+00:00",
@@ -531,68 +923,12 @@
    "section": "com-suisse"
   },
   {
-   "title": "Marco Chiesa, l’outsider idéal pour le Conseil fédéral",
-   "link": "https://www.letemps.ch/suisse/marco-chiesa-l-outsider-ideal-pour-le-conseil-federal",
-   "date": "2026-11-17T06:43:27+01:00",
-   "summary": "Ancien président de l’UDC, le sénateur tessinois assume une candidature de circonstance à la succession de Guy Parmelin. Celui qui est qualifié d’ami des Romands pourrait leur prendre leur siège Il avait 12 ans et tenait à peine sur des patins. Alors, «on jouait au hockey sur…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Après des années d'attente, les travaux de la patinoire du Trèfle-Blanc démarrent à Genève",
-   "link": "https://www.rts.ch/info/regions/geneve/2026/article/patinoire-du-trefle-blanc-les-travaux-demarrent-a-geneve-29417448.html?rts_source=rss_t",
-   "date": "2026-11-17T06:36:08+00:00",
-   "summary": "Les travaux pour la future patinoire du Trèfle-Blanc à Lancy (GE) ont démarré lundi. L'autorisation de construire est entrée en vigueur après le retrait du seul recours, ont affirmé les Départements de la cohésion sociale (DCS) et du territoire (DT).",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
    "title": "Instinct, l’agent IA qui valait 10 milliards",
    "link": "https://www.blogdumoderateur.com/instinct-agent-ia-10-milliards/",
    "date": "2026-11-17T06:00:31+00:00",
    "summary": "Des prouesses qui font le tour des réseaux, des invitations revendues à prix d'or, une valorisation à 10 milliards de dollars : Instinct, l'agent IA que l'on commande via WhatsApp ou iMessage, est devenu un phénomène en quelques semaines. Pourquoi ?",
    "source": "Blog du Modérateur",
    "section": "com-france"
-  },
-  {
-   "title": "PepsiCo and LIV Golf Vet Adam Harter Takes His Shot on 3-on-3 at BIG3 League",
-   "link": "https://www.adweek.com/brand-marketing/pepsico-and-liv-golf-vet-adam-harter-takes-his-shot-on-3-on-3-at-big3-league/",
-   "date": "2026-11-17T06:00:00+00:00",
-   "summary": "The marketing vet has a history of brokering major sports sponsorship deals, including Pepsi's decade-long reign over the Super Bowl Halftime Show",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "Vivre seul en Suisse: le prix de la liberté",
-   "link": "https://www.rts.ch/info/economie/2026/article/vivre-seul-en-suisse-37-des-menages-face-aux-couts-eleves-29417245.html?rts_source=rss_t",
-   "date": "2026-11-17T05:50:26+00:00",
-   "summary": "En Suisse, 37% des ménages ne comptent qu'une seule personne. Un mode de vie synonyme d'indépendance, mais qui coûte cher. Entre loyers, assurances et dépenses courantes, les personnes seules doivent assumer l'intégralité de leurs charges. Les fins de mois peuvent être…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Un lancement raté pour Amazon, et SpaceX creuse son avance sur la concurrence",
-   "link": "https://www.letemps.ch/sciences/espace/un-lancement-rate-pour-amazon-et-spacex-creuse-son-avance-sur-la-concurrence",
-   "date": "2026-11-17T05:30:02+01:00",
-   "summary": "ANALYSE. Ce week-end, pour la première fois en vingt ans, United Launch Alliance a connu un échec complet avec sa fusée Vulcan. Un raté qui a coûté 40 satellites à Amazon. Contraste douloureux avec SpaceX, qui a réussi une première pour son nouveau lanceur Starship la veille En…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "L’origine douteuse de l’or de Dubaï et la raffinerie tessinoise Valcambi à nouveau pointés du doigt par Swissaid",
-   "link": "https://www.letemps.ch/economie/l-origine-douteuse-de-l-or-de-dubai-et-la-raffinerie-tessinoise-valcambi-a-nouveau-pointes-du-doigt-par-swissaid",
-   "date": "2026-11-17T05:30:02+01:00",
-   "summary": "L’ONG a calculé que les Emirats arabes unis ont importé au moins 591 tonnes d’or illicite, d’Afrique et de Russie, en 2024. C’est, selon elle, d’autant plus problématique que la Suisse est le principal importateur du métal des EAU, surtout par le biais de la raffinerie…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Le Japon accuse deux avions présumés russes d’avoir violé son espace aérien",
-   "link": "https://www.letemps.ch/monde/le-japon-accuse-deux-avions-presumes-russes-d-avoir-viole-son-espace-aerien",
-   "date": "2026-11-17T05:06:54+01:00",
-   "summary": "Les appareils sont entrés mardi dans l’espace aérien nippon près de l’île d’Okino-shima, dans le sud-ouest du pays, poussant Tokyo à faire décoller des chasseurs et à adresser une «très vive protestation» à Moscou Le Japon a affirmé que deux avions présumés russes avaient violé…",
-   "source": "Le Temps",
-   "section": "romandie"
   },
   {
    "title": "What exactly counts as a creator? The industry still can’t agree",
@@ -627,179 +963,11 @@
    "section": "international"
   },
   {
-   "title": "The 2026 Holiday Ads Worth Watching",
-   "link": "https://www.adweek.com/creativity/the-2026-holiday-ads-worth-watching/",
-   "date": "2026-11-17T03:16:06+00:00",
-   "summary": "Watch festive campaigns from Apple, Oreo, Goodwipes, and more.",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "Le pape Léon XIV conclut sa tournée en Amérique du Sud et rentre à Rome",
-   "link": "https://www.rts.ch/info/monde/2026/article/pape-leon-xiv-retour-a-rome-apres-12-jours-en-amerique-du-sud-29418203.html?rts_source=rss_t",
-   "date": "2026-11-17T03:15:41+00:00",
-   "summary": "Le pape Léon XIV s'est envolé lundi pour Rome après une messe géante à Lima, conclusion d'une tournée de douze jours en Amérique du Sud qui a levé les doutes sur sa santé et confirmé la place centrale de la justice sociale dans son pontificat.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Deux ans de prison, dont un ferme, requis contre Pierre Ménès, pour agressions sexuelles et harcèlement moral",
-   "link": "https://www.rts.ch/info/monde/2026/article/pierre-menes-deux-ans-de-prison-requis-pour-agressions-sexuelles-29418191.html?rts_source=rss_t",
-   "date": "2026-11-17T01:38:53+00:00",
-   "summary": "Une peine à la hauteur de la \"gravité\" des faits reprochés: le parquet de Nanterre a requis lundi deux ans de prison, dont un ferme aménageable, contre l'ancien consultant sportif de Canal+, Pierre Ménès, jugé pour agressions sexuelles sur trois femmes et harcèlement moral sur…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Volodymyr Zelensky fait part de discussions entre l'Ukraine, l'Europe et les États-Unis",
-   "link": "https://www.rts.ch/info/monde/2026/article/guerre-en-ukraine-discussions-inedites-reunissant-kiev-l-ue-et-washington-29418090.html?rts_source=rss_t",
-   "date": "2026-11-16T21:44:38+00:00",
-   "summary": "Les négociateurs choisis par les Européens ont discuté pour la première fois avec les émissaires ukrainiens et américains lundi, afin d'évoquer les futures négociations avec la Russie, a annoncé le président ukrainien Volodymyr Zelensky.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Ligue des nations - L'équipe de Suisse finit l'année avec une victoire 4-0 face à l'Ecosse",
-   "link": "https://www.rts.ch/sport/football/2026/article/ligue-des-nations-la-suisse-s-impose-4-0-contre-l-ecosse-29417676.html?rts_source=rss_t",
-   "date": "2026-11-16T21:39:24+00:00",
-   "summary": "L'équipe de Suisse n'a connu aucun problème pour son dernier match de l'année. Opposés à l'Ecosse à Saint-Gall pour le compte de la dernière journée de la Ligue des nations, les joueurs de Murat Yakin se sont imposés 4-0, notamment grâce aux premiers buts en équipe nationale des…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "L'intelligence artificielle complique le travail des administrations suisses",
-   "link": "https://www.rts.ch/info/suisse/2026/article/services-publics-l-ia-surcharge-les-administrations-suisses-29418085.html?rts_source=rss_t",
-   "date": "2026-11-16T21:37:31+00:00",
-   "summary": "L'intelligence artificielle facilite la rédaction de réclamations et d'interventions politiques, mais elle complique aussi le travail des administrations. Face à des documents toujours plus longs, fonctionnaires et juristes doivent consacrer davantage de temps à leur traitement.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Cinq pays de l'UE dévoilent les contours de leurs centres pour les déboutés de l'asile au Rwanda",
-   "link": "https://www.rts.ch/info/monde/2026/article/asile-5-pays-de-l-ue-prevoient-de-creer-un-centre-au-rwanda-29417826.html?rts_source=rss_t",
-   "date": "2026-11-16T20:02:46+00:00",
-   "summary": "Cinq pays de l'UE, dont l'Allemagne et le Danemark, ont détaillé lundi le projet d'ouvrir au Rwanda, dès 2027, un premier centre destiné aux personnes migrantes expulsées d'Europe. Cette initiative, présentée comme \"historique\", suscite de vives inquiétudes chez les défenseurs…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "Après une interruption, le trafic ferroviaire est rétabli sur la ligne Lausanne-Brigue",
-   "link": "https://www.rts.ch/info/regions/vaud/2026/article/trafic-cff-la-ligne-lausanne-brig-interrompue-ce-lundi-soir-29418000.html?rts_source=rss_t",
-   "date": "2026-11-16T19:10:15+00:00",
-   "summary": "Le trafic ferroviaire sur la ligne Lausanne-Brigue est rétabli entre Lausanne et Roche (VD). Les CFF ont annoncé la fin de la perturbation peu après 22h. Quelques retards et suppressions restaient possibles lundi soir.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
    "title": "Ce qui attend la France ce mardi (16/11)",
    "link": "https://shows.acast.com/les-actus-du-jour-hugo-decrypte/episodes/ce-qui-attend-la-france-ce-mardi-1611",
    "date": "2026-11-16T18:57:28+00:00",
    "summary": "Chaque jour, en moins de 10 minutes, un résumé de l’actualité du jour. Rapide, facile, accessible. 📺 Pour découvrir et vous abonner à notre chaine YouTube \"Grands Formats\" (interviews, enquêtes, reportages) : hugodecrypte.com/grands-formats 💼 Pour trouver un stage, alternance ou CDD/CDI : hugodecrypte.com/jobboard 🗞️ L'essentiel de l'actualité, gratuitement, par email : hugodecrypte.com/newsletter Et pour suivre l'actualité sur Instagram : hugodecrypte.com/insta-hd 🔗 DES LIENS POUR EN SAVOIR PLUS 17 NOVEMBRE : Le Parisien , 20 Minutes , Le Monde , Capital GÉRARD DEPARDIEU : Franceinfo , Le Monde UKRAINE RUSSIE : France 24 , Franceinfo RÉPUBLIQUE TCHÈQUE : France 24 , Franceinfo STARSHIP : Libération , Franceinfo AMENDEMENT VODY : Ouest France , BFMTV FERTILITÉ : RFI , Franceinfo Écriture : Blanche Vathonne - Léah Boukobza - Samy Rabbata - Eden Ayach - Hugo Travers Hébergé par Acast. Visitez acast.com/privacy pour plus d'informations.",
    "source": "HugoDécrypte (podcast)",
-   "section": "international"
-  },
-  {
-   "title": "L'inflation a bien atteint 3,4% sur un an en octobre, selon l'Insee",
-   "link": "https://www.cbnews.fr/etudes/inflation-bien-atteint-34-an-octobre-insee",
-   "date": "2026-11-16T18:26:12+00:00",
-   "summary": "L'inflation a bien atteint 3,4% sur un an en octobre, selon l'Insee L'inflation a bien atteint 3,4% sur un an en octobre, selon l'Insee dahlia.girgis lun 16/11/2026 - 19:26 Etudes",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Qu'est-ce qui peut remplacer les antibiotiques?",
-   "link": "https://www.rts.ch/info/sante/2026/article/antibioresistance-comment-remplacer-les-antibiotiques-29417883.html?rts_source=rss_t",
-   "date": "2026-11-16T18:26:07+00:00",
-   "summary": "Certaines bactéries sont devenues résistantes aux antibiotiques. Résultat: des infections devenues difficiles à soigner, qui provoquent environ 300 décès par an en Suisse, selon l’OFSP. Dans le podcast Le Point J, la microbiologiste et professeure assistante à l’EPFL Camille…",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "43% des 12-17 ans utilisent l’IA quotidiennement",
-   "link": "https://www.cbnews.fr/etudes/43-12-17-ans-utilisent-ia-quotidiennement",
-   "date": "2026-11-16T18:26:03+00:00",
-   "summary": "43% des 12-17 ans utilisent l’IA quotidiennement 43% des 12-17 ans utilisent l’IA quotidiennement thierry.wojciak lun 16/11/2026 - 19:26 Etudes",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Havas Life Paris transforme la formation des délégués médicaux en compétition",
-   "link": "https://www.cbnews.fr/conseil/havas-life-paris-transforme-formation-delegues-medicaux-competition",
-   "date": "2026-11-16T18:25:55+00:00",
-   "summary": "Havas Life Paris transforme la formation des délégués médicaux en compétition Havas Life Paris transforme la formation des délégués médicaux en compétition thierry.wojciak lun 16/11/2026 - 19:25 Conseil",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Égalité salariale : Les Glorieuses investissent le métro parisien",
-   "link": "https://www.cbnews.fr/marques/egalite-salariale-les-glorieuses-investissent-metro-parisien",
-   "date": "2026-11-16T18:25:43+00:00",
-   "summary": "Égalité salariale : Les Glorieuses investissent le métro parisien Égalité salariale : Les Glorieuses investissent le métro parisien thierry.wojciak lun 16/11/2026 - 19:25 Marques",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "JouéClub dévoile Joé avec Publicis Fauve",
-   "link": "https://www.cbnews.fr/marques/joueclub-devoile-joe-avec-publicis-fauve",
-   "date": "2026-11-16T18:25:30+00:00",
-   "summary": "JouéClub dévoile Joé avec Publicis Fauve JouéClub dévoile Joé avec Publicis Fauve thierry.wojciak lun 16/11/2026 - 19:25 Marques",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Metalyde Group rachète l’agence Scalevision",
-   "link": "https://www.cbnews.fr/conseil/metalyde-group-rachete-agence-scalevision",
-   "date": "2026-11-16T18:25:22+00:00",
-   "summary": "Metalyde Group rachète l’agence Scalevision Metalyde Group rachète l’agence Scalevision thierry.wojciak lun 16/11/2026 - 19:25 Conseil",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Limite change de mains et accélère dans la communication sociétale",
-   "link": "https://www.cbnews.fr/conseil/limite-change-mains-accelere-communication-societale",
-   "date": "2026-11-16T18:25:13+00:00",
-   "summary": "Limite change de mains et accélère dans la communication sociétale Limite change de mains et accélère dans la communication sociétale thierry.wojciak lun 16/11/2026 - 19:25 Conseil",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Pizza Hut choisit Syd pour développer son concept de pizza à la part",
-   "link": "https://www.cbnews.fr/conseil/pizza-hut-choisit-syd-developper-son-concept-pizza-part",
-   "date": "2026-11-16T18:25:03+00:00",
-   "summary": "Pizza Hut choisit Syd pour développer son concept de pizza à la part Pizza Hut choisit Syd pour développer son concept de pizza à la part thierry.wojciak lun 16/11/2026 - 19:25 Conseil",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Nathalie Avedissian devient Deputy General Manager de Mazarine Stories (Mazarine Group)",
-   "link": "https://www.cbnews.fr/mouvements/nathalie-avedissian-devient-deputy-general-manager-mazarine-stories-mazarine-group",
-   "date": "2026-11-16T18:24:54+00:00",
-   "summary": "Nathalie Avedissian devient Deputy General Manager de Mazarine Stories (Mazarine Group) Nathalie Avedissian devient Deputy General Manager de Mazarine Stories (Mazarine Group) thierry.wojciak lun 16/11/2026 - 19:24 Mouvements",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Nickel confie sa nouvelle plateforme de communication européenne à VML",
-   "link": "https://www.cbnews.fr/conseil/nickel-confie-sa-nouvelle-plateforme-communication-europeenne-vml",
-   "date": "2026-11-16T18:24:44+00:00",
-   "summary": "Nickel confie sa nouvelle plateforme de communication européenne à VML Nickel confie sa nouvelle plateforme de communication européenne à VML thierry.wojciak lun 16/11/2026 - 19:24 Conseil",
-   "source": "CB News",
-   "section": "com-france"
-  },
-  {
-   "title": "Lundi 16.11.2026",
-   "link": "https://canal9.ch/fr/lundi-16-11-2026/",
-   "date": "2026-11-16T18:00:00+00:00",
-   "summary": "",
-   "source": "Canal9",
-   "section": "valais"
-  },
-  {
-   "title": "Wednesday, Nov. 11 Daily Cable News Ratings: CNN First in Adults 25-54 Demo",
-   "link": "https://www.adweek.com/tvnewser/wednesday-nov-11-2026-daily-cable-news-ratings/",
-   "date": "2026-11-16T17:40:36+00:00",
-   "summary": "Fox News programs were most-watched in total viewers.",
-   "source": "Adweek",
    "section": "international"
   },
   {
@@ -811,68 +979,12 @@
    "section": "com-suisse"
   },
   {
-   "title": "Tuesday, Nov. 10 Daily Cable News Ratings: Across the Board Wins for Fox News",
-   "link": "https://www.adweek.com/tvnewser/tuesday-nov-10-2026-daily-cable-news-ratings/",
-   "date": "2026-11-16T17:32:36+00:00",
-   "summary": "MS NOW's The Weeknight was in first place in the demo at 7 p.m. ET.",
-   "source": "Adweek",
-   "section": "international"
-  },
-  {
-   "title": "Bezahlen mit TWINT: Das ändert sich bei Raiffeisen",
-   "link": "https://canal9.ch/de/bezahlen-mit-twint-das-andert-sich-bei-raiffeisen/",
-   "date": "2026-11-16T17:17:16+00:00",
-   "summary": "Eine zusätzliche App soll die Nutzer besser vor Missbrauch schützen. Kundenberaterin Ajla Bronja erklärt die Umstellung und warnt vor Betrugsmaschen.",
-   "source": "Canal9",
-   "section": "valais"
-  },
-  {
-   "title": "TAGESINFO vom 16.11.2026",
-   "link": "https://canal9.ch/de/tagesinfo-vom-16-11-2026/",
-   "date": "2026-11-16T17:01:35+00:00",
-   "summary": "ROBOTER IM BÄDERDORF Leukerbad: Am Robot Carnival 2026 treffen Technik und Kreativität aufeinander. ZUM SCHUTZ VOR BETRUG Als erste Bank führt Raiffeisen eine zusätzliche App für gewisse Twint-Zahlungen ein. SPIELEN",
-   "source": "Canal9",
-   "section": "valais"
-  },
-  {
    "title": "What it will take for CMOs to reach the next frontier of AI-driven growth",
    "link": "https://digiday.com/sponsored/what-it-will-take-for-cmos-to-reach-the-next-frontier-of-ai-driven-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
    "date": "2026-11-16T17:00:00+00:00",
    "summary": "Diego Lomanto, CMO, Writer CMOs at the largest enterprise brands across consumer goods, financial services, B2B and more are all struggling with the same thing: more AI technology has not translated into more business growth. They’re stuck chasing efficiency gains, funding tools…",
    "source": "Digiday",
    "section": "international"
-  },
-  {
-   "title": "«Il faut trouver une solution locale» Urs Guntern, directeur du raclette AOP",
-   "link": "https://canal9.ch/fr/il-faut-trouver-une-solution-locale-urs-guntern-directeur-du-raclette-aop/",
-   "date": "2026-11-16T16:52:39+00:00",
-   "summary": "Dès l’annonce du retrait progressif de Cremo en Valais, le canton et les acteurs des filières du lait et du fromage se sont réunis. Les syndicats chrétiens se sont aussi",
-   "source": "Canal9",
-   "section": "valais"
-  },
-  {
-   "title": "Loïc Meillard, 2e à Levi: «Du ski solide sans être parfait»",
-   "link": "https://canal9.ch/fr/loic-meillard-2e-a-levi-du-ski-solide-sans-etre-parfait/",
-   "date": "2026-11-16T16:49:28+00:00",
-   "summary": "Hier en Finlande, Loïc Meillard a pris la 3e place du slalom de Levi. Huitième après la première manche, le champion olympique a signé une belle remontée. Il confirme sa",
-   "source": "Canal9",
-   "section": "valais"
-  },
-  {
-   "title": "Cinema 11.11.2026",
-   "link": "https://canal9.ch/de/cinema-11-11-2026-2/",
-   "date": "2026-11-16T16:13:01+00:00",
-   "summary": "Die neusten Blockbuster in den Oberwalliser Kinos. https://www.kino-oberwallis.ch/",
-   "source": "Canal9",
-   "section": "valais"
-  },
-  {
-   "title": "Leukerbad: Am Robot Carnival 2026 treffen Technik und Kreativität aufeinander.",
-   "link": "https://canal9.ch/de/leukerbad-am-robot-carnival-2026-treffen-technik-und-kreativitat-aufeinander/",
-   "date": "2026-11-16T15:45:23+00:00",
-   "summary": "",
-   "source": "Canal9",
-   "section": "valais"
   },
   {
    "title": "Jensen Huang bientôt de retour chez Nvidia ? Elon Musk et le fondateur d’Uber montent au créneau",
@@ -923,14 +1035,6 @@
    "section": "com-france"
   },
   {
-   "title": "Taxi Questions – Course 341 avec Aurélien Roduit",
-   "link": "https://canal9.ch/fr/taxi-questions-course-341-avec-aurelien-roduit/",
-   "date": "2026-11-16T14:44:20+00:00",
-   "summary": "",
-   "source": "Canal9",
-   "section": "valais"
-  },
-  {
    "title": "Emails, présentations, cartes de visite : comment Letsignit harmonise l’image de marque des entreprises",
    "link": "https://www.blogdumoderateur.com/emails-presentations-cartes-visite-letsignit/",
    "date": "2026-11-16T13:00:57+00:00",
@@ -969,14 +1073,6 @@
    "summary": "Ce qu'il faut retenir : Selon Google, les temps de réponse plus rapides d'un CDN incitent ses robots à relever progressivement la limite de capacité d'exploration du site, ce qui peut augmenter le volume de crawl peu après la migration. Un CDN démarre avec un cache vide : chaque…",
    "source": "Abondance",
    "section": "com-france"
-  },
-  {
-   "title": "Trikot und Tastenhandy als Türöffner",
-   "link": "https://www.persoenlich.com/medien/trikot-und-tastenhandy-als-turoffner",
-   "date": "2026-11-16T09:55:00+01:00",
-   "summary": "Die grossen Schweizer Verlage werben diesen Herbst mit Fussballtrikots, Vignetten und Preisnachlässen um neue Abonnentinnen und Abonnenten. Ob die so gewonnene Kundschaft bleibt, beurteilen sie unterschiedlich.",
-   "source": "watson.ch",
-   "section": "romandie"
   },
   {
    "title": "Les meilleurs modèles pour piloter des agents IA en novembre 2026",
@@ -1043,14 +1139,6 @@
    "section": "com-france"
   },
   {
-   "title": "Havas Genève veut changer le regard sur les cliniques privées",
-   "link": "https://cominmag.ch/havas-geneve-veut-changer-le-regard-sur-les-cliniques-privees/",
-   "date": "2026-11-16T06:14:09+00:00",
-   "summary": "Dans le domaine de la santé, la perception d’une marque ou d’une institution peut influencer directement les comportements. Les cliniques privées en font l’expérience : leur réputation de qualité constitue un atout, mais leur image d’établissements exclusifs peut aussi dissuader…",
-   "source": "Cominmag",
-   "section": "com-suisse"
-  },
-  {
    "title": "Iron Man est protégé, le style des artistes non : l’angle mort du droit d’auteur face à l’IA",
    "link": "https://www.blogdumoderateur.com/iron-man-protege-style-artistes-angle-mort-droit-auteur-ia/",
    "date": "2026-11-16T06:00:58+00:00",
@@ -1103,22 +1191,6 @@
    "link": "https://shows.acast.com/les-actus-du-jour-hugo-decrypte/episodes/itw-sdm",
    "date": "2026-11-15T13:25:07+00:00",
    "summary": "📺 Notre chaîne \"Actus du jour\" : https://www.youtube.com/@hugodecrypteactus 📲 L’actualité au quotidien sur Instagram : https://hugodecrypte.com/insta-hd 📲 L’actualité au quotidien sur TikTok : https://hugodecrypte.com/tiktok-hd 🗞️ L'essentiel de l'actualité, gratuitement, par email : https://hugodecrypte.com/newsletter-hd 📱 Retrouvez aussi : 🍿 L'actualité culturelle : https://hugodecrypte.com/insta-pop ⚽️ L'actualité sportive : https://hugodecrypte.com/insta-sport 🦁 L’actualité à Lyon : https://hugodecrypte.com/insta-lyon 🏖️ L’actualité à Marseille : https://hugodecrypte.com/insta-marseille 🍁 L’actualité au Québec : https://hugodecrypte.com/insta-quebec 🧭 Elan, le média pour vous accompagner dans votre vie d'adulte : https://hugodecrypte.com/insta-elan 🌐 Notre jobboard pour trouver un travail, une alternance ou un stage : https://hugodecrypte.com/jobboard 📚 Ma BD disponible partout : https://hugodecrypte.com/bd SDM en concert exceptionnel au Stade de France les 29 et 30 mai 2027 et en tournée des Zéniths dans toute la France. Billetterie ouverte : https://sdmocho.store/pages/tournee Nouvel album INFINITUM disponible depuis le 13 novembre 2026 : https://sdmocho.store/ Pour suivre SDM : https://www.instagram.com/sdm__92/?hl=fr ——— 00:01:37 : « J’aimerais être éternel » 00:04:50 : « Je suis un bousillé de foot » 00:09:39 : « Qu’est-ce que je fais de ma vie ? » 00:14:42 : « J’avais pas vécu ça depuis ces années-là » 00:17:27 : « Je le dois à ma mère, à mon pays » 00:20:03 : « Il faut qu’on soit dans les urnes, il faut qu’on soit dans la rue » 00:26:27 : JEU « les feat de rêve » 00:28:31 : « Ça se trouve ce sera un vrai flop » 00:32:43 : « Le Stade de France a ouvert ses portes au rap français » 00:43:22 : « Sold out toutes les dates » 00:46:14 : « Là faut que je m’isole » 00:51:41 : « Mission réussie » 00:54:47 : JEU « Oui/Non » 00:58:47 : « Je me retiens beaucoup de pleurer » ——— Vidéo produite par HugoDécrypte Entretien écrit et mené par Hugo Travers Avec la participation de SDM Journalistes : Blanche Vathonne, Hugo Travers Programmateur : Clément Chaulet Cadreurs : Noé Périquet, Benjamin Carrion Ingénieur du son : Ines Dos Santos Maquilleuse : Noémie Rocca Montage : Alexandre Soubeyrand Étalonnage : Vanon Borget Mixage : Arthaud Versaveaud Miniature : Doryan Hincker, Ornella Zucchini Producteur : Aubin Talbi Coordinateur éditorial : Clément Chaulet Chargée de production : Mathilde Marsiglia Chargée de post-production : Mallorie Escavabaja Administratrice de production : Sterenn Hall Crédits musiques : Artlist Crédits images : Abaca / Reuters / Maxppp / SLK FILMS / Nouvelle école, Netflix (2026) / Nouvelle école, Netflix (2023) / Angèle - Démons feat. Damso (2021) / Ninho : Le prix à payer, Netflix (2026) / PLKTV / DORETDEPLATINE / Stade De France / The Bridge, Disney+ (2026) / IN INFINITUM HDMEDIA / UNFOLD PRODUCTION 2026 Hébergé par Acast. Visitez acast.com/privacy pour plus d'informations.",
-   "source": "HugoDécrypte (podcast)",
-   "section": "international"
-  },
-  {
-   "title": "Doreen Bogdan-Martin réélue à la tête de l’UIT pour un second mandat",
-   "link": "https://cominmag.ch/doreen-bogdan-martin-reelue-a-la-tete-de-luit-pour-un-second-mandat/",
-   "date": "2026-11-15T07:26:28+00:00",
-   "summary": "Doreen Bogdan-Martin a été réélue le 12 novembre 2026 au poste de secrétaire générale de l’Union internationale des télécommunications (UIT), l’agence des Nations unies. Son second mandat sera marqué par trois priorités : réduire la fracture numérique, accompagner le…",
-   "source": "Cominmag",
-   "section": "com-suisse"
-  },
-  {
-   "title": "La fin annoncée de Shein et Temu, ils ripostent (14/11)",
-   "link": "https://shows.acast.com/les-actus-du-jour-hugo-decrypte/episodes/la-fin-annoncee-de-shein-et-temu-ils-ripostent-1411",
-   "date": "2026-11-14T19:29:47+00:00",
-   "summary": "Chaque jour, en moins de 10 minutes, un résumé de l’actualité du jour. Rapide, facile, accessible. 📺 Pour découvrir et vous abonner à notre chaine YouTube \"Grands Formats\" (interviews, enquêtes, reportages) : hugodecrypte.com/grands-formats 💼 Pour trouver un stage, alternance ou CDD/CDI : hugodecrypte.com/jobboard 🗞️ L'essentiel de l'actualité, gratuitement, par email : hugodecrypte.com/newsletter Et pour suivre l'actualité sur Instagram : hugodecrypte.com/insta-hd 🔗 DES LIENS POUR EN SAVOIR PLUS TAXE PETITS COLIS : Toute l’Europe , Les Echos , Le Figaro MANIFESTATIONS : Franceinfo , TF1 UKRAINE : Le Parisien , CNN ÉTATS-UNIS : Franceinfo , Courrier International MICROSOFT : BFM , Le Monde EURO MILLION : Ouest-France , Le Parisien Écriture : Blanche Vathonne - Léah Boukobza - Samy Rabbata - Hugo Travers Hébergé par Acast. Visitez acast.com/privacy pour plus d'informations.",
    "source": "HugoDécrypte (podcast)",
    "section": "international"
   }
