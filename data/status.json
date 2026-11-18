@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:43:08.366245+00:00",
+ "generated_at": "2026-11-18T13:29:17.409279+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 12
+   "kept": 20
   },
   {
    "name": "CB News",
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 3
+   "kept": 4
   },
   {
    "name": "Adweek",
@@ -104,14 +104,14 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 11
+   "kept": 15
   },
   {
    "name": "HugoDécrypte (podcast)",
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2015,
+   "items_in_feed": 2016,
    "kept": 4
   }
  ]
