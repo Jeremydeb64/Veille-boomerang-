@@ -1,46 +1,46 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "source": "Picsum / Unsplash",
  "photos": [
   {
    "file": "wp-1.jpg",
-   "author": "Julie Geiger",
-   "url": "https://unsplash.com/photos/dYshDcTI1Js"
+   "author": "Paula Vermeulen",
+   "url": "https://unsplash.com/photos/_f2m3mEkaaU"
   },
   {
    "file": "wp-2.jpg",
-   "author": "Lou Levit",
-   "url": "https://unsplash.com/photos/umcc42T8fD4"
+   "author": "Nick Turner",
+   "url": "https://unsplash.com/photos/0EjvnhOkPLM"
   },
   {
    "file": "wp-3.jpg",
-   "author": "Vadim Sherbakov",
-   "url": "https://unsplash.com/photos/osSryggkso4"
+   "author": "Glen Carrie",
+   "url": "https://unsplash.com/photos/FjjUVn_KHLU"
   },
   {
    "file": "wp-4.jpg",
    "author": "Alejandro Escamilla",
-   "url": "https://unsplash.com/photos/cZhUxIQjILg"
+   "url": "https://unsplash.com/photos/jVb0mSn0LbE"
   },
   {
    "file": "wp-5.jpg",
-   "author": "Ireneuilia",
-   "url": "https://unsplash.com/photos/knYQ6arClBE"
+   "author": "Florian Klauer",
+   "url": "https://unsplash.com/photos/-K6JMRMj4x4"
   },
   {
    "file": "wp-6.jpg",
-   "author": "Nick West",
-   "url": "https://unsplash.com/photos/4M-5WBrG5-c"
+   "author": "Tyler Finck",
+   "url": "https://unsplash.com/photos/Cs4QZdHrHt4"
   },
   {
    "file": "wp-7.jpg",
-   "author": "Kelly Sikkema",
-   "url": "https://unsplash.com/photos/X7dy114KWs4"
+   "author": "Ramiro Checchi",
+   "url": "https://unsplash.com/photos/BpN4qo98j-Y"
   },
   {
    "file": "wp-8.jpg",
-   "author": "Nicholas Swanson",
-   "url": "https://unsplash.com/photos/agnhLQWqr1Q"
+   "author": "Casey Fyfe",
+   "url": "https://unsplash.com/photos/zJnpPhF4HyY"
   }
  ]
 }
