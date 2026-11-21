@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:57:16.940169+00:00",
+ "generated_at": "2026-11-21T22:25:04.824856+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -7,7 +7,7 @@
    "section": "valais",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14909747585599268409",
    "ok": true,
-   "items_in_feed": 18,
+   "items_in_feed": 15,
    "kept": 0
   },
   {
@@ -111,7 +111,7 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2023,
+   "items_in_feed": 2024,
    "kept": 6
   }
  ]
