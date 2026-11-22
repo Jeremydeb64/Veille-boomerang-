@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-22T10:20+00:00",
+ "updated": "2026-11-22T23:51+00:00",
  "villes": [
   {
    "ville": "Sierre",
-   "temp": 5,
-   "code": 61,
-   "ciel": "Pluie faible",
-   "min": 4,
-   "max": 8
-  },
-  {
-   "ville": "Lausanne",
    "temp": 7,
    "code": 61,
    "ciel": "Pluie faible",
+   "min": 3,
+   "max": 9
+  },
+  {
+   "ville": "Lausanne",
+   "temp": 8,
+   "code": 61,
+   "ciel": "Pluie faible",
    "min": 6,
-   "max": 10
+   "max": 8
   }
  ]
 }
