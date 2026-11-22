@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:25:04.824856+00:00",
+ "generated_at": "2026-11-22T02:39:55.357273+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -7,7 +7,7 @@
    "section": "valais",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14909747585599268409",
    "ok": true,
-   "items_in_feed": 15,
+   "items_in_feed": 17,
    "kept": 0
   },
   {
