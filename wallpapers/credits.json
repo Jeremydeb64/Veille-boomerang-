@@ -1,46 +1,46 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "source": "Picsum / Unsplash",
  "photos": [
   {
    "file": "wp-1.jpg",
-   "author": "Ryan Jacques",
-   "url": "https://unsplash.com/photos/ywiAen4L4qA"
+   "author": "Philipp Reiner",
+   "url": "https://unsplash.com/photos/M8PV59TCj6E"
   },
   {
    "file": "wp-2.jpg",
-   "author": "Danka & Peter",
-   "url": "https://unsplash.com/photos/3FN6tlvTjwM"
+   "author": "Levi Saunders",
+   "url": "https://unsplash.com/photos/1nz-KjRdg-s"
   },
   {
    "file": "wp-3.jpg",
-   "author": "Chris Adams",
-   "url": "https://unsplash.com/photos/kzhbVDBDdlc"
+   "author": "Marcin Czerwinski",
+   "url": "https://unsplash.com/photos/2wugfiddtXw"
   },
   {
    "file": "wp-4.jpg",
-   "author": "Martyn Seddon",
-   "url": "https://unsplash.com/photos/7iB4OZDlRok"
+   "author": "Jon Ottosson",
+   "url": "https://unsplash.com/photos/Xg1e5bR_bL4"
   },
   {
    "file": "wp-5.jpg",
-   "author": "Alexandr Schwarz",
-   "url": "https://unsplash.com/photos/2eNAQUigzI0"
+   "author": "Dustin Scarpitti",
+   "url": "https://unsplash.com/photos/gR_zHJqbtzo"
   },
   {
    "file": "wp-6.jpg",
-   "author": "Jon Phillips",
-   "url": "https://unsplash.com/photos/XsPM2CBTTpI"
+   "author": "Sven Schlager",
+   "url": "https://unsplash.com/photos/xzjouTJASSA"
   },
   {
    "file": "wp-7.jpg",
-   "author": "Luke Chesser",
-   "url": "https://unsplash.com/photos/pFqrYbhIAXs"
+   "author": "Alejandro Escamilla",
+   "url": "https://unsplash.com/photos/du_OrQAA4r0"
   },
   {
    "file": "wp-8.jpg",
-   "author": "Christian Bardenhorst",
-   "url": "https://unsplash.com/photos/8lMhzUjD1Wk"
+   "author": "Ariana Prestes",
+   "url": "https://unsplash.com/photos/RwNd3xQhjNs"
   }
  ]
 }
