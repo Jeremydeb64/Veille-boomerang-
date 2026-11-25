@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:06:05.959579+00:00",
+ "generated_at": "2026-11-25T10:30:31.170273+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -22,9 +22,8 @@
    "name": "RTS Info",
    "section": "romandie",
    "url": "https://www.rts.ch/info/?format=rss/news",
-   "ok": true,
-   "items_in_feed": 25,
-   "kept": 25
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "RTS Sport",
@@ -64,7 +63,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 7
+   "kept": 10
   },
   {
    "name": "CB News",
@@ -88,7 +87,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 8
+   "kept": 9
   },
   {
    "name": "Adweek",
@@ -104,7 +103,7 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 12
+   "kept": 15
   },
   {
    "name": "HugoDécrypte (podcast)",
