@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:30:31.170273+00:00",
+ "generated_at": "2026-11-25T20:12:50.377171+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -22,8 +22,9 @@
    "name": "RTS Info",
    "section": "romandie",
    "url": "https://www.rts.ch/info/?format=rss/news",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "items_in_feed": 25,
+   "kept": 25
   },
   {
    "name": "RTS Sport",
@@ -79,7 +80,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 11
+   "kept": 18
   },
   {
    "name": "Abondance",
@@ -87,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 9
+   "kept": 11
   },
   {
    "name": "Adweek",
@@ -110,8 +111,8 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2028,
-   "kept": 4
+   "items_in_feed": 2030,
+   "kept": 6
   }
  ]
 }
