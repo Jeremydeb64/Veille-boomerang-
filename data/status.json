@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:27:46.182064+00:00",
+ "generated_at": "2026-11-25T01:06:05.959579+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -31,8 +31,8 @@
    "section": "romandie",
    "url": "https://www.google.ch/alerts/feeds/14496248055981864364/14102030062020538480",
    "ok": true,
-   "items_in_feed": 1,
-   "kept": 1
+   "items_in_feed": 0,
+   "kept": 0
   },
   {
    "name": "Le Temps",
@@ -56,7 +56,7 @@
    "url": "https://www.cominmag.ch/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 14
+   "kept": 20
   },
   {
    "name": "Blog du Modérateur",
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 7
+   "kept": 8
   },
   {
    "name": "Adweek",
@@ -111,7 +111,7 @@
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2027,
+   "items_in_feed": 2028,
    "kept": 4
   }
  ]

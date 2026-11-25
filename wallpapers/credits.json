@@ -1,46 +1,46 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "source": "Picsum / Unsplash",
  "photos": [
   {
    "file": "wp-1.jpg",
-   "author": "Philipp Reiner",
-   "url": "https://unsplash.com/photos/M8PV59TCj6E"
+   "author": "Thong Vo",
+   "url": "https://unsplash.com/photos/g28MgVK85bQ"
   },
   {
    "file": "wp-2.jpg",
-   "author": "Levi Saunders",
-   "url": "https://unsplash.com/photos/1nz-KjRdg-s"
+   "author": "Jake Givens",
+   "url": "https://unsplash.com/photos/ocwmWiNAWGs"
   },
   {
    "file": "wp-3.jpg",
-   "author": "Marcin Czerwinski",
-   "url": "https://unsplash.com/photos/2wugfiddtXw"
+   "author": "Aleksi Tappura",
+   "url": "https://unsplash.com/photos/hVOv8me9ue8"
   },
   {
    "file": "wp-4.jpg",
-   "author": "Jon Ottosson",
-   "url": "https://unsplash.com/photos/Xg1e5bR_bL4"
+   "author": "Griffin Keller",
+   "url": "https://unsplash.com/photos/7oS_26cb1Wo"
   },
   {
    "file": "wp-5.jpg",
-   "author": "Dustin Scarpitti",
-   "url": "https://unsplash.com/photos/gR_zHJqbtzo"
+   "author": "Tirza van Dijk",
+   "url": "https://unsplash.com/photos/Tn4Su6l4j_s"
   },
   {
    "file": "wp-6.jpg",
-   "author": "Sven Schlager",
-   "url": "https://unsplash.com/photos/xzjouTJASSA"
+   "author": "petradr",
+   "url": "https://unsplash.com/photos/8hgm6mKK04U"
   },
   {
    "file": "wp-7.jpg",
-   "author": "Alejandro Escamilla",
-   "url": "https://unsplash.com/photos/du_OrQAA4r0"
+   "author": "Geoffrey Arduini",
+   "url": "https://unsplash.com/photos/VOmYzrXpR_4"
   },
   {
    "file": "wp-8.jpg",
-   "author": "Ariana Prestes",
-   "url": "https://unsplash.com/photos/RwNd3xQhjNs"
+   "author": "José Martín",
+   "url": "https://unsplash.com/photos/Gauk-pFdvKk"
   }
  ]
 }
