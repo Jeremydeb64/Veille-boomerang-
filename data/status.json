@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T03:08:23.407753+00:00",
+ "generated_at": "2026-11-26T13:11:45.646864+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -24,7 +24,7 @@
    "url": "https://www.rts.ch/info/?format=rss/news",
    "ok": true,
    "items_in_feed": 25,
-   "kept": 25
+   "kept": 24
   },
   {
    "name": "RTS Sport",
@@ -64,7 +64,7 @@
    "url": "https://www.blogdumoderateur.com/feed/",
    "ok": true,
    "items_in_feed": 30,
-   "kept": 10
+   "kept": 12
   },
   {
    "name": "CB News",
@@ -80,7 +80,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 18
+   "kept": 20
   },
   {
    "name": "Abondance",
@@ -104,14 +104,14 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 15
+   "kept": 12
   },
   {
    "name": "HugoDécrypte (podcast)",
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2030,
+   "items_in_feed": 2031,
    "kept": 6
   }
  ]
