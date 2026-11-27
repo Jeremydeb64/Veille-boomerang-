@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:33:43.494430+00:00",
+ "generated_at": "2026-11-27T14:23:08.358646+00:00",
  "window_hours": 72,
  "sources": [
   {
@@ -80,7 +80,7 @@
    "url": "https://siecledigital.fr/feed/",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 18
+   "kept": 19
   },
   {
    "name": "Abondance",
@@ -88,7 +88,7 @@
    "url": "https://www.abondance.com/feed",
    "ok": true,
    "items_in_feed": 20,
-   "kept": 10
+   "kept": 8
   },
   {
    "name": "Adweek",
@@ -104,14 +104,14 @@
    "url": "https://digiday.com/feed/",
    "ok": true,
    "items_in_feed": 15,
-   "kept": 11
+   "kept": 8
   },
   {
    "name": "HugoDécrypte (podcast)",
    "section": "international",
    "url": "https://feeds.acast.com/public/shows/95497e34-ecc2-596a-b910-bb3342918621",
    "ok": true,
-   "items_in_feed": 2032,
+   "items_in_feed": 2033,
    "kept": 6
   }
  ]
