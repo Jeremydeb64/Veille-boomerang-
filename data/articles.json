@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-27T22:57:53.962386+00:00",
+ "generated_at": "2026-11-28T04:57:55.884986+00:00",
  "window_hours": 72,
  "articles": [
+  {
+   "title": "En Irlande, les data centers, qui avalent 23% de l’électricité du pays, nourrissent de vifs débats",
+   "link": "https://www.letemps.ch/economie/en-irlande-les-data-centers-qui-avalent-23-de-l-electricite-du-pays-nourrissent-de-vifs-debats",
+   "date": "2026-11-28T05:30:05+01:00",
+   "summary": "Le Grand Dublin concentre l’essentiel des dizaines de centres de données du pays. Leur expansion rapide génère des coûts énergétiques et environnementaux colossaux. Les exploitants de ces infrastructures sont désormais contraints d’investir dans les énergies renouvelables. Mais…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Avec l’arrivée en force d’Anthropic, Zurich devient un pôle majeur en intelligence artificielle. L’Arc lémanique et l’EPFL sont-ils relégués en seconde zone?",
+   "link": "https://www.letemps.ch/cyber/intelligence-artificielle/avec-l-arrivee-en-force-d-anthropic-zurich-devient-un-pole-majeur-en-intelligence-artificielle-l-arc-lemanique-et-l-epfl-sont-ils-relegues-en-seconde-zone",
+   "date": "2026-11-28T05:30:05+01:00",
+   "summary": "Anthropic va installer jusqu’à 150 ingénieurs dans la cité alémanique, rejoignant Google, Microsoft, Nvidia et OpenAI. La région lausannoise s’illustre avec des levées de fonds spectaculaires dans la santé et les semi-conducteurs C’est un géant de l’intelligence artificielle qui…",
+   "source": "Le Temps",
+   "section": "romandie"
+  },
+  {
+   "title": "Apple et OpenAI s'accusent mutuellement d'espionnage industriel",
+   "link": "https://www.rts.ch/info/sciences-tech/2026/article/apple-et-openai-s-accusent-d-espionnage-industriel-29430789.html?rts_source=rss_t",
+   "date": "2026-11-28T03:11:36+00:00",
+   "summary": "OpenAI, le créateur de ChatGPT, a contre-attaqué vendredi en justice face à Apple, l'accusant à son tour de lui avoir dérobé des secrets industriels. Le géant de l'intelligence artificielle reproche aussi à Apple de faire pression sur des fournisseurs communs, afin de freiner…",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "L'armée israélienne annonce avoir éliminé deux collaborateurs de MSF",
+   "link": "https://www.rts.ch/info/monde/2026/article/bande-de-gaza-l-armee-israelienne-tue-deux-employes-de-msf-29430782.html?rts_source=rss_t",
+   "date": "2026-11-28T01:32:06+00:00",
+   "summary": "L'armée israélienne a affirmé avoir tué vendredi dans la bande de Gaza deux \"terroristes qui se faisaient passer pour des travailleurs humanitaires\" de Médecins sans frontières (MSF). L'ONG s'est déclarée \"bouleversée et révoltée\".",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
+  {
+   "title": "L'ex-directeur de cabinet de Marine Le Pen a fait l'objet d'une double perquisition",
+   "link": "https://www.rts.ch/info/monde/2026/article/marine-le-pen-perquisition-chez-son-ex-directeur-de-cabinet-29430766.html?rts_source=rss_t",
+   "date": "2026-11-28T00:43:16+00:00",
+   "summary": "Le bureau au siège du RN de l'ex-directeur de cabinet de la candidate à la présidentielle française Marine Le Pen a été perquisitionné le 9 novembre, dans l'enquête sur les fuites présumées d'éléments judiciaires. Une perquisition a aussi été menée à son domicile.",
+   "source": "RTS Info",
+   "section": "romandie"
+  },
   {
    "title": "Coninx-Vermögen tiefer eingeschätzt",
    "link": "https://www.persoenlich.com/medien/coninx-vermogen-tiefer-eingeschatzt",
@@ -395,22 +435,6 @@
    "section": "com-france"
   },
   {
-   "title": "Par «peur d’une blessure grave», le champion du monde de MotoGP Marc Márquez va mettre un terme à sa carrière",
-   "link": "https://www.letemps.ch/sport/par-peur-d-une-blessure-grave-le-champion-du-monde-de-motogp-marc-marquez-va-mettre-un-terme-a-sa-carriere",
-   "date": "2026-11-27T14:43:12+01:00",
-   "summary": "La fantastique remontée au classement de l’Espagnol de 33 ans restera son dernier fait d’armes: il a surpris tout le monde en annonçant sa retraite vendredi, pendant les préparatifs du dernier Grand Prix de la saison, à Valence L’Espagnol Marc Márquez, entré dans la légende du…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
-   "title": "Genève ne veut pas d’un péage urbain «pour le moment»",
-   "link": "https://www.letemps.ch/suisse/geneve/geneve-ne-veut-pas-d-un-peage-urbain-pour-le-moment",
-   "date": "2026-11-27T14:33:10+01:00",
-   "summary": "Le Grand Conseil s’est contenté de «prendre acte» d’une étude évaluant l’impact d’une telle infrastructure sur le trafic au centre-ville. Il a toutefois refusé d’inscrire son interdiction dans la Constitution ainsi que le réclamait l’UDC C’est bien connu: Genève est la capitale…",
-   "source": "Le Temps",
-   "section": "romandie"
-  },
-  {
    "title": "Jean-Claude Vannier, arrangeur de Gainsbourg et père de l''Histoire de Melody Nelson', est mort",
    "link": "https://www.rts.ch/info/culture/musiques/2026/article/jean-claude-vannier-l-arrangeur-historique-de-gainsbourg-est-mort-29430257.html?rts_source=rss_t",
    "date": "2026-11-27T14:31:13+00:00",
@@ -603,35 +627,11 @@
    "section": "com-france"
   },
   {
-   "title": "Après les chutes de neige abondantes, les stations ouvrent avant même l'arrivée de leurs saisonniers",
-   "link": "https://www.rts.ch/info/suisse/2026/article/saison-de-ski-ouverture-anticipee-des-stations-en-suisse-29429658.html?rts_source=rss_t",
-   "date": "2026-11-27T08:35:28+00:00",
-   "summary": "Les skieuses et skieurs sont attendus en nombre ce week-end sur les pistes pour l'ouverture d'une saison qui démarre bien: il n'avait plus neigé autant à cette période depuis près de 40 ans.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
    "title": "Die Stimmung dreht ins Positive",
    "link": "https://www.persoenlich.com/marketing/die-stimmung-dreht-ins-positive",
    "date": "2026-11-27T08:35:00+01:00",
    "summary": "25 Prozent der Schweizer Marketingverantwortlichen erwarten 2027 eine bessere Branchenlage, im Vorjahr waren es zehn Prozent. Die Budgets bleiben laut der Serviceplan-Studie trotzdem grösstenteils stabil.",
    "source": "watson.ch",
-   "section": "romandie"
-  },
-  {
-   "title": "Filmé sur dix ans, le documentaire 'Gabin' livre un récit initiatique puissant ★★★★★",
-   "link": "https://www.rts.ch/info/culture/cinema/2026/article/gabin-de-maxence-voiseux-un-recit-initiatique-puissant-29428364.html?rts_source=rss_t",
-   "date": "2026-11-27T08:12:46+00:00",
-   "summary": "Le cinéaste Maxence Voiseux suit un enfant de ses huit à ses dix-huit ans dans cet incroyable documentaire qui nous immerge dans le monde agricole. 'Gabin', sorti le 25 novembre, est un portrait rare du passage de l'enfance à l'adolescence, puis l'entrée dans l'âge adulte.",
-   "source": "RTS Info",
-   "section": "romandie"
-  },
-  {
-   "title": "L'UDC Genève échoue à faire interdire la venue du député LFI Raphaël Arnault",
-   "link": "https://www.rts.ch/info/regions/geneve/2026/article/raphael-arnault-l-udc-geneve-echoue-a-faire-interdire-sa-venue-29429610.html?rts_source=rss_t",
-   "date": "2026-11-27T07:56:31+00:00",
-   "summary": "Le député La France Insoumise Raphaël Arnault a été convié par l'Union Populaire genevoise vendredi soir à Genève pour une conférence. Mais son profil antifasciste irrite l'UDC, qui a tenté de faire interdire sa venue jusqu'au Grand Conseil. En vain.",
-   "source": "RTS Info",
    "section": "romandie"
   },
   {
